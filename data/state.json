@@ -1,0 +1,2436 @@
+{
+  "vector_store_id": "vs_6a4cea08235881918f7e9c6e07abe5b3",
+  "assistant_id": "asst_d1W7wMbRTTsWrdnZ9MHfGx93",
+  "articles": {
+    "53216900345875": {
+      "slug": "what-access-does-optisigns-have-to-my-account-and-devices",
+      "updated_at": "2026-07-06T15:29:04Z",
+      "hash": "b1c51d77b53a02aad7762e4ce3b8822e",
+      "file_id": "file-3XxRq7YP9XWyAf8A78SFRs"
+    },
+    "53095698149011": {
+      "slug": "using-the-japan-earthquake-app",
+      "updated_at": "2026-07-06T14:22:20Z",
+      "hash": "51cee73c20224f1a4a8070cc71e0085b",
+      "file_id": "file-74b4KeoDVEQjJ8FCSc68eC"
+    },
+    "53028011485715": {
+      "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
+      "updated_at": "2026-07-01T21:59:22Z",
+      "hash": "71d5e36d5d3af4f764e2bc698e5ab229",
+      "file_id": "file-V1RepaAqQQa3a8yHy5q1vg"
+    },
+    "52523606879251": {
+      "slug": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app",
+      "updated_at": "2026-06-11T22:24:43Z",
+      "hash": "a6b9c80b1f38fcc4857242acb22207b0",
+      "file_id": "file-2NY1xVcgY3GZS7XzGnSGRt"
+    },
+    "52412502456083": {
+      "slug": "connect-google-meet-hardware-to-optisigns-digital-signage",
+      "updated_at": "2026-06-15T19:14:07Z",
+      "hash": "691571756b0146da7daaa96a385c20e7",
+      "file_id": "file-35bjvbKwWU74kQzniN4U2i"
+    },
+    "52350277262483": {
+      "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
+      "updated_at": "2026-06-24T18:39:16Z",
+      "hash": "db1aa1d2f7bfb4ab7a64436a066a0f13",
+      "file_id": "file-WoWafz1SvaG7K598WZCmWP"
+    },
+    "52113036672403": {
+      "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
+      "updated_at": "2026-06-15T19:14:16Z",
+      "hash": "9a551408eab802439eeb38125e1d2c48",
+      "file_id": "file-6pwvjjFGTh2nBBbCQVRoyq"
+    },
+    "52069065128723": {
+      "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
+      "updated_at": "2026-06-11T22:22:00Z",
+      "hash": "b45a2631eea9fc7e2f3da79be465ec35",
+      "file_id": "file-3yLx44vSfPGwuAWN5QPo9z"
+    },
+    "51343184586643": {
+      "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
+      "updated_at": "2026-07-01T16:55:46Z",
+      "hash": "c6b4fb126b8d9f40d2f9a806f3dafb3f",
+      "file_id": "file-B7GMPTMyaLxxc9eUktasip"
+    },
+    "49039295567891": {
+      "slug": "chromeos-pwa-instructions",
+      "updated_at": "2026-05-05T15:48:27Z",
+      "hash": "83184daba9389d04c9fde319397daf1c",
+      "file_id": "file-9CvjDjr8kn3Lmms16NYkbt"
+    },
+    "48751096814995": {
+      "slug": "how-to-use-the-google-ads-dashboard-app",
+      "updated_at": "2026-02-02T17:54:16Z",
+      "hash": "0312ac169d9eaf4476efc27b842c0909",
+      "file_id": "file-Gp8DHVhnN2UcfjyVmSZ4PE"
+    },
+    "48656950622227": {
+      "slug": "how-to-use-the-google-search-console-app",
+      "updated_at": "2026-02-02T17:56:42Z",
+      "hash": "02155649e6369e5a69a19aaafe19666c",
+      "file_id": "file-XmoqWxaesoa79D6UW4bCqL"
+    },
+    "48626115821459": {
+      "slug": "how-to-use-the-youtube-dashboard-app",
+      "updated_at": "2026-02-02T15:32:55Z",
+      "hash": "2ef16c83f8a05b42da626b221ba5b1c5",
+      "file_id": "file-C2AxrU97MKGyoH4xTLqSMT"
+    },
+    "48241081473043": {
+      "slug": "operational-schedule-troubleshooting",
+      "updated_at": "2026-04-20T21:26:17Z",
+      "hash": "d3b7fbb378bef65bbeffe48e4b061633",
+      "file_id": "file-JzhN3BnqYHDvXxTqrZoevX"
+    },
+    "47616485609491": {
+      "slug": "how-to-use-the-optidev-app",
+      "updated_at": "2026-02-11T23:03:49Z",
+      "hash": "300262150be9880c9a0eefcd712a3213",
+      "file_id": "file-DM5JbJivL4s36ELfswbJRm"
+    },
+    "45619214182803": {
+      "slug": "how-to-set-up-an-outlook-calendar-app-with-shared-permissions",
+      "updated_at": "2025-10-17T16:01:18Z",
+      "hash": "7194eaaffe39f7369e092dcfbbdee517",
+      "file_id": "file-M8txQ8iW8oJJxpwZhiUS1E"
+    },
+    "44890229616403": {
+      "slug": "using-an-enterprise-network-802-1x-with-optisigns",
+      "updated_at": "2026-05-20T18:11:11Z",
+      "hash": "de3993cd0d807cb26b2e3b2f5f9a43dd",
+      "file_id": "file-AN3bTbGHLaBiUXgSNinwUX"
+    },
+    "43657735780627": {
+      "slug": "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations",
+      "updated_at": "2025-08-28T19:28:55Z",
+      "hash": "a594c9e205f63956aeb739a2acab3412",
+      "file_id": "file-4q8tufrgdGcqcUwW9aFft3"
+    },
+    "42087942047379": {
+      "slug": "getting-started-with-designer",
+      "updated_at": "2025-10-07T17:18:32Z",
+      "hash": "dc2da6b182632e9612fcd547dd3b8715",
+      "file_id": "file-Safoi6TLNTycQRZD78quHL"
+    },
+    "41432385864595": {
+      "slug": "designer-2-0-new-features",
+      "updated_at": "2026-05-12T14:17:09Z",
+      "hash": "27ea115d601b152b1fffa7f83f2b306d",
+      "file_id": "file-8daRHDTB79jGQF3YtVC8VE"
+    },
+    "40736654972563": {
+      "slug": "optisigns-pro-promax-player-troubleshooting-guide",
+      "updated_at": "2026-01-13T21:20:16Z",
+      "hash": "0e3713af78d1c2b7d6accd9afc70bc5c",
+      "file_id": "file-YKhfCu4M7bM9MtpzGiGXLW"
+    },
+    "40671590645651": {
+      "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
+      "updated_at": "2026-04-08T22:33:37Z",
+      "hash": "578f5616087a611a0a8564633ad15ce3",
+      "file_id": "file-UnPaXJtWN6XzqftF9pFaPd"
+    },
+    "40212027797523": {
+      "slug": "disk-encryption",
+      "updated_at": "2025-09-04T16:19:23Z",
+      "hash": "4b1c3f1858255231d09796a5b4aa77cf",
+      "file_id": "file-H2rrSSpNVooHP92dk1gLdE"
+    },
+    "40147900639891": {
+      "slug": "optistick-troubleshooting-guide",
+      "updated_at": "2026-06-26T13:52:36Z",
+      "hash": "fc2dc81755f661f977b3052976e90c2e",
+      "file_id": "file-QAke97F6L5M7VupdFTQsgR"
+    },
+    "39488874989587": {
+      "slug": "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick",
+      "updated_at": "2025-09-04T15:25:54Z",
+      "hash": "ef06cdd27eaecaa93a1f1471cd2fa358",
+      "file_id": "file-RQHb17Zmo1MXBFqC1T9wqy"
+    },
+    "39250660729747": {
+      "slug": "how-to-use-the-tableau-app",
+      "updated_at": "2026-01-06T22:36:49Z",
+      "hash": "f67eee4bea0af1652f6527fe2c4d748d",
+      "file_id": "file-MQyZqXvUVPjgkiPj4fjcdu"
+    },
+    "39080869746067": {
+      "slug": "handle-oauth-authentication-using-api-gateway-pre-request-configuration",
+      "updated_at": "2025-08-28T18:42:06Z",
+      "hash": "b23be83d05e6bce6e882dcca872be496",
+      "file_id": "file-CTozL6TuZzh3396bqoqgKR"
+    },
+    "38062664690195": {
+      "slug": "tagging-in-optisigns",
+      "updated_at": "2025-09-09T19:34:07Z",
+      "hash": "a97326e55e81d616e41f9141c5fa887e",
+      "file_id": "file-W4wd5R7qxoFX4GwHZb6mZJ"
+    },
+    "37966066335891": {
+      "slug": "getting-started-with-an-optisigns-free-trial",
+      "updated_at": "2025-09-04T18:44:24Z",
+      "hash": "ccace6087a6938f233969570a45ef1c7",
+      "file_id": "file-Y3HcKPUiJL3R451MuyJHzM"
+    },
+    "36911639377683": {
+      "slug": "how-to-use-optisigns-with-microsoft-teams-rooms",
+      "updated_at": "2025-09-04T18:42:32Z",
+      "hash": "c937e3828e06c8bab49c101d5d042bff",
+      "file_id": "file-3FZZ4AhvjFUSn1Kxxjmm7j"
+    },
+    "36501302096915": {
+      "slug": "how-to-access-the-troubleshooting-page-of-the-optisigns-player",
+      "updated_at": "2025-09-02T20:08:24Z",
+      "hash": "48fbdc7ae60c55e88ff8add71b5b4a30",
+      "file_id": "file-GzjHVVp7cLhsfoBxF1iRQq"
+    },
+    "35749502945555": {
+      "slug": "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments",
+      "updated_at": "2025-08-29T16:58:30Z",
+      "hash": "be9b95899e89d54d2493d0078df6af7e",
+      "file_id": "file-R3b63pujHsMFAHpeMrmoDp"
+    },
+    "35184720136595": {
+      "slug": "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens",
+      "updated_at": "2025-09-04T16:54:34Z",
+      "hash": "202c7bbbc1f0e9ac228edeca0978e3c2",
+      "file_id": "file-XeHQQt8oXG8YgdUQhx1N3J"
+    },
+    "34379983350163": {
+      "slug": "accepted-payment-methods",
+      "updated_at": "2025-09-04T15:39:32Z",
+      "hash": "2862a9c10fde6d39925c4980afdae08d",
+      "file_id": "file-ATtNsPjf8YXWWqRZtbWaoa"
+    },
+    "33940834613139": {
+      "slug": "what-do-i-get-with-an-optisigns-free-plan",
+      "updated_at": "2026-03-27T20:38:29Z",
+      "hash": "b75c05f76dc19118feb0911582bec681",
+      "file_id": "file-6nJF4SPwmaDjQ23P49ACsJ"
+    },
+    "33382537925267": {
+      "slug": "making-a-video-wall-with-optisigns-video-wall-app",
+      "updated_at": "2025-12-11T15:16:23Z",
+      "hash": "36bf3d1e6f5074a0fae74ffb4fe0732f",
+      "file_id": "file-8nGULNcDbKeS7iuysh3tF7"
+    },
+    "32860569148819": {
+      "slug": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns",
+      "updated_at": "2026-03-17T22:32:17Z",
+      "hash": "d13e76b24c73c2a3bfa3b7533190cc77",
+      "file_id": "file-C7rFe3AbmFF8bLgPj9a5bU"
+    },
+    "32839794222099": {
+      "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
+      "updated_at": "2025-09-02T20:45:08Z",
+      "hash": "6ce6e079b3e3174b140f020d3fed82c7",
+      "file_id": "file-E65JphWt17NXPC6xhp79kU"
+    },
+    "31960461758611": {
+      "slug": "how-to-order-a-preconfigured-optisigns-android-player-device",
+      "updated_at": "2026-06-11T17:48:29Z",
+      "hash": "4e7b9e0a06b37f1ab78c0b89ba57c667",
+      "file_id": "file-ENeTp2kagXo8YDum7hRG4T"
+    },
+    "31860170199955": {
+      "slug": "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync",
+      "updated_at": "2025-09-04T20:31:25Z",
+      "hash": "e53722f0ff464fb32e0847dc23cec901",
+      "file_id": "file-UQtDDLMm9d3zXP667H5H3f"
+    },
+    "31695220475283": {
+      "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices",
+      "updated_at": "2025-08-29T17:04:07Z",
+      "hash": "45248149fc8f88371613e0fbfb09830f",
+      "file_id": "file-KaQnrnYPdQfCxoA3eSDYow"
+    },
+    "31449657955347": {
+      "slug": "getting-started-with-touch-screen-kiosks",
+      "updated_at": "2025-10-29T18:57:43Z",
+      "hash": "11559cba79c692963766315413d9f9e6",
+      "file_id": "file-K1DBDZwRZTq2TEJSjePeCo"
+    },
+    "31113088917907": {
+      "slug": "how-to-use-toast-api-data-with-optisigns",
+      "updated_at": "2025-09-02T20:24:12Z",
+      "hash": "34acf9f3ce0034a4186118365b856fb3",
+      "file_id": "file-5FyyaPESzqWcTaLzSRjSGW"
+    },
+    "30310366838803": {
+      "slug": "enabling-lock-down-mode-on-touch-screen-devices",
+      "updated_at": "2026-04-21T19:22:05Z",
+      "hash": "c429231b07f20800dc9e37bbd47bcad5",
+      "file_id": "file-2odGwj6DixvRvxXpGhCqBs"
+    },
+    "30304278652563": {
+      "slug": "how-to-use-the-mobile-app-for-remote-control",
+      "updated_at": "2025-09-04T20:14:54Z",
+      "hash": "33c33ac9856b3d96ca9ab08df0083808",
+      "file_id": "file-AdJy7iuzfzde7X5bVLcm4H"
+    },
+    "29792081890323": {
+      "slug": "guide-for-creating-content-with-optisigns",
+      "updated_at": "2026-05-21T17:52:16Z",
+      "hash": "1ce67c17425dcf6bd2db028732bd6efc",
+      "file_id": "file-RFsgLWYUeHS8KYPrfyHRvY"
+    },
+    "29465595849235": {
+      "slug": "list-of-supported-cities-for-weather-wall-city-themes",
+      "updated_at": "2026-04-08T13:41:37Z",
+      "hash": "17c40a28e53aa239de7371178c5b5eb7",
+      "file_id": "file-9MwFvpoFWwnA6145sUnFVH"
+    },
+    "29238381023123": {
+      "slug": "how-to-clear-cache-on-a-brightsign-player",
+      "updated_at": "2025-08-28T19:03:16Z",
+      "hash": "de65b47dccc612b507d72ab0005b1b1a",
+      "file_id": "file-L1VWRu7FSRazZLp36eHjL6"
+    },
+    "29232460955539": {
+      "slug": "how-to-create-an-attract-screen-for-your-kiosk",
+      "updated_at": "2025-09-04T14:01:30Z",
+      "hash": "46f2f940832566e780031f434ec643c8",
+      "file_id": "file-ToSc3tbm9itiP7JiAn4b6D"
+    },
+    "29217646663187": {
+      "slug": "how-to-set-up-dynamic-data-mapping-with-optisync",
+      "updated_at": "2025-09-04T17:54:40Z",
+      "hash": "d6ee372a78723daa935b996af5c04777",
+      "file_id": "file-7XKRGHZbv1sBB8omwnF7kx"
+    },
+    "28598173096723": {
+      "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232",
+      "updated_at": "2026-06-02T22:08:42Z",
+      "hash": "ed71180d7211b5f0e6d05da3bbb6db36",
+      "file_id": "file-4VxyahPC4SDfGVMSwAkwiv"
+    },
+    "28427819992979": {
+      "slug": "performance-stability-issues-on-android-devices-and-best-practices",
+      "updated_at": "2025-09-04T16:21:18Z",
+      "hash": "1df93c0c221cb4f783d3617c1e81d743",
+      "file_id": "file-WuavqKkRgPb2CUhTGqcXsS"
+    },
+    "28424138317971": {
+      "slug": "samsung-tizen-tvs-troubleshooting-guide",
+      "updated_at": "2026-01-12T16:10:54Z",
+      "hash": "aa76a13bbc1b52460927790bc7a28214",
+      "file_id": "file-UkWAif8rLBfra6fFLh3CnK"
+    },
+    "28421615261971": {
+      "slug": "roku-troubleshooting-guide",
+      "updated_at": "2025-09-02T20:10:19Z",
+      "hash": "d95f1d65ee6f00798401e887e6ce24b1",
+      "file_id": "file-Q5XJt2n7FhNwAF4PttiDDp"
+    },
+    "28295104605843": {
+      "slug": "how-to-create-use-playlists",
+      "updated_at": "2026-03-31T21:42:16Z",
+      "hash": "c604bbbced3b3b35659d8ebb1122bd55",
+      "file_id": "file-74JnnUDs4wWFYQRqNfPsCQ"
+    },
+    "28140190892307": {
+      "slug": "how-to-use-qr-overlay-app-in-engage",
+      "updated_at": "2025-08-29T20:47:28Z",
+      "hash": "b87387f565f7201e13f87e62a1c5dbd5",
+      "file_id": "file-YXbZKGfYYNrcVt2gzKDmom"
+    },
+    "28115946505107": {
+      "slug": "how-to-change-close-nav-bar-styler-preferences",
+      "updated_at": "2025-08-28T19:27:02Z",
+      "hash": "aaa5c27b0702aee9baeab5b72881ad2e",
+      "file_id": "file-QcVew5oXJxhArq99UKUPtr"
+    },
+    "27690296225555": {
+      "slug": "ai-camera-app-quick-start",
+      "updated_at": "2026-06-29T19:26:02Z",
+      "hash": "0f036bd8433c5cdf51332bddae73c37d",
+      "file_id": "file-FgPRXyhUQ6Ve9vbA6ETKyx"
+    },
+    "27463953562899": {
+      "slug": "amazon-tv-firestick-troubleshooting-guide",
+      "updated_at": "2026-04-28T15:36:27Z",
+      "hash": "311aa69512c71aa98f54670b1a861786",
+      "file_id": "file-7UkBPTvdhuRgp72arxEcgt"
+    },
+    "27458261258387": {
+      "slug": "move-screens-or-devices-from-one-account-to-another",
+      "updated_at": "2025-08-29T17:03:07Z",
+      "hash": "89b7fae246ea2d3b745df2ea2f9e3ace",
+      "file_id": "file-R5gL3KTutfjSFxGMTZK3o4"
+    },
+    "27356288211859": {
+      "slug": "how-to-use-icloud-calendar-with-optisigns",
+      "updated_at": "2026-03-26T16:45:12Z",
+      "hash": "a49cfd519c8a8b0a7e43ffbc90bd5700",
+      "file_id": "file-HQnsToePbA9huByZ2KUcHW"
+    },
+    "27267311796243": {
+      "slug": "optistick",
+      "updated_at": "2026-06-26T13:51:49Z",
+      "hash": "f8c3e3efdf9406e53f188dff4a36af04",
+      "file_id": "file-CGE7JzbeX6gtd4j9Pt8HFu"
+    },
+    "25273043501587": {
+      "slug": "how-to-lockdown-ipad-single-app-with-guided-accessibility",
+      "updated_at": "2026-02-10T16:54:02Z",
+      "hash": "190d056538aeb5a2fe96464bb1483ccc",
+      "file_id": "file-TkXA2iD2jbBDEJRjSrGd46"
+    },
+    "25127398699667": {
+      "slug": "how-to-add-a-qr-code-in-designs-using-optisigns-designer",
+      "updated_at": "2025-09-04T15:43:33Z",
+      "hash": "18aace3e172a4191e3026e8cd1d9ea0c",
+      "file_id": "file-CxJ8adGCfiF5hsjWrEFgCL"
+    },
+    "24338756617747": {
+      "slug": "what-are-feeds-and-how-to-use-it",
+      "updated_at": "2025-08-28T18:46:57Z",
+      "hash": "97b4f7ab86ae9f077315bbf250ffde6f",
+      "file_id": "file-KJCHnrxCHf2ZGquwkUgpFV"
+    },
+    "23629657318547": {
+      "slug": "how-to-get-google-review-link",
+      "updated_at": "2025-09-04T16:54:55Z",
+      "hash": "7c55eb550c2bf2fea5236b536c8ca27a",
+      "file_id": "file-ESL1pJtnjW2NxnaChKi9kc"
+    },
+    "23566927217939": {
+      "slug": "how-to-use-check-in-app-with-sms-follow-up",
+      "updated_at": "2025-09-04T15:04:03Z",
+      "hash": "e3b5d5ec5274fd236fefc93293f74574",
+      "file_id": "file-F7ZjDuw5LJGvm3qDbv2B2j"
+    },
+    "23565267463315": {
+      "slug": "engage-plan-faqs",
+      "updated_at": "2026-06-29T19:25:18Z",
+      "hash": "67cd7182cf193d6ac16d298628506151",
+      "file_id": "file-129hMTA9Y8r7FqgF9DzHeW"
+    },
+    "23274673797139": {
+      "slug": "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-2023-model",
+      "updated_at": "2025-09-04T16:18:04Z",
+      "hash": "889a2413a0ae0e8b83a0ac1f34834fef",
+      "file_id": "file-Q8ajKBwLatJrPsf6S3dvCq"
+    },
+    "23030445716883": {
+      "slug": "how-to-setup-aericast-meet-wireless-video-conferencing",
+      "updated_at": "2025-08-29T16:59:17Z",
+      "hash": "b460ac203a2c776ffdd6d3ec4f155268",
+      "file_id": "file-Pmebs4k6mCwCvBbesMubhB"
+    },
+    "22875592994195": {
+      "slug": "how-to-integrate-api-and-publish-api-data-via-optisync",
+      "updated_at": "2025-09-04T21:00:02Z",
+      "hash": "4e4f57cd92876c23e09ae8cea0f1550e",
+      "file_id": "file-BSgX9ANptTqW1m1pZzSfXx"
+    },
+    "22474034993043": {
+      "slug": "advanced-playlist-item-playback-control-campaign-management",
+      "updated_at": "2025-10-10T15:42:34Z",
+      "hash": "01b383d7fa7c9fe7ffe5042257df3ea9",
+      "file_id": "file-E2XW1dpKNc3ULLjkhEfzsF"
+    },
+    "21708242980755": {
+      "slug": "how-to-share-playlist-and-folder-with-external-users",
+      "updated_at": "2026-06-26T13:56:08Z",
+      "hash": "f8897b363af06f3a6de6fd1cb0dd7463",
+      "file_id": "file-TMofTd2qAbtxAaSEMAWrG9"
+    },
+    "20879903340947": {
+      "slug": "how-to-use-content-tags-in-the-playlist",
+      "updated_at": "2025-09-04T19:48:57Z",
+      "hash": "197d0a50155ae55336852208edce8860",
+      "file_id": "file-22p1hFp5ksBTdwT5YYyE9P"
+    },
+    "20750060900883": {
+      "slug": "your-facebook-page-doesn-t-show-in-the-dropdown-list",
+      "updated_at": "2026-04-30T20:24:48Z",
+      "hash": "fceb1d7252179a9ef97ecb731c827238",
+      "file_id": "file-8teMQnDbau3nESYqLANF4t"
+    },
+    "20428606424723": {
+      "slug": "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-designer",
+      "updated_at": "2025-08-28T20:10:45Z",
+      "hash": "a46e8e667645a4dba385c4dbc9675a91",
+      "file_id": "file-ENWfXspyGsMzin7YQuY8EJ"
+    },
+    "20425113117459": {
+      "slug": "navigating-through-optisigns-template-library",
+      "updated_at": "2025-09-04T14:39:07Z",
+      "hash": "d91efc7978563098628e5676b00a46e2",
+      "file_id": "file-NdJEedkGVR95BpGszfcrxw"
+    },
+    "20153471319187": {
+      "slug": "external-storage-on-optisigns-devices",
+      "updated_at": "2026-06-05T16:36:27Z",
+      "hash": "7c24cfd445c0fe591e76ecd138ec4fef",
+      "file_id": "file-HMQ7MpzMfTk8kTdmZRAxHL"
+    },
+    "20062273670163": {
+      "slug": "how-to-control-and-schedule-playlist-items",
+      "updated_at": "2025-09-04T17:26:34Z",
+      "hash": "ad5bd03329bfbeba06a5d2c8a4f1d0d0",
+      "file_id": "file-KPYFckZCZHdfWdNX4n8FyY"
+    },
+    "19589190970771": {
+      "slug": "how-to-use-secured-dashboard-app",
+      "updated_at": "2025-09-02T20:28:00Z",
+      "hash": "9ebff3ebb33591682b4adb4a56fc6529",
+      "file_id": "file-FrPvZNwT2aHyZRY2pXApvA"
+    },
+    "19171222981523": {
+      "slug": "how-to-use-yammer-app-on-optisigns",
+      "updated_at": "2025-09-04T18:49:13Z",
+      "hash": "f086ce0b440d95e69ea6b58625d51999",
+      "file_id": "file-PNz16HQNT3rZxQRUuZZbiT"
+    },
+    "18988049363859": {
+      "slug": "push-contents-to-your-screens",
+      "updated_at": "2025-09-04T20:22:58Z",
+      "hash": "bf73288dafdcdcefe2bab16dad0551d2",
+      "file_id": "file-NQjZu2rCrP6VPJEEhZRNzB"
+    },
+    "18823504383891": {
+      "slug": "optisigns-getting-started-guide",
+      "updated_at": "2026-03-31T21:41:21Z",
+      "hash": "c127284a1a03ab293c4b8bd7005ef183",
+      "file_id": "file-Rs6s18YzSKrKx3frZGEgW8"
+    },
+    "18470994953363": {
+      "slug": "how-to-keep-optisigns-running-on-fire-stick",
+      "updated_at": "2025-09-04T15:31:51Z",
+      "hash": "0b19dceddb29fca75e70cda8a622a231",
+      "file_id": "file-LzTDrpwnU3DkQqVyqn1rBw"
+    },
+    "18399492388371": {
+      "slug": "how-to-customize-the-thumbnail-of-files-assets-and-folders",
+      "updated_at": "2025-09-04T18:20:38Z",
+      "hash": "8b3a11b60dfa0e1ada7fea5c0443e05c",
+      "file_id": "file-Jcna3eezNCPrAidr3qPdF7"
+    },
+    "18381542133779": {
+      "slug": "how-to-configure-multi-factor-authentication-with-your-optisigns-account",
+      "updated_at": "2025-09-04T16:20:40Z",
+      "hash": "b9f3943f57f6af54a79a96565efbae17",
+      "file_id": "file-H24FeRnNojAi66yi9wGN9p"
+    },
+    "17882306279315": {
+      "slug": "samsung-smart-signage-platform-sssp-supported-model-list",
+      "updated_at": "2025-09-04T14:36:56Z",
+      "hash": "91f3eea738d8cb161769d0ce0a97f2a0",
+      "file_id": "file-SFMeVN3fmTx7e36nZvE8hv"
+    },
+    "17604055961747": {
+      "slug": "how-to-create-a-content-library-kiosk",
+      "updated_at": "2025-08-29T19:38:25Z",
+      "hash": "69780dc767e34314b32b15fd94f9e563",
+      "file_id": "file-G5Vvi9KH63d7jd2U46jTP2"
+    },
+    "17342932920211": {
+      "slug": "event-logging-and-analytics-for-external-communication-rs-232",
+      "updated_at": "2025-09-02T19:09:02Z",
+      "hash": "cd5c03725fe00b1bd85e176ec73abbbb",
+      "file_id": "file-G2ktBJNWCpDDysVG885BBz"
+    },
+    "17112492659475": {
+      "slug": "display-powerpoint-google-slides-in-whole-screen-when-casting-from-macbook-pro",
+      "updated_at": "2025-08-29T18:58:05Z",
+      "hash": "6b20eb4d53e4d45d35bf0c6335d9e2c0",
+      "file_id": "file-T5aHEhuS98WqkPrak75hYN"
+    },
+    "16364134190355": {
+      "slug": "how-to-use-streaming-app-with-optisigns",
+      "updated_at": "2025-09-02T18:34:54Z",
+      "hash": "d84c1618e618b3350e874ff2c33499ad",
+      "file_id": "file-AUVP1F5h2PuWYhMFKtDYZk"
+    },
+    "15861880059283": {
+      "slug": "silent-installation-process-for-optisigns-player-on-windows",
+      "updated_at": "2025-08-29T18:51:22Z",
+      "hash": "65800ecb38e7ad2ff2388ae3955a037f",
+      "file_id": "file-14NVEhwbvZ3TDw4mFXn9Xm"
+    },
+    "15808407287315": {
+      "slug": "the-optisigns-app-keeps-turning-on-the-tv-screen",
+      "updated_at": "2025-09-04T15:11:52Z",
+      "hash": "6b8acabb7719b88c734521d66ef15024",
+      "file_id": "file-P2w43bfJs7ie9Gm4mcUGQc"
+    },
+    "15313086319763": {
+      "slug": "how-to-design-kiosk-apps-using-kiosk-designer-pro",
+      "updated_at": "2025-11-05T17:31:50Z",
+      "hash": "bab47deb9c5520f9f3ea958c46c70800",
+      "file_id": "file-3xRbL9EFDGX2MpRthEnycc"
+    },
+    "15268811715347": {
+      "slug": "cannot-find-the-optisigns-app-on-your-samsung-smart-tv",
+      "updated_at": "2026-06-11T17:13:11Z",
+      "hash": "448b4c9a478f456fa272b5e77aa81a80",
+      "file_id": "file-3ornuUgvNfVxMLY1CyFRds"
+    },
+    "13320135306515": {
+      "slug": "build-integration-using-optisigns-enterprise-app",
+      "updated_at": "2025-08-28T20:24:19Z",
+      "hash": "71b88ad153d68e7b9201673e6cba0af6",
+      "file_id": "file-ApvudkpFFFe5EmZsvvqzsa"
+    },
+    "13097501958291": {
+      "slug": "optisigns-iot-sensor-add-on-quick-start",
+      "updated_at": "2025-09-02T18:16:29Z",
+      "hash": "5e8eb49bff8097fe2ec0a663ab549b37",
+      "file_id": "file-MEXnaYx8S9bYvdhu8MD57H"
+    },
+    "12947300131731": {
+      "slug": "show-hide-downloading-status-on-your-player",
+      "updated_at": "2025-09-04T15:32:11Z",
+      "hash": "c08265b4009a005e5cc7cb7cab360749",
+      "file_id": "file-2QTbrfgA2SFRvXaLQnkwv2"
+    },
+    "11412877112595": {
+      "slug": "what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv",
+      "updated_at": "2025-11-19T11:39:39Z",
+      "hash": "44c3663846ec2b88431c58418531dfe0",
+      "file_id": "file-Rcpq6mkYs2EgYFHh3WSdsZ"
+    },
+    "10159088954387": {
+      "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
+      "updated_at": "2025-09-02T20:01:30Z",
+      "hash": "c239d20741668a6c47cb6cbf8baaa9ac",
+      "file_id": "file-4TPm2VxA3wGcEUXvQP7z2E"
+    },
+    "9169378546195": {
+      "slug": "data-residency-and-optisigns",
+      "updated_at": "2026-06-05T14:25:01Z",
+      "hash": "2507083b9fd6d2160ef5cd55542b522d",
+      "file_id": "file-BUoGbkyEphU5uiQo6qYHUi"
+    },
+    "9061950942995": {
+      "slug": "using-rs-232-to-schedule-tv-power-on-off-or-other-commands",
+      "updated_at": "2025-09-19T18:38:49Z",
+      "hash": "dabc4952a9e160d273c4efef0945de07",
+      "file_id": "file-X7KWZoXC8ZyzsLUVVeX18w"
+    },
+    "8099928867475": {
+      "slug": "how-to-get-the-mac-address-on-your-media-player",
+      "updated_at": "2025-08-29T20:29:34Z",
+      "hash": "aa9513d5f83b68db9123f2ef6ca26c5f",
+      "file_id": "file-36veDa8TpRFvXwM6MfDMnn"
+    },
+    "7865572050195": {
+      "slug": "how-to-hide-certain-templates-categories-in-designers",
+      "updated_at": "2025-09-05T15:04:32Z",
+      "hash": "bbe84a82e3a1a074194e051639b74a93",
+      "file_id": "file-SPP4rD3RzRFqqXhDGB6buc"
+    },
+    "7592123111699": {
+      "slug": "host-your-html-js-or-create-your-own-web-app-with-hosted-website",
+      "updated_at": "2025-08-29T20:55:40Z",
+      "hash": "ae1706e0b56e8b7804e6cb0577ac87c8",
+      "file_id": "file-TRumvrEptPKxXA3uVZkNPv"
+    },
+    "7589195635219": {
+      "slug": "using-eyedrop-feature-to-select-color-in-designer-app",
+      "updated_at": "2025-08-28T20:14:46Z",
+      "hash": "e544726d7c7900043cfe95412ec56a81",
+      "file_id": "file-J7c4bX7dJm8ZjAAxMUwaXm"
+    },
+    "6605515731603": {
+      "slug": "apple-tv-player-release-notes-limitations",
+      "updated_at": "2025-12-31T22:07:40Z",
+      "hash": "1745ab9a65e837b87d102ff5d9df4d66",
+      "file_id": "file-8Q6p8J3MjXMevAeiBmthJd"
+    },
+    "4428997257491": {
+      "slug": "how-to-organize-templates-and-share-across-teams",
+      "updated_at": "2025-08-28T19:56:40Z",
+      "hash": "be55991370bb7335bc94ac68ecb73d89",
+      "file_id": "file-LeBkqZEJAf3JMSPszMMqwJ"
+    },
+    "4416704273811": {
+      "slug": "manually-control-playlist-playback-with-optisigns",
+      "updated_at": "2025-08-29T18:48:01Z",
+      "hash": "3e34017ca955dd21105de48ea7ef05ce",
+      "file_id": "file-QCRsTMA8or65Jmfyztz56D"
+    },
+    "4416542923667": {
+      "slug": "how-to-perform-mass-provisioning-with-optisigns",
+      "updated_at": "2026-04-16T14:17:14Z",
+      "hash": "5c9a752f58c42ed4d76999b7427d3085",
+      "file_id": "file-SEmZCYCuwJmzQwnxpEBcjY"
+    },
+    "4414552808467": {
+      "slug": "introduction",
+      "updated_at": "2025-09-02T20:25:47Z",
+      "hash": "e2e1dd0d07933848f67adb65c72ae74b",
+      "file_id": "file-RHSeY8Nxx64BVnjoqfG14w"
+    },
+    "4412065189267": {
+      "slug": "synchronized-playback-sync-play-feature",
+      "updated_at": "2026-07-06T21:29:32Z",
+      "hash": "b44dbd669827a82edefbd6b74140b4c7",
+      "file_id": "file-399U2mamjPj4DnYtPRjFaF"
+    },
+    "4411956075027": {
+      "slug": "clean-install-optisigns-on-raspberry-pi-linux",
+      "updated_at": "2025-08-28T20:09:01Z",
+      "hash": "ed1d76eff558dcba44a4f76cc2377e57",
+      "file_id": "file-J6wJ9StFyG3oCk8Hyprmr9"
+    },
+    "4411743936147": {
+      "slug": "how-to-connect-to-802-1x-enterprise-wifi-on-raspberry-pi",
+      "updated_at": "2025-09-04T15:24:46Z",
+      "hash": "95fd024c4eee32e4f2cd453adb4d0062",
+      "file_id": "file-DpZuMgRGpXsMbBJ4u2pLLa"
+    },
+    "4408946045715": {
+      "slug": "how-to-integrate-bonusly-digital-signage-with-optisigns",
+      "updated_at": "2025-08-29T21:49:14Z",
+      "hash": "f26fb57130bb22d0fe5fcbbe50d41458",
+      "file_id": "file-FLLHPdzbM7Umct69gVpChM"
+    },
+    "4408658251027": {
+      "slug": "how-to-use-remote-command-execution-windows-linux",
+      "updated_at": "2025-09-05T14:59:20Z",
+      "hash": "46cd3baa874cd552e00802b7fc79b39e",
+      "file_id": "file-Cp2E7JbgfRa77kAVCg2VmN"
+    },
+    "4408052029587": {
+      "slug": "how-to-use-weather-apps-based-on-device-location",
+      "updated_at": "2025-09-04T14:07:59Z",
+      "hash": "f38fcac018d102db41c10a99d04161a2",
+      "file_id": "file-5gkgdPPuGotoFg4Sz7d23z"
+    },
+    "4407493404307": {
+      "slug": "how-to-set-up-saml-2-0-with-optisigns-and-google-workspace",
+      "updated_at": "2025-09-04T15:06:32Z",
+      "hash": "46e426d0f250fa4eb609b58bd3a4e4a1",
+      "file_id": "file-KsfpjiVJwf5rmuWHJLJm5V"
+    },
+    "4407476403859": {
+      "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin-shibboleth",
+      "updated_at": "2025-09-02T20:38:51Z",
+      "hash": "f3c51d2faf9e3fababf1cd6dc726e8b0",
+      "file_id": "file-UwPQ6Mi2q2cj1U8SoeaM5Z"
+    },
+    "4407386819731": {
+      "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin",
+      "updated_at": "2025-09-04T13:48:07Z",
+      "hash": "83c4ad7d7e343619d8c7a232cae8d5b3",
+      "file_id": "file-YUwwaCm8iyyLD27CKf2bdn"
+    },
+    "4407252213395": {
+      "slug": "how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad",
+      "updated_at": "2026-02-05T20:23:47Z",
+      "hash": "a3223a31559ba8d04f0ee8f37edfedb2",
+      "file_id": "file-PFJqjm1fq2SNbiphCpfR8n"
+    },
+    "4407128433299": {
+      "slug": "saml-integration-strategies-best-practices",
+      "updated_at": "2026-02-05T20:22:33Z",
+      "hash": "df8452fde4537d2bf6748403cb176ae5",
+      "file_id": "file-6AheZiTFwvfuy5ZwAUUMXF"
+    },
+    "4407068788883": {
+      "slug": "map-view-screen-location-settings",
+      "updated_at": "2025-08-28T19:29:32Z",
+      "hash": "ad8d37c06f540fa96fdb217cc63895c6",
+      "file_id": "file-8Q4wGkr66K8prrZwey9cwp"
+    },
+    "4404827608467": {
+      "slug": "how-to-unpin-optisigns-app-on-your-managed-android-stick-player",
+      "updated_at": "2025-08-29T18:52:14Z",
+      "hash": "3479fb1175fb481fee23d6224d36df11",
+      "file_id": "file-7e95U9XJFFVZhsyBNzvcKv"
+    },
+    "4404616139411": {
+      "slug": "add-1-or-multiple-assets-to-many-playlists-at-the-same-time",
+      "updated_at": "2025-08-28T20:13:04Z",
+      "hash": "18b048fa5f91b28cfc54b895c61aede0",
+      "file_id": "file-NwrJBiEUPhnDGjM7vGtxrB"
+    },
+    "4404590815635": {
+      "slug": "how-to-set-up-saml-2-0-with-optisigns-and-okta",
+      "updated_at": "2026-06-08T15:02:21Z",
+      "hash": "cd6ae45f85abe7f84c8a216dbfed8dcd",
+      "file_id": "file-JCCv5uqEwUbdaSdATGXvCh"
+    },
+    "4404151402899": {
+      "slug": "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes",
+      "updated_at": "2026-06-20T07:00:26Z",
+      "hash": "0fb22cdf41a2805905688e7002ec290e",
+      "file_id": "file-JsCCr2fuHXEU5udq1XQQjw"
+    },
+    "4403616315539": {
+      "slug": "how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calendar-etc-access",
+      "updated_at": "2026-03-17T22:33:37Z",
+      "hash": "03ef0b108428770e7acb033589fb560b",
+      "file_id": "file-5EfyapKxrk8yXAnjBnYoBn"
+    },
+    "4403332894867": {
+      "slug": "how-to-set-up-audit-log-for-your-account",
+      "updated_at": "2026-03-18T22:16:52Z",
+      "hash": "d46101e3a4d7609b74cba95875ea1336",
+      "file_id": "file-3R5vvFEJaGuhZSFFoydcy6"
+    },
+    "4403306341523": {
+      "slug": "how-to-set-up-monitoring-alert-feature",
+      "updated_at": "2025-09-04T18:20:07Z",
+      "hash": "af44795fa219beb52bf10065a1be9f17",
+      "file_id": "file-Fphbv9fUne9TEdDuFi6kyM"
+    },
+    "1500012522362": {
+      "slug": "how-to-use-the-web-scripting-app",
+      "updated_at": "2026-05-14T16:05:37Z",
+      "hash": "2192d48960e366f8aaaf8047a2b49dcc",
+      "file_id": "file-7MFehRffxiuQDSEeFTPMSP"
+    },
+    "1500010436341": {
+      "slug": "adjust-the-gpu-memory-on-the-raspberry-pi",
+      "updated_at": "2025-08-29T20:24:46Z",
+      "hash": "f31cf8c0f3ff9aaed2140b792ef2bcf9",
+      "file_id": "file-HAGeCS8DTw2CCf8vMr9zfJ"
+    },
+    "1500009937122": {
+      "slug": "resolve-autostart-issues-on-your-android-tv-devices",
+      "updated_at": "2025-08-29T18:50:41Z",
+      "hash": "b0ad482859929f8484f9de5dc5c1a4ea",
+      "file_id": "file-KywsnDXre2nZYd8cTsSXwJ"
+    },
+    "1500009382101": {
+      "slug": "install-update-optisigns-player-on-rpi-via-script",
+      "updated_at": "2025-08-29T16:56:37Z",
+      "hash": "af738d3e8d689777c4efbbd284bf92b5",
+      "file_id": "file-G6kMekCpqpMtapVVVyAXJZ"
+    },
+    "1500008008981": {
+      "slug": "how-to-enable-ssh-for-your-raspberry-pi",
+      "updated_at": "2025-09-04T15:36:00Z",
+      "hash": "162816d8f034f714508b1e3eca8cb4a5",
+      "file_id": "file-Ck7oZM78DyzcL47ivHtEnx"
+    },
+    "1500006130902": {
+      "slug": "how-to-use-live-tv-with-ads-app",
+      "updated_at": "2025-09-04T18:40:28Z",
+      "hash": "dc7bc5a922ce38fe715e5da73bdac3c6",
+      "file_id": "file-LiHnJme428C8Q1Uoj8wPNG"
+    },
+    "1500006056101": {
+      "slug": "multi-select-assets-in-files-assets-view",
+      "updated_at": "2025-08-29T19:08:26Z",
+      "hash": "45b2ee4e22195b39ffe0d039b3a0d0c5",
+      "file_id": "file-UVnjT8KLhe5ujCuDYqRvQ4"
+    },
+    "1500005467601": {
+      "slug": "clean-install-of-optisigns-player-on-windows",
+      "updated_at": "2025-10-23T21:18:17Z",
+      "hash": "6e00f77351680204d751dd50771177c5",
+      "file_id": "file-K6DdvDfMJeMgLM63gpAQCz"
+    },
+    "1500003161182": {
+      "slug": "how-to-move-screen-to-other-team",
+      "updated_at": "2025-09-04T15:11:08Z",
+      "hash": "666207bf070ac2339157a946a0db09db",
+      "file_id": "file-Adohe9TtYocubRRxCUjDMB"
+    },
+    "360063098753": {
+      "slug": "how-to-mass-deploy-optisigns-on-raspberry-pi-devices",
+      "updated_at": "2025-09-04T15:34:40Z",
+      "hash": "e5bc194453dd6bbefe637b2a84ed7d95",
+      "file_id": "file-2cgDqF18AR4WgKq1SetHaQ"
+    },
+    "1500002383502": {
+      "slug": "how-to-install-optisigns-as-screensaver-on-roku",
+      "updated_at": "2025-09-04T20:46:23Z",
+      "hash": "4f1eda81cbafddbfab7017c69abb0c03",
+      "file_id": "file-DNvAFp5AjVsafBchzeswxc"
+    },
+    "1500001561861": {
+      "slug": "how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotation-app",
+      "updated_at": "2025-09-02T19:32:41Z",
+      "hash": "f7d16bcf7007a94e42d3cfb2f5849383",
+      "file_id": "file-Wga8sFpQKeTbZJeRx3dZsF"
+    },
+    "360061576673": {
+      "slug": "advanced-enforce-sso-login-for-your-account",
+      "updated_at": "2025-09-02T20:14:28Z",
+      "hash": "04e36c9f6ff20c337c8ff2d4466dd567",
+      "file_id": "file-WmwCzf7XcqfGctpiQR3Tgp"
+    },
+    "1500000941981": {
+      "slug": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick",
+      "updated_at": "2025-08-29T20:30:23Z",
+      "hash": "8af71e70d8a8eaca2ddbccdd6322ea80",
+      "file_id": "file-NoixeWya4pgodRwoLw8Wtp"
+    },
+    "360059386254": {
+      "slug": "how-to-use-youtube-playlist-with-optisigns",
+      "updated_at": "2025-08-29T21:12:53Z",
+      "hash": "096a2f0f9e72052586817e1602425093",
+      "file_id": "file-BzHvgUEmWibgZfp5UHEQ8e"
+    },
+    "1500000493782": {
+      "slug": "billing-how-do-i-change-my-subscription-plan",
+      "updated_at": "2025-08-29T20:27:11Z",
+      "hash": "3107681cbef89f101922e887d9054144",
+      "file_id": "file-TgonknPFW2c4FkNr65nAvm"
+    },
+    "1500000485202": {
+      "slug": "custom-branding-settings",
+      "updated_at": "2025-12-29T21:04:58Z",
+      "hash": "08921b3440c54cc0f81165ac4b106ee7",
+      "file_id": "file-4bLXnC8RCqh7GvprPxC4hz"
+    },
+    "1500000480302": {
+      "slug": "advanced-custom-domain-mapping",
+      "updated_at": "2026-05-29T17:34:19Z",
+      "hash": "de15b2e4a29312cf81ee3f6ebec36ef6",
+      "file_id": "file-KN85DF4wsULLqwgAasCXkx"
+    },
+    "360060676993": {
+      "slug": "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi",
+      "updated_at": "2025-09-02T20:15:47Z",
+      "hash": "18a2059cb9716eaec42355e96ce3d218",
+      "file_id": "file-SFpFbbJ8ajaZ7YiyDfWLDX"
+    },
+    "360058345334": {
+      "slug": "how-to-run-optisigns-ai-add-on-on-start-up-in-windows",
+      "updated_at": "2025-08-29T19:07:49Z",
+      "hash": "de11876e1fded08220bba759f41c72e2",
+      "file_id": "file-9UDJfr7oNcfoihUqASRdMr"
+    },
+    "360058259834": {
+      "slug": "audience-intelligence-ai-camera-faqs",
+      "updated_at": "2026-02-04T16:18:32Z",
+      "hash": "c353cf0c717888c27edbb69e73c8921c",
+      "file_id": "file-2dtT2BiWS7jDFqgZfiXdqC"
+    },
+    "360058936513": {
+      "slug": "advanced-proof-of-play-or-playback-report",
+      "updated_at": "2026-02-26T18:04:23Z",
+      "hash": "57c9fd47b76149238a06fd4cf4bea4a7",
+      "file_id": "file-Bqq1PUX4YBJAHwiuSbyJ4D"
+    },
+    "360055549854": {
+      "slug": "pre-configure-wi-fi-with-optisigns-devices",
+      "updated_at": "2026-06-11T17:53:34Z",
+      "hash": "fc30fb80f97a388550e66056538afa8f",
+      "file_id": "file-TDxZvpfDEjMNM2YjU8dvGA"
+    },
+    "360055546594": {
+      "slug": "how-does-pre-configured-devices-labeled-in-shipping-package",
+      "updated_at": "2025-08-29T18:41:08Z",
+      "hash": "270c0d08bad5f4729482e2e55fc873d7",
+      "file_id": "file-HjWCXnZRTjGkxrbB2FZHoH"
+    },
+    "360057327693": {
+      "slug": "advanced-how-to-install-activate-optisigns-remote-agent-on-windows",
+      "updated_at": "2025-08-29T16:57:45Z",
+      "hash": "8b3c8e5a8eff39e1f5560fff2fa5917a",
+      "file_id": "file-N9vTkPsNnVynHChXj81i6q"
+    },
+    "360055486554": {
+      "slug": "remotely-control-and-command-optisigns-devices",
+      "updated_at": "2025-09-24T18:58:23Z",
+      "hash": "787a73cb2a71b724260700fb4283fedc",
+      "file_id": "file-FYQkyGjYjm7VZNvCSikLoA"
+    },
+    "360055328454": {
+      "slug": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv",
+      "updated_at": "2026-06-28T17:13:26Z",
+      "hash": "45b7f42fd1a7147aabfac960a0185ea8",
+      "file_id": "file-ERhsb4uJ8umTZgydak9Lps"
+    },
+    "360057146573": {
+      "slug": "advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-raspberry-pi",
+      "updated_at": "2025-09-02T20:02:58Z",
+      "hash": "414d0b9e4319fa3b99138c2a0a9bf758",
+      "file_id": "file-FNqcz1VaPnV2Ca4tj4MurF"
+    },
+    "360055080914": {
+      "slug": "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick",
+      "updated_at": "2025-09-04T15:23:44Z",
+      "hash": "36115f01f9eeac24037b867c8dec7da5",
+      "file_id": "file-LRnmBLRMgA1zwNpKRncyqW"
+    },
+    "360056655633": {
+      "slug": "how-to-change-time-zone-on-your-raspberry-pi-device",
+      "updated_at": "2025-09-04T15:35:11Z",
+      "hash": "cc0a60d8a8373c876e5e41a4cc9905ba",
+      "file_id": "file-RcgDVZtiwPQ4U3MNfbJCqb"
+    },
+    "360056627833": {
+      "slug": "how-to-connect-to-wifi-for-raspberry-pi",
+      "updated_at": "2025-09-02T19:22:01Z",
+      "hash": "ddd11ab99efe5ee446fa8d879b903037",
+      "file_id": "file-DX64s3ErNHXzBbkn5x4PFn"
+    },
+    "360056090593": {
+      "slug": "optisigns-side-menu-options",
+      "updated_at": "2025-09-04T17:29:50Z",
+      "hash": "36002d3d63c71346313593716effbb5c",
+      "file_id": "file-7hGzdYQJXgDYiMp86vub7N"
+    },
+    "360054298754": {
+      "slug": "how-to-factory-reset-your-fire-stick-device",
+      "updated_at": "2026-07-01T13:59:15Z",
+      "hash": "bf83d7c401e86d76a2a85ac9cb32a175",
+      "file_id": "file-P2LMuHRpBxgQ6jdeTdksFZ"
+    },
+    "360056087613": {
+      "slug": "how-to-clear-cache-on-your-fire-stick-device",
+      "updated_at": "2026-05-30T19:09:27Z",
+      "hash": "e1ccdf83914e6ddefbc335dc4c190fb5",
+      "file_id": "file-WpcTY6mPA46gP3jb1yTAp6"
+    },
+    "360056086653": {
+      "slug": "how-to-change-time-zone-on-your-fire-stick-device",
+      "updated_at": "2026-05-20T21:12:27Z",
+      "hash": "4bd2382c35e0e1f3cbe40e9461984085",
+      "file_id": "file-87yi2p7twxFJb49WWXHTNv"
+    },
+    "360053198573": {
+      "slug": "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device",
+      "updated_at": "2025-09-02T19:06:34Z",
+      "hash": "fec5bc43c0d0fa64a05e9913d8084b12",
+      "file_id": "file-Xck1YdjMkFM7iE9TQXGeQ5"
+    },
+    "360052361293": {
+      "slug": "how-to-update-fire-tv-os-to-latest-version",
+      "updated_at": "2025-09-04T15:35:37Z",
+      "hash": "e0305b9bdc9f7caaadc2e918f95cd63a",
+      "file_id": "file-2G4jU3BDXoDkF5MXnkz5Xb"
+    },
+    "360051745633": {
+      "slug": "how-to-set-up-an-instagram-business-creator-account",
+      "updated_at": "2025-08-28T18:43:19Z",
+      "hash": "cb1286d098ae785fa6637428e03d2292",
+      "file_id": "file-2CAjpgq4jSHxCL2n3iGJa4"
+    },
+    "360050728934": {
+      "slug": "difference-between-instagram-instagram-business-app",
+      "updated_at": "2025-12-12T20:55:05Z",
+      "hash": "35d04d27f6a8a96d77831bc65782ebad",
+      "file_id": "file-3JrXEBzgWSF5nKqDy6FsbA"
+    },
+    "360050602413": {
+      "slug": "how-to-use-overlay-layers-with-optisigns",
+      "updated_at": "2025-09-02T19:14:28Z",
+      "hash": "638d356afd5b82782780b80ef3f42a01",
+      "file_id": "file-V2KPFggfEmFUmFcjckpYDS"
+    },
+    "360048914673": {
+      "slug": "edit-screen-what-does-each-option-do",
+      "updated_at": "2026-05-21T13:09:58Z",
+      "hash": "56e1abe625e50c9e26ea453c8772c238",
+      "file_id": "file-XrexEQe86CQpQmjWojQyWW"
+    },
+    "360047275934": {
+      "slug": "whitelist-optisigns-ip-addresses-ports",
+      "updated_at": "2026-06-18T00:48:15Z",
+      "hash": "813ddcf63b5472502f0b3646d4979f56",
+      "file_id": "file-GELJSNYf14CsqQWPyznWV9"
+    },
+    "360047232054": {
+      "slug": "amazon-fire-stick-and-security-considerations",
+      "updated_at": "2025-08-29T17:00:38Z",
+      "hash": "7f65e62f5645acb34353c8b5597da5ee",
+      "file_id": "file-JSZTq6sAnxCG3ZR5qqctWG"
+    },
+    "360046356113": {
+      "slug": "advanced-security-managing-user-roles",
+      "updated_at": "2026-02-04T16:01:54Z",
+      "hash": "7bcc519581eb8991d0daa80ec67e03e4",
+      "file_id": "file-25SB96FwVRDa6GaGX59YeN"
+    },
+    "360044614514": {
+      "slug": "there-s-no-sounds-output-for-my-raspberry-pi",
+      "updated_at": "2025-08-28T20:14:25Z",
+      "hash": "ce8200b6b5214349ed5da4908221eed3",
+      "file_id": "file-3NLx64KqaND7aXzA5tgsWY"
+    },
+    "360044600474": {
+      "slug": "folder-level-permissions",
+      "updated_at": "2025-09-10T15:02:26Z",
+      "hash": "7e9cf8a064bb434b2c8808aa55d83832",
+      "file_id": "file-BmFXBwogbkHCUU1hs9zxEp"
+    },
+    "360043670633": {
+      "slug": "organizing-your-files-assets-playlists-and-schedules-by-using-folders",
+      "updated_at": "2025-09-04T17:06:53Z",
+      "hash": "d52734349cc3611305e6bc843ccb8481",
+      "file_id": "file-4vrJGy9RHymzcXBhtCPBuZ"
+    },
+    "360043621953": {
+      "slug": "how-to-create-and-use-nested-playlists",
+      "updated_at": "2025-09-04T20:17:22Z",
+      "hash": "bf3f8ceef3c83e0477aabd2c6a84b91e",
+      "file_id": "file-6eRZbQDp8FbQG9vnRGZpFF"
+    },
+    "360042736794": {
+      "slug": "how-to-set-an-asset-to-live-or-expire-at-specific-time",
+      "updated_at": "2026-05-14T22:03:28Z",
+      "hash": "889b0f3d2072a7532497d1d8529f218d",
+      "file_id": "file-7zhXbxACGeDuVQ1YyANH6a"
+    },
+    "360042143753": {
+      "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
+      "updated_at": "2026-06-29T19:08:36Z",
+      "hash": "d760f1cad98ae11215af564246847151",
+      "file_id": "file-4nzNuscNqUHGMNBdqw8scr"
+    },
+    "360042143333": {
+      "slug": "roku-release-notes-limitation",
+      "updated_at": "2026-06-02T20:21:45Z",
+      "hash": "94faf3a3b6abd7082b85d645c023a498",
+      "file_id": "file-6wpzMFmJDENWmDyCqkg1tS"
+    },
+    "360041587014": {
+      "slug": "how-to-change-billing-information",
+      "updated_at": "2025-08-28T20:03:48Z",
+      "hash": "ba01217b24e3e31d2d19051960243944",
+      "file_id": "file-GT4JEhwKJQ86syLChWwXvU"
+    },
+    "360041570153": {
+      "slug": "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-pi-app-need-screen-calibration",
+      "updated_at": "2025-08-29T21:06:45Z",
+      "hash": "7dce4f9ab0556efb1509e38e9449299a",
+      "file_id": "file-3LrgR98BTsAks6rpYzTQNi"
+    },
+    "360040943374": {
+      "slug": "assign-default-content-for-schedules",
+      "updated_at": "2026-05-05T19:18:10Z",
+      "hash": "a3f561282904e65a86770c10d5a085af",
+      "file_id": "file-CpZHThhcuSh79nbuiDEPL3"
+    },
+    "360039566974": {
+      "slug": "how-to-install-optisigns-as-channel-app-on-roku",
+      "updated_at": "2025-09-02T19:35:39Z",
+      "hash": "e9b3082e740904de963df7a596173096",
+      "file_id": "file-N1x3tLC225DnHG3BBMMU4m"
+    },
+    "360038992973": {
+      "slug": "video-codec-or-video-playback-issues",
+      "updated_at": "2025-08-29T20:15:48Z",
+      "hash": "2197a58e6a1be3358c67b55d4924fb8d",
+      "file_id": "file-DbXwNTTBpCS5csLLskZpT9"
+    },
+    "360037416494": {
+      "slug": "how-to-use-the-atlassian-jira-app",
+      "updated_at": "2025-08-28T20:12:13Z",
+      "hash": "54ff4defe37183b139e77d3c1b9dcb34",
+      "file_id": "file-P8Fedqu94wJLqXfHZYeTxb"
+    },
+    "360037391854": {
+      "slug": "how-to-display-content-inside-websites-that-require-login",
+      "updated_at": "2026-06-25T12:33:44Z",
+      "hash": "85a941a4264d3606a7dab69dbccc5bbf",
+      "file_id": "file-UGcZFnV65yPNTHcsk899uM"
+    },
+    "360036465673": {
+      "slug": "adjusting-social-news-wall-speeds",
+      "updated_at": "2025-09-04T16:12:31Z",
+      "hash": "666c8bc81e8e0c678e98f41e60bf3379",
+      "file_id": "file-MN2XukJDMebN1KUMjXUqSu"
+    },
+    "360035538093": {
+      "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration",
+      "updated_at": "2026-07-07T05:05:50Z",
+      "hash": "e4b2f5fb77cd9b428818f3c708a0deef",
+      "file_id": "file-Bh7YnJSPfpM36f6HGUhfi2"
+    },
+    "360034883113": {
+      "slug": "working-with-teams-and-security-levels",
+      "updated_at": "2026-06-01T19:53:55Z",
+      "hash": "61bf86f716fa7640b94cd6c68742cbe4",
+      "file_id": "file-4HNQtd8TWSXho16HupKndQ"
+    },
+    "360034379293": {
+      "slug": "windows",
+      "updated_at": "2025-09-04T19:17:16Z",
+      "hash": "c89ba0fe68356646ae45b01d575199e4",
+      "file_id": "file-5qtsHWwiVSS2NGsVRQoZMB"
+    },
+    "360034219593": {
+      "slug": "powerpoint-transition-and-animation-effect",
+      "updated_at": "2025-08-28T19:47:16Z",
+      "hash": "c2612f0e0dd1b383d6418075279373e5",
+      "file_id": "file-K3tvpv2t8UpCBuq9gnR822"
+    },
+    "360033693534": {
+      "slug": "powerpoint-resolution-size-for-use-with-digital-signage",
+      "updated_at": "2025-08-29T21:01:45Z",
+      "hash": "74041386f65971e656a309e96e754146",
+      "file_id": "file-X8kqTkbdqA9Q2EfXqgzwVb"
+    },
+    "360026610194": {
+      "slug": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content",
+      "updated_at": "2025-08-29T18:50:02Z",
+      "hash": "1976c376a8d63f530df2bfa838b74d8c",
+      "file_id": "file-CEzzPiARhexYXS5X7tXg5Z"
+    },
+    "360026559613": {
+      "slug": "how-to-create-a-scrolling-strip-bars",
+      "updated_at": "2025-09-02T19:11:51Z",
+      "hash": "a33459a2f7067b94e7dd0b3f3dbc0679",
+      "file_id": "file-JabWD4QgtrxvQDNN9nJzhW"
+    },
+    "360026559573": {
+      "slug": "how-to-create-and-use-the-split-screen-app",
+      "updated_at": "2026-02-04T16:37:07Z",
+      "hash": "ccba9412f60b7b2b7800af292f3ed940",
+      "file_id": "file-Wdd8rFmYvjb5NtonAwDfcP"
+    },
+    "360025661053": {
+      "slug": "how-can-i-remove-delete-uploaded-files-or-assets",
+      "updated_at": "2026-06-26T20:54:46Z",
+      "hash": "d49202317d766f86fb6fb56d856ed1ea",
+      "file_id": "file-N2ovWUEeAUPCRae33hCrDs"
+    },
+    "360025626853": {
+      "slug": "how-to-start-optisigns-automatically-when-devices-boot-up",
+      "updated_at": "2026-06-08T18:26:02Z",
+      "hash": "ae5c809ee4677cdd9a9bd2bec8b3afb9",
+      "file_id": "file-6EQo7ey9FRoZfGNtBDmSTD"
+    },
+    "360020931734": {
+      "slug": "can-i-disable-the-download-button-for-assets",
+      "updated_at": "2025-08-29T16:59:24Z",
+      "hash": "46934ad1dfacc9b1310e83d70d27438c",
+      "file_id": "file-71n8rSEaNNpgBV4azwCGxM"
+    },
+    "360016313754": {
+      "slug": "how-to-install-an-apk-file-on-your-fire-tv",
+      "updated_at": "2026-06-19T15:42:09Z",
+      "hash": "17fe43ef858b25cbba8d31cefff5398a",
+      "file_id": "file-SfrjUzBeLqY3d5LeyCppEv"
+    },
+    "360016252654": {
+      "slug": "does-optisigns-offer-non-profit-education-discount",
+      "updated_at": "2026-07-02T17:12:40Z",
+      "hash": "1787d41c5beeb54502e0dca34010f8ce",
+      "file_id": "file-4jUfx9EJtesNtdhuveHKQS"
+    },
+    "360016247974": {
+      "slug": "how-to-upload-manage-your-files-assets",
+      "updated_at": "2026-05-28T19:30:59Z",
+      "hash": "5d9a1aeaed94f064bf47c8f54e1ddf64",
+      "file_id": "file-GuudbQvU7xBbL3sxgGtxEM"
+    },
+    "360016342373": {
+      "slug": "what-types-of-files-are-supported",
+      "updated_at": "2025-09-08T14:04:57Z",
+      "hash": "649277d2e7cbcfada7e4c55cdb60b14c",
+      "file_id": "file-38gWE9GxdRCiZjvJ2yCYjK"
+    },
+    "42305104960147": {
+      "slug": "animation",
+      "updated_at": "2025-09-02T19:02:02Z",
+      "hash": "8d74d655b2309f8a225162e7ebc33b19",
+      "file_id": "file-1icCt2XmKTq8Wcn7eZn8wJ"
+    },
+    "32272215514131": {
+      "slug": "proplayer",
+      "updated_at": "2026-03-30T17:22:38Z",
+      "hash": "260612b5babf9c00b624ead6fdce75e2",
+      "file_id": "file-ErUbEF9gKFxWkwCwomfgL2"
+    },
+    "30003143806099": {
+      "slug": "how-to-use-the-optisigns-mobile-admin-app",
+      "updated_at": "2026-06-11T11:49:35Z",
+      "hash": "cdf86057564584b3c683b8541fa6a8ab",
+      "file_id": "file-Fqc8iWUxGiv1NyowHWw9gi"
+    },
+    "29863080711059": {
+      "slug": "how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync",
+      "updated_at": "2026-01-29T16:01:49Z",
+      "hash": "cdd4ff67914bf1266f61fc0cd63d1b8c",
+      "file_id": "file-95KM6BXSH48JZykLn6jvR4"
+    },
+    "28295074995859": {
+      "slug": "how-to-manage-and-edit-your-playlist-settings",
+      "updated_at": "2026-06-04T22:14:32Z",
+      "hash": "e61b4f936084b0733a70202ff98a9873",
+      "file_id": "file-FqLRR88h52A17EKZNFMahU"
+    },
+    "28026588373139": {
+      "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3",
+      "updated_at": "2025-09-04T15:34:19Z",
+      "hash": "e2383c5335d8b7985c417f41dd29b159",
+      "file_id": "file-3UNMUE3XmzxmtSRet11iyX"
+    },
+    "25607930101907": {
+      "slug": "how-to-get-the-most-out-of-your-digital-signs",
+      "updated_at": "2026-06-08T15:18:50Z",
+      "hash": "44195894484f8fcf7d0427974c61c5f8",
+      "file_id": "file-SNMY7aV7JttquRe9iwmXTA"
+    },
+    "18986181635859": {
+      "slug": "how-to-share-contents-with-other-users-teams",
+      "updated_at": "2026-05-29T17:35:48Z",
+      "hash": "706b85cdf4022d7df85f1b5f19c5fbff",
+      "file_id": "file-EirgSQ7uohE4GmHE5rgYJo"
+    },
+    "4472060158355": {
+      "slug": "how-to-get-the-list-of-playlists-where-the-asset-is-used",
+      "updated_at": "2025-08-29T19:04:36Z",
+      "hash": "58e00a7cefd3c50c1019825109aacabb",
+      "file_id": "file-HYmUAkBLPXwxPUZ8AVoJL6"
+    },
+    "4414563797139": {
+      "slug": "generate-manage-optisigns-api-key",
+      "updated_at": "2025-09-04T18:50:38Z",
+      "hash": "e92bc2afcd6c0adc97feb5483836e524",
+      "file_id": "file-BMursRwT7PdmQiatYezvEC"
+    },
+    "360054557434": {
+      "slug": "view-billing-history-and-download-receipts",
+      "updated_at": "2025-09-04T15:43:44Z",
+      "hash": "7418f3eaeb9eec9d9aebfd4922e7c424",
+      "file_id": "file-PaSaRPNKJ15rTNXhFEKVjm"
+    },
+    "360050855313": {
+      "slug": "how-to-link-instagram-business-or-creator-account-to-facebook-account",
+      "updated_at": "2025-08-28T18:44:34Z",
+      "hash": "f934078c3f6f0ea5a5d231d8686ef951",
+      "file_id": "file-NRY7P2n7YKXfpbvgdYdxMW"
+    },
+    "360050642833": {
+      "slug": "how-to-use-google-slides-with-optisigns",
+      "updated_at": "2026-01-31T15:45:41Z",
+      "hash": "631fffd4a70e8303e3e8f0d3b48d5cb9",
+      "file_id": "file-3HP3z7DGid1um9GtBiNaaE"
+    },
+    "360041501494": {
+      "slug": "macos",
+      "updated_at": "2025-09-02T20:32:57Z",
+      "hash": "be194988c1890e51d3b534dc0c7f16c0",
+      "file_id": "file-Egy96tTT9ZJSbq5gGwA7Lw"
+    },
+    "360035739414": {
+      "slug": "how-to-preview-a-screen",
+      "updated_at": "2026-05-17T21:11:45Z",
+      "hash": "9d689263b30b6b48990cfc520ff7381f",
+      "file_id": "file-2k7764zzGBGe642LTmnfQE"
+    },
+    "360024310813": {
+      "slug": "how-to-use-a-pdf-with-optisigns",
+      "updated_at": "2025-09-04T18:06:19Z",
+      "hash": "1ed78a32987fd9800a4c30a9d246143b",
+      "file_id": "file-LexLopkJwvUAwNRRPkYQMT"
+    },
+    "360016380053": {
+      "slug": "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick",
+      "updated_at": "2025-09-05T15:00:49Z",
+      "hash": "c2db7435dc64294afe371082dc3b70e4",
+      "file_id": "file-899Mc7fnJ8F1AwPF3ojr6y"
+    },
+    "42830652820115": {
+      "slug": "your-templates",
+      "updated_at": "2026-05-12T21:04:13Z",
+      "hash": "d34d2c433f727967a6527c65613eb38f",
+      "file_id": "file-GSyUdv1DuBwiTgCssPd1Rv"
+    },
+    "38680194603155": {
+      "slug": "promax",
+      "updated_at": "2026-03-30T17:22:38Z",
+      "hash": "02488bc9b53b61a66acba7f12e14fcee",
+      "file_id": "file-NBqGbq3fCRKPEEoX4VpqZS"
+    },
+    "35626165056787": {
+      "slug": "how-to-contact-optisigns-support",
+      "updated_at": "2025-09-04T17:13:59Z",
+      "hash": "e96cecb8eb63ef283282c2a63c18c9ac",
+      "file_id": "file-GKgxBCcnP925qHk84JedE9"
+    },
+    "29838866920211": {
+      "slug": "how-to-add-google-sheets-as-a-datasource-for-optisync",
+      "updated_at": "2025-09-04T14:07:29Z",
+      "hash": "a02fa6ac3c927360ef659afe38ab99d0",
+      "file_id": "file-J75do92pvDEsBQcwtRxjZc"
+    },
+    "27676133574547": {
+      "slug": "i-received-the-optisigns-device-but-it-s-onhold-and-cannot-assign-content",
+      "updated_at": "2025-08-28T19:48:56Z",
+      "hash": "afeb60f8f635b903f87ac3b49dea79d4",
+      "file_id": "file-5omLQA9MGxtZRZjNpoZnHX"
+    },
+    "17639078588691": {
+      "slug": "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case",
+      "updated_at": "2026-05-28T20:38:07Z",
+      "hash": "13cad0c0134f0cc0afd2a97fc3a2f515",
+      "file_id": "file-Pz8KKMrdBKqVD73P4YsoSv"
+    },
+    "6636047009427": {
+      "slug": "how-to-install-optisigns-player-on-apple-tv",
+      "updated_at": "2025-09-02T19:59:56Z",
+      "hash": "b97b099511bcfa8d40cc22b2e7e0d98b",
+      "file_id": "file-JnfiPAg8zW4oprp82rVvek"
+    },
+    "4414563863827": {
+      "slug": "get-started-with-optisigns-api",
+      "updated_at": "2025-11-06T16:52:11Z",
+      "hash": "3bb0194e1a1a5ff427ebc27e6ac2316a",
+      "file_id": "file-NgxWn1ctdE3qfVRJkh3wzt"
+    },
+    "1500002047642": {
+      "slug": "advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens",
+      "updated_at": "2025-09-02T19:14:05Z",
+      "hash": "74d07ed914d61c5f98c4f27bf57155c4",
+      "file_id": "file-9tQWc5bUwU3p67g6kZZJz8"
+    },
+    "360053211594": {
+      "slug": "set-optisigns-as-screensaver-on-windows",
+      "updated_at": "2025-08-29T20:39:30Z",
+      "hash": "bcda8904e5dc13a0d6a428e62cbc92bf",
+      "file_id": "file-7CzofnS77naYM2gbMMWjTN"
+    },
+    "360051014773": {
+      "slug": "show-youtube-video-s-subtitle-closed-caption",
+      "updated_at": "2025-07-31T18:59:55Z",
+      "hash": "e4ed5915f4c28df0cd8b6d5de0ae6ad1",
+      "file_id": "file-PtD3Wz8UR83queDU7YZrKX"
+    },
+    "360034379573": {
+      "slug": "linux",
+      "updated_at": "2025-09-04T19:26:34Z",
+      "hash": "cf379a4904fa3bf6362e26907f1a4d18",
+      "file_id": "file-BEBnmE1EghKgLWoLLu6rQm"
+    },
+    "360016833514": {
+      "slug": "changing-screen-s-orientation-portrait-landscape",
+      "updated_at": "2025-09-04T15:18:11Z",
+      "hash": "7429780175a8f17395916ff7b4594a34",
+      "file_id": "file-CKZggaCGLJenbHLAkpi5Bp"
+    },
+    "360016485633": {
+      "slug": "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv",
+      "updated_at": "2025-08-29T18:49:22Z",
+      "hash": "39e137f455b7dc1832e286f2886e62a2",
+      "file_id": "file-WZ76KRwUEeZN3DVMvTUgPM"
+    },
+    "360016388733": {
+      "slug": "how-to-create-and-use-instagram-wall",
+      "updated_at": "2025-09-02T20:31:50Z",
+      "hash": "6ed60000f5d85d94c4b75d5381808f54",
+      "file_id": "file-AAESEyDDNPdk4i5QhfydnR"
+    },
+    "360016219114": {
+      "slug": "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month",
+      "updated_at": "2025-08-28T19:48:02Z",
+      "hash": "0537adfd1b4b98453b92829b0fbc87e6",
+      "file_id": "file-1yMnep4a8HwDSD6uRL2wbk"
+    },
+    "44652521310099": {
+      "slug": "kiosk10",
+      "updated_at": "2026-05-28T16:41:17Z",
+      "hash": "f260c9f3003301393597ded204090b74",
+      "file_id": "file-5FQMeDF8xerqKjV33MDtER"
+    },
+    "42436941395475": {
+      "slug": "widgets-in-designer",
+      "updated_at": "2026-06-03T15:53:35Z",
+      "hash": "bbcc1822d99a9915172ed818d4b41310",
+      "file_id": "file-U9hS2nuaTLmyxCMTD8Y3Q9"
+    },
+    "33468569218067": {
+      "slug": "how-to-display-dynamic-event-schedules-using-optisync",
+      "updated_at": "2025-09-04T14:59:16Z",
+      "hash": "105fa9e7e9cb107c7d9cb291f6bd570a",
+      "file_id": "file-8CrxsnWKoYuQS3UtpGfBYt"
+    },
+    "27607906766483": {
+      "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device",
+      "updated_at": "2025-08-29T16:56:22Z",
+      "hash": "f516553685decca74a948cb2d57dbe77",
+      "file_id": "file-E8oN9kdSDvZUGgnqf2g43e"
+    },
+    "17129313173395": {
+      "slug": "how-to-manage-sub-account-billing-with-optisigns",
+      "updated_at": "2026-06-24T17:40:46Z",
+      "hash": "478fbda16c1407f591b1fba9cf5ee260",
+      "file_id": "file-XhFRaAuD5xL4GUMcEy7aFn"
+    },
+    "14726570281875": {
+      "slug": "how-to-install-optisigns-on-samsung-tizen-smart-tvs",
+      "updated_at": "2025-09-02T19:37:57Z",
+      "hash": "85204e05005651c26cc0b00317808ec6",
+      "file_id": "file-NMJs9RuZZGDe2U2RxyjGvs"
+    },
+    "4414553099667": {
+      "slug": "graphql-api-tutorial-pair-and-assign-content-to-screen",
+      "updated_at": "2025-09-04T18:53:07Z",
+      "hash": "3e56d96e3d1cefe2ab568f8cbe013876",
+      "file_id": "file-QrnR9zhJzuvyXgonXn2MiE"
+    },
+    "4403015887763": {
+      "slug": "moderate-your-social-media-feeds",
+      "updated_at": "2025-09-02T19:15:50Z",
+      "hash": "09dea8dfcfd657b4e295ad0678e1f572",
+      "file_id": "file-TwH9Ldbi1a4axyX5yGyMck"
+    },
+    "1500004699122": {
+      "slug": "android-tv-chromecast",
+      "updated_at": "2025-09-02T19:55:41Z",
+      "hash": "4b4f214b9bebdb8d60906ff326e6e65c",
+      "file_id": "file-H9jRHoBetAr6FaVMi2i3xc"
+    },
+    "360063693093": {
+      "slug": "how-to-use-approval-workflow-feature",
+      "updated_at": "2025-08-29T18:47:00Z",
+      "hash": "2245639f4d2a1570184dbb09383ae867",
+      "file_id": "file-AtubBwTcZacZ5xQd2uqEib"
+    },
+    "360021855653": {
+      "slug": "what-hardware-and-devices-are-supported",
+      "updated_at": "2026-01-07T16:05:26Z",
+      "hash": "69988b89c550095b10cd7d9170dbefb6",
+      "file_id": "file-DVZ6VgFNWkeBX39jVnJNdG"
+    },
+    "360019588654": {
+      "slug": "how-to-tell-which-dropbox-account-that-i-linked-to-optisigns",
+      "updated_at": "2025-08-29T18:51:46Z",
+      "hash": "c90c68cbceb8973bdaf363d6f17eff16",
+      "file_id": "file-7VGgXBEkYVdo49wbd1xBwp"
+    },
+    "360017964153": {
+      "slug": "how-to-use-weather-apps-in-optisigns",
+      "updated_at": "2025-09-02T19:43:55Z",
+      "hash": "c56676852c2d952b3a435734b4697bab",
+      "file_id": "file-XNLHchNiCUuiLG8C1kcsHr"
+    },
+    "360016375153": {
+      "slug": "assign-content-to-your-screens",
+      "updated_at": "2025-08-29T21:09:05Z",
+      "hash": "5ae2d6685e1af180dcde56099090a597",
+      "file_id": "file-LJsbWDdXeYsF3AAztkPFef"
+    },
+    "44669013147923": {
+      "slug": "kiosk32",
+      "updated_at": "2026-04-29T15:27:37Z",
+      "hash": "0d624b7d550f0228a24480f7f3e011a5",
+      "file_id": "file-BoTT33psogfowwupTrnT87"
+    },
+    "42526907045651": {
+      "slug": "photos-gifs-and-qr-codes-in-designer",
+      "updated_at": "2025-09-26T20:04:17Z",
+      "hash": "99e416b2df57b8e67823a2f3585a385a",
+      "file_id": "file-Fknovx835qCfrM5CnYonqy"
+    },
+    "29979283289235": {
+      "slug": "how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets",
+      "updated_at": "2026-01-09T02:22:54Z",
+      "hash": "1fd1932a2f03b956832f469516efea2c",
+      "file_id": "file-VR5sYKovmVXqPGVgkLib7g"
+    },
+    "27070013297427": {
+      "slug": "display-device-info-onscreen",
+      "updated_at": "2025-09-04T15:08:40Z",
+      "hash": "6dc3b58189bba06e59b2e63d959d49db",
+      "file_id": "file-TKEuKPjGxDNLsx5QCxVBfM"
+    },
+    "14557706459283": {
+      "slug": "present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-add-on",
+      "updated_at": "2025-09-04T15:09:56Z",
+      "hash": "9bae584e7ac9b02b671d31e3d9ec883d",
+      "file_id": "file-TqFbwV58RiDFQvTwETypcH"
+    },
+    "4414558295955": {
+      "slug": "tutorial-create-update-add-remove-items-from-playlists",
+      "updated_at": "2025-09-04T19:02:46Z",
+      "hash": "5a971f8aae427d8c58893414aa2a6d04",
+      "file_id": "file-4JSBcLnzGM2apNSf68z25S"
+    },
+    "4411762539027": {
+      "slug": "multilingual-and-multi-currency",
+      "updated_at": "2025-09-04T15:30:19Z",
+      "hash": "a751051381a3d7040f54e28cf9f9a84a",
+      "file_id": "file-5oWTzrmBrJwSC9wwJqfuri"
+    },
+    "1500008112642": {
+      "slug": "how-to-install-optisigns-player-on-android-boxes",
+      "updated_at": "2025-09-02T19:45:53Z",
+      "hash": "79e0d6e453dc7f2e827e4bfc460799f7",
+      "file_id": "file-NEb8AqbJyPbKr73dLqmzGz"
+    },
+    "360034379693": {
+      "slug": "raspberry-pi",
+      "updated_at": "2025-10-07T15:03:02Z",
+      "hash": "ef538762b13db0fe718c762ca6c743de",
+      "file_id": "file-NBAjX1xvSFjEHjpHz8E9o1"
+    },
+    "360016990233": {
+      "slug": "multi-users-invite-your-team-members-to-your-account",
+      "updated_at": "2025-09-04T18:00:06Z",
+      "hash": "29fae6e7ac1aa1aeb9558c3255927f67",
+      "file_id": "file-EnDG88BthRx8LwB2VS68K9"
+    },
+    "360016374813": {
+      "slug": "set-up-add-a-screen",
+      "updated_at": "2025-09-04T16:14:45Z",
+      "hash": "455c8bbe39a0baac6a29a1f22f3cacab",
+      "file_id": "file-1RZap7r4H5pkUb57httiQt"
+    },
+    "46299245284243": {
+      "slug": "kiosk50",
+      "updated_at": "2026-03-30T17:22:38Z",
+      "hash": "db65f8a44d687249f9a701faf7781054",
+      "file_id": "file-UkBsFbTZwBfpeAFT9AkFat"
+    },
+    "42157810188179": {
+      "slug": "customize-text",
+      "updated_at": "2025-08-28T19:17:42Z",
+      "hash": "7108a2ed53dae98bb5d5991d396d355e",
+      "file_id": "file-3VjGvosSeQ8JgnuAdFkg9D"
+    },
+    "36562094987795": {
+      "slug": "tutorial-creating-or-updating-website-assets-using-graphql",
+      "updated_at": "2025-09-04T18:54:21Z",
+      "hash": "e533350f1da7e53124166466f9af06c6",
+      "file_id": "file-X2jCd62nJrXgAhyxkYKSNR"
+    },
+    "35337746613139": {
+      "slug": "how-to-create-custom-news-feeds-with-optisync",
+      "updated_at": "2025-10-01T19:04:05Z",
+      "hash": "edd60f83356156d81df70ca88613c013",
+      "file_id": "file-NDSZ421ow6puJ8kcqsh4wC"
+    },
+    "34087061669523": {
+      "slug": "amazon-signage-stick",
+      "updated_at": "2025-09-02T18:43:56Z",
+      "hash": "914c75e5e87e3a31b0e92a0c87b26739",
+      "file_id": "file-5n446ZdAoF9wjbYr5m7Kdr"
+    },
+    "14502723487379": {
+      "slug": "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing",
+      "updated_at": "2025-09-04T16:49:07Z",
+      "hash": "e5732b136320b30167aafa38d005b524",
+      "file_id": "file-LY3oKJEJg2sPB3akcBMfbf"
+    },
+    "4404616314515": {
+      "slug": "how-to-change-account-owners",
+      "updated_at": "2026-05-05T16:36:22Z",
+      "hash": "33a829da7146ebb46007d178f5eff358",
+      "file_id": "file-B8yQL2PYLPuU2yikiDrLU6"
+    },
+    "1500011891542": {
+      "slug": "how-to-install-optisigns-as-an-apk-file-on-android-devices",
+      "updated_at": "2025-09-04T14:06:18Z",
+      "hash": "b50a2a20f1f14503f1b8bf0a583ee205",
+      "file_id": "file-2ky6ZfYGHhYwarGc597qXa"
+    },
+    "360058700673": {
+      "slug": "how-to-unpair-a-device-screen",
+      "updated_at": "2025-08-28T20:07:13Z",
+      "hash": "3ba93bf31907fa64cdeee5344975e69a",
+      "file_id": "file-A1bpFCvvKA994hFc33c1Eg"
+    },
+    "360042424294": {
+      "slug": "how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls",
+      "updated_at": "2025-09-05T15:04:21Z",
+      "hash": "24159ff3e3bc4246c99fd3da6c3d109a",
+      "file_id": "file-9YDM8wbsvAiMJVBuRGeEq6"
+    },
+    "360016494933": {
+      "slug": "how-to-use-imovie-content-with-optisigns",
+      "updated_at": "2025-08-29T18:55:22Z",
+      "hash": "7a817f1917f5b8a9b2ba7f7d5171cd1a",
+      "file_id": "file-TSPyJrHFkXzZScZuGhj1BD"
+    },
+    "42915219118739": {
+      "slug": "legacy-datasources",
+      "updated_at": "2025-09-04T16:58:08Z",
+      "hash": "060032c4ab39566f430242f59bce8441",
+      "file_id": "file-1eoa7irRJtobkE4G65xcS9"
+    },
+    "42307234534547": {
+      "slug": "shapes-and-elements",
+      "updated_at": "2026-03-30T20:09:57Z",
+      "hash": "e75086c589efc184cf437ce21f79086a",
+      "file_id": "file-FJV8MNrUDNsgysffkLJhGY"
+    },
+    "36558834998291": {
+      "slug": "tutorial-creating-schedules-and-adding-schedule-items-using-graphql",
+      "updated_at": "2025-09-04T14:03:45Z",
+      "hash": "71bda8484d685120458ada6b4206a4d7",
+      "file_id": "file-W9J4n795T4biocZyZTbixm"
+    },
+    "35577511423635": {
+      "slug": "optisigns-pro-player-advanced-features",
+      "updated_at": "2026-03-30T17:22:38Z",
+      "hash": "edf37cf742d81016450ebad274ae953b",
+      "file_id": "file-RNDEBFukUxP3xFbo18zuzJ"
+    },
+    "18500083191059": {
+      "slug": "how-to-add-captions-to-vimeo-videos",
+      "updated_at": "2025-09-04T15:31:00Z",
+      "hash": "f66ee59cc478a358d543033933d5f680",
+      "file_id": "file-3GcAy7SqYssnjCQVQrqNWq"
+    },
+    "14502378549907": {
+      "slug": "present-share-your-screen-with-optisigns-aericast-add-on",
+      "updated_at": "2025-09-02T20:12:05Z",
+      "hash": "cbda5ed5f099c5c766e2bad0b3794d9b",
+      "file_id": "file-KApeomWruoY2hc9BCoDBZz"
+    },
+    "4404608957075": {
+      "slug": "how-to-delete-your-account-from-optisigns",
+      "updated_at": "2025-08-29T17:02:02Z",
+      "hash": "29f643c8bfdc1416459fbd4350b674e8",
+      "file_id": "file-Tga6kL9uar8i6wbY6HaeZX"
+    },
+    "360016174554": {
+      "slug": "amazon-firestick",
+      "updated_at": "2026-06-05T22:12:50Z",
+      "hash": "1cac35f3fd69a1d2dc91e75c95553603",
+      "file_id": "file-FdxeHPThcgrDg4DFPHnR9s"
+    },
+    "44650391786131": {
+      "slug": "kiosk-setup-hub",
+      "updated_at": "2026-03-30T17:22:38Z",
+      "hash": "dcf41ed3ce01bd62df13364a7c587433",
+      "file_id": "file-MrYa4BRuKYjHuBa4G55qXB"
+    },
+    "42313875427859": {
+      "slug": "brand-kit-and-enforcing-brand-guidelines",
+      "updated_at": "2025-09-04T17:25:47Z",
+      "hash": "cdbc41855f0e4b4f73edbb3343441e42",
+      "file_id": "file-6JzivT2b2ERNe86xU6hG4u"
+    },
+    "21449362442003": {
+      "slug": "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script",
+      "updated_at": "2025-09-02T20:33:55Z",
+      "hash": "12c25bc9f63c5a27648feb71c42e9ad3",
+      "file_id": "file-9GoCgxN4CuTPJsj8VF5rQM"
+    },
+    "12454101966355": {
+      "slug": "how-to-use-the-musthavemenus-app-with-optisigns",
+      "updated_at": "2025-08-29T20:23:00Z",
+      "hash": "3e7d7eea19b1235ee3cb3d020aa4dbeb",
+      "file_id": "file-EbFBZVrFJZHDFazvf5MDkA"
+    },
+    "4414558369811": {
+      "slug": "pagination",
+      "updated_at": "2025-09-04T16:16:44Z",
+      "hash": "26ba443aa8dafc270d4bc2d2019efd77",
+      "file_id": "file-6boFJXj1ViPumyUE6Pqk6F"
+    },
+    "1500009498782": {
+      "slug": "how-to-replace-update-an-existing-asset-image-video-documents",
+      "updated_at": "2025-08-29T19:08:59Z",
+      "hash": "b5289ddc2ef743ae388764ea0dbdfe3b",
+      "file_id": "file-6gqSvFfaR3WpRPQsVxQ8zL"
+    },
+    "1500009042742": {
+      "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
+      "updated_at": "2025-09-02T20:43:39Z",
+      "hash": "8090c9e950c0bff9d553e3cd93429ebe",
+      "file_id": "file-DG43xLos9Q8vdmynBFCxHZ"
+    },
+    "1500003244381": {
+      "slug": "about-the-onhold-devices-folder",
+      "updated_at": "2025-08-29T20:02:46Z",
+      "hash": "772643dc9cd147d359dd44eedf1079b7",
+      "file_id": "file-4Vv1SMFUaBU8mP6R6ptjEJ"
+    },
+    "360016981853": {
+      "slug": "creating-and-using-schedules-with-optisigns",
+      "updated_at": "2026-03-31T22:14:33Z",
+      "hash": "85cf135b06182febe647ba34a5d16980",
+      "file_id": "file-B2BqK5VdZW8fBNwCrPPpkd"
+    },
+    "360016484473": {
+      "slug": "why-does-my-screen-show-as-offline-on-the-web-portal",
+      "updated_at": "2026-05-19T19:33:42Z",
+      "hash": "22875eafade760dbb5342b477da4f9cc",
+      "file_id": "file-8pBZuyAVHvMVR54qmB1ytM"
+    },
+    "32129032857875": {
+      "slug": "where-to-buy-optisigns-devices",
+      "updated_at": "2026-03-30T17:22:38Z",
+      "hash": "eb3c84b2aa45a66209a7bb82d4c2ad84",
+      "file_id": "file-AcXiMJN254EHefTWxpwnGW"
+    },
+    "11784310183571": {
+      "slug": "how-to-use-waitwhile-app",
+      "updated_at": "2025-08-29T21:22:22Z",
+      "hash": "b0f86ac9b68e172f51aba25c6a7a7cf6",
+      "file_id": "file-BbsQi9zfF1j6hoxZq4bF2h"
+    },
+    "5090125683219": {
+      "slug": "brightsign-players",
+      "updated_at": "2026-05-05T15:50:07Z",
+      "hash": "fe3c16e971d30882df2465597f0c8bfe",
+      "file_id": "file-E7X5HK1GzChJXkRXHoBU9R"
+    },
+    "4414564078995": {
+      "slug": "error-handling",
+      "updated_at": "2025-09-11T14:10:24Z",
+      "hash": "1321d2894ae4646882088da978a290d8",
+      "file_id": "file-FBmSLHrXgEWqXyi6cfjCrJ"
+    },
+    "360016484393": {
+      "slug": "how-can-i-improve-stability-of-fire-tv-as-digital-signage-player",
+      "updated_at": "2025-09-04T15:33:49Z",
+      "hash": "ae64b79dc58dd0770f119820b1c53dac",
+      "file_id": "file-QJprFDvRbYxyNqwuxTSrDR"
+    },
+    "360016375793": {
+      "slug": "can-i-have-my-invoices-receipts-sent-to-a-different-email-address",
+      "updated_at": "2025-08-28T19:44:46Z",
+      "hash": "ea24999b376eb813072277cb43f6d50c",
+      "file_id": "file-7PdaG93bYYCYCTkgSp4Jn7"
+    },
+    "36558469962643": {
+      "slug": "subscription-function-in-graphql",
+      "updated_at": "2025-09-04T15:00:36Z",
+      "hash": "98f6ddece6535a7f3ef5403eaf75c36a",
+      "file_id": "file-8Brjdd9tYEc8dD2YrdMmwA"
+    },
+    "360019710493": {
+      "slug": "how-to-display-google-slide-in-portrait-mode",
+      "updated_at": "2025-09-04T15:42:07Z",
+      "hash": "02d0c354bc823722f28a1d1f06862d1d",
+      "file_id": "file-BZxz2wD5ANoyoQjaHyNekx"
+    },
+    "360016376793": {
+      "slug": "what-happen-if-internet-connection-is-lost",
+      "updated_at": "2026-05-26T18:14:07Z",
+      "hash": "0b8de3bdf12c52fff524b5c5928c2290",
+      "file_id": "file-ELYQtxeSTJP6JrsfhtSxa4"
+    },
+    "360016252394": {
+      "slug": "web-browser-as-optisigns-player",
+      "updated_at": "2025-08-28T19:05:36Z",
+      "hash": "2a2159133aa291cc6a01714cd4a30ebf",
+      "file_id": "file-7tGNkNkeC15nXW99z3BpsW"
+    },
+    "11116333259283": {
+      "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade",
+      "updated_at": "2026-06-10T11:03:57Z",
+      "hash": "da8a60f8f43077f1ca56e1fdc46ec4ac",
+      "file_id": "file-YQxPezNDsSsA7RsQ6LgVv1"
+    },
+    "11032964830227": {
+      "slug": "how-to-use-monday-com-app",
+      "updated_at": "2025-09-04T15:31:20Z",
+      "hash": "3ace748bb63598aff4e4c98b09784caf",
+      "file_id": "file-VHssRizyNy31CWWF5tuzR4"
+    },
+    "4414558392339": {
+      "slug": "api-reference",
+      "updated_at": "2025-09-05T15:04:56Z",
+      "hash": "6705e1a34443d64c9041881a869dff9e",
+      "file_id": "file-M2uwpLrufpxkcCHQ8sRSaz"
+    },
+    "360060049534": {
+      "slug": "how-to-export-high-resolution-canvas-template-designs",
+      "updated_at": "2025-08-28T19:46:15Z",
+      "hash": "e2819d2b3bcba577dcb65ce050626024",
+      "file_id": "file-UE4mBWtTakGtBfrMXVqeBb"
+    },
+    "12498801963027": {
+      "slug": "show-offline-indicator-feature",
+      "updated_at": "2025-08-28T19:46:51Z",
+      "hash": "11141a04881811015361c3e835180cd1",
+      "file_id": "file-XVTF7PNDvf8jDdrpJqUkY8"
+    },
+    "10259143299219": {
+      "slug": "how-to-use-website-screenshot-app",
+      "updated_at": "2026-06-25T19:46:15Z",
+      "hash": "8df6bdb7fa9d63915c3949b85bf208fd",
+      "file_id": "file-P1SXGZBDqLGBoRAzoomomG"
+    },
+    "4414496579475": {
+      "slug": "lg-webos-signage-commercial-grade",
+      "updated_at": "2025-09-04T18:03:17Z",
+      "hash": "f9d8a6607e9ed41d88f243964215e3b2",
+      "file_id": "file-UNxGWhQdy49PZnH4jwNxsv"
+    },
+    "360016253694": {
+      "slug": "is-there-storage-limit-for-my-account",
+      "updated_at": "2025-07-30T06:36:27Z",
+      "hash": "92014ada5ec1b4ab50bb1185bb227d8c",
+      "file_id": "file-KPrUfm1majJHs6fV73TcPx"
+    },
+    "12947820509971": {
+      "slug": "show-hide-offline-indicator-on-your-player",
+      "updated_at": "2025-08-29T21:13:36Z",
+      "hash": "5fcdd58020f6084059cc6e234e2da85b",
+      "file_id": "file-PHTKKjMF6mCXaeRAyWtNxZ"
+    },
+    "9392587446675": {
+      "slug": "how-to-use-airtable-with-optisigns",
+      "updated_at": "2025-08-29T20:20:28Z",
+      "hash": "8bd80971198c51f735884cd5fd7bd8a1",
+      "file_id": "file-UKsUTghxYPdMu5xaqXKsiD"
+    },
+    "4404879296403": {
+      "slug": "how-to-clean-data-on-the-optisigns-android-stick",
+      "updated_at": "2025-09-05T15:00:38Z",
+      "hash": "cd011053d69211c0bcb5dd33054f08cb",
+      "file_id": "file-YbNpHYZKhaYcM9v7rkBeQU"
+    },
+    "360021856013": {
+      "slug": "use-your-mac-windows-device-as-a-test-screen",
+      "updated_at": "2025-09-04T20:39:46Z",
+      "hash": "9f157cef75a14a471b2d7c5701341153",
+      "file_id": "file-WY5ud3tfGtw2CG9rMWoL6B"
+    },
+    "360016253574": {
+      "slug": "how-do-i-suggest-new-features-improvement",
+      "updated_at": "2025-08-28T19:44:58Z",
+      "hash": "9a9c5c1a51005c7d713e8e419e597b8f",
+      "file_id": "file-Kshp43ZAver2NpwoaMP9GX"
+    },
+    "8899727608083": {
+      "slug": "how-to-use-the-qr-scan-to-interact-touchless-qr-app",
+      "updated_at": "2025-08-05T15:21:30Z",
+      "hash": "47ff7f4420e6e9d491a4ea2106560b13",
+      "file_id": "file-5kmZbyZsm2n55oQ535BfCp"
+    },
+    "8399990754195": {
+      "slug": "how-to-display-smartsheet-report-on-optisigns",
+      "updated_at": "2025-09-04T18:50:22Z",
+      "hash": "9c83a4eb47335323f142c854aa1fa7b4",
+      "file_id": "file-UEmNh511S9EvJVtavon1v1"
+    },
+    "8369526604435": {
+      "slug": "how-to-use-the-video-stream-app",
+      "updated_at": "2025-09-04T15:17:48Z",
+      "hash": "983957ed9f47ac87bbe778a7887f13bb",
+      "file_id": "file-BQm4wqWZtMehkgerAU9tKz"
+    },
+    "8098889840531": {
+      "slug": "how-to-use-rtsp-streams-on-optisigns-devices",
+      "updated_at": "2026-03-16T15:03:03Z",
+      "hash": "d7936d5ecac2f6eaf6aab325100a153e",
+      "file_id": "file-5LQ77duaaEuWiRVKkt4wYv"
+    },
+    "8066591235603": {
+      "slug": "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns",
+      "updated_at": "2025-09-02T19:20:51Z",
+      "hash": "d325c6fcfee199ce6e88b4d344ba95f2",
+      "file_id": "file-7YypXJntrbspuUTLzCdr6R"
+    },
+    "6757989639827": {
+      "slug": "how-to-use-the-weather-alert-app",
+      "updated_at": "2025-08-29T20:04:43Z",
+      "hash": "aa3cb8e4c2dce61457ea5bfcfb9f8351",
+      "file_id": "file-LqVXUXphRnnX3sD8s4KH9U"
+    },
+    "6604468198291": {
+      "slug": "how-to-use-the-cap-alert-app",
+      "updated_at": "2026-03-13T16:05:48Z",
+      "hash": "73c9b9fb0e25e58ec9485bd4dd01b1df",
+      "file_id": "file-4qbg8xPT9vR6gLEiGnLSFr"
+    },
+    "6091289267475": {
+      "slug": "how-to-use-matterport-app",
+      "updated_at": "2025-08-29T21:50:33Z",
+      "hash": "69c290ecbf6af52cb0b925dd3d5b828c",
+      "file_id": "file-CTGnBnoDd3uKUnfAFYkAxq"
+    },
+    "6086986017299": {
+      "slug": "how-to-use-optisigns-screen-capture-app",
+      "updated_at": "2025-09-05T14:51:05Z",
+      "hash": "8a912e44ed060e7403fb7c61ada0de8e",
+      "file_id": "file-Jsnf36vkEA2v8AwedDyj5q"
+    },
+    "5149077938835": {
+      "slug": "how-to-use-advanced-website-app",
+      "updated_at": "2025-08-29T19:27:36Z",
+      "hash": "a6229d24b6f3187e3110081b239f80c0",
+      "file_id": "file-MZvrzWxttNteUTQy345k2g"
+    },
+    "5119724468371": {
+      "slug": "how-to-use-notion-app",
+      "updated_at": "2025-08-29T21:52:07Z",
+      "hash": "c6bf3291138bde183be610186fb2688a",
+      "file_id": "file-1PkoUjTSrbZHUhKH32kk5C"
+    },
+    "4529298306963": {
+      "slug": "how-to-use-microsoft-excel-online-with-optisigns",
+      "updated_at": "2025-08-29T19:58:56Z",
+      "hash": "e7ec488c14243202bc342852fb385b80",
+      "file_id": "file-Tb1gpHn6NtVr9aw4vDh3Dc"
+    },
+    "4417940565139": {
+      "slug": "how-to-display-microsoft-teams-on-optisigns",
+      "updated_at": "2025-09-04T18:24:28Z",
+      "hash": "64cf01ce4669126ea2b62c4a0ba3be4c",
+      "file_id": "file-K7GKajcKbssM46JGh25uDA"
+    },
+    "4414539282067": {
+      "slug": "displaying-sharepoint-sites-on-optisigns",
+      "updated_at": "2025-11-10T15:11:25Z",
+      "hash": "07a2e5f622ef3a42f1dcff8011440811",
+      "file_id": "file-WkKErmUefxVRGz1fb2BdNm"
+    },
+    "4414355658899": {
+      "slug": "how-to-use-microsoft-powerpoint-with-optisigns",
+      "updated_at": "2026-02-05T17:57:12Z",
+      "hash": "f86f2adaddb584ea589c72e57538858c",
+      "file_id": "file-CThoDmJxU8xriu3wB3hDYQ"
+    },
+    "4411530012307": {
+      "slug": "how-to-use-microsoft-teams-live-app-with-optisigns",
+      "updated_at": "2025-09-04T15:27:21Z",
+      "hash": "3720311350d8014ecc3e9b8800d99fef",
+      "file_id": "file-942DfanDiyY19MuiXReXrS"
+    },
+    "4410655948563": {
+      "slug": "how-to-use-livestream-com-app",
+      "updated_at": "2025-08-29T19:33:32Z",
+      "hash": "114c6062c6da812e1d0c2fee79b340b1",
+      "file_id": "file-LrsTQkFCHM24QHojnqMi6f"
+    },
+    "4409673381011": {
+      "slug": "how-to-use-the-emergency-feed-app",
+      "updated_at": "2025-12-29T21:30:40Z",
+      "hash": "42e702d9014d718ae9cf5429c3519688",
+      "file_id": "file-1qYaHrWvXQn2vcM35Hc7eQ"
+    },
+    "4409607912211": {
+      "slug": "how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-android-player",
+      "updated_at": "2025-09-02T20:57:22Z",
+      "hash": "8eafd4c13a3cb36d0f6cff6d5fa94b2b",
+      "file_id": "file-49PjMsuNTCFTyoRKpBo9zz"
+    },
+    "4409448788499": {
+      "slug": "how-to-use-mrss-feeds-with-optisigns",
+      "updated_at": "2025-08-29T19:30:31Z",
+      "hash": "ab303637de7fc593987e34221a30c3be",
+      "file_id": "file-81AoL9NzerP7DSqCjNRVBa"
+    },
+    "4408052949139": {
+      "slug": "how-to-use-calendar-mix-app",
+      "updated_at": "2025-09-04T14:10:19Z",
+      "hash": "123a99db02f292814bb72c6bd153fb16",
+      "file_id": "file-6vWtxQrSrPWmneVFxRkSok"
+    },
+    "4407335862931": {
+      "slug": "how-to-use-slack-app",
+      "updated_at": "2025-12-22T15:34:06Z",
+      "hash": "cc9d3d34f8747d0efae88d6595a14b48",
+      "file_id": "file-P4jYRYFb52zjkvaMQp93Rg"
+    },
+    "4406214738707": {
+      "slug": "how-to-use-the-microsoft-meeting-room-app",
+      "updated_at": "2026-03-25T21:28:34Z",
+      "hash": "0a87f6799bb3287274b991c6fc0ea385",
+      "file_id": "file-3CURPHDxTvMG89H9qZ7onz"
+    },
+    "4406180781203": {
+      "slug": "how-to-use-linkedin-app",
+      "updated_at": "2025-09-04T18:05:53Z",
+      "hash": "f228da1a98a6d195723323c11836ef96",
+      "file_id": "file-Vh1soDuWXu3V1ZKenmPYCt"
+    },
+    "4404053129619": {
+      "slug": "how-to-use-microsoft-teams-meeting-app-with-optisigns",
+      "updated_at": "2025-09-04T18:53:44Z",
+      "hash": "9d01a14e2250232fb0c041e1061fae70",
+      "file_id": "file-DqXPNZfzUmDhGnad1cxwM3"
+    },
+    "4403267825171": {
+      "slug": "how-to-use-the-social-mix-app",
+      "updated_at": "2025-09-02T18:26:51Z",
+      "hash": "56584c4f8d60965834c5e9be06303046",
+      "file_id": "file-Si1VhK2FftvsHY7PdXshtB"
+    },
+    "1500011611322": {
+      "slug": "how-to-use-the-cbc-news-app",
+      "updated_at": "2025-10-10T18:50:47Z",
+      "hash": "092f70b8a3df129e9ca3ac72b8773612",
+      "file_id": "file-Y638zmeQTxap86xHsJNAJE"
+    },
+    "1500009492202": {
+      "slug": "how-to-use-on-this-day-app",
+      "updated_at": "2025-08-29T21:31:21Z",
+      "hash": "80c0c5c28bcd135c050fb68fd4a79f4a",
+      "file_id": "file-AzxGHLtHWvu3pKRXKyfZqp"
+    },
+    "1500009343862": {
+      "slug": "how-to-use-the-taggbox-display-app-with-optisigns",
+      "updated_at": "2025-09-04T15:16:41Z",
+      "hash": "e742cd0acf6cb8739c6c44f63287db78",
+      "file_id": "file-FzcHpZY8hasTgxoxNArf65"
+    },
+    "1500005889381": {
+      "slug": "how-to-use-the-mindmeister-app",
+      "updated_at": "2025-08-28T20:06:43Z",
+      "hash": "343ecab37222efa6beb8855e7183becb",
+      "file_id": "file-4F496oX6umLN9VqC7h7TVU"
+    },
+    "1500005888781": {
+      "slug": "how-to-best-use-canva-with-optisigns",
+      "updated_at": "2025-09-04T13:52:52Z",
+      "hash": "beb5dfd7d80508a9e9938371c9acccae",
+      "file_id": "file-1G83zJSn3Buehw2YzcNoVg"
+    },
+    "1500002233221": {
+      "slug": "how-to-use-asana-app",
+      "updated_at": "2025-09-04T15:11:27Z",
+      "hash": "40b33d246e79cdda91a8e667d017c361",
+      "file_id": "file-Doo38tUu3yKh5enpKpgicE"
+    },
+    "1500002131621": {
+      "slug": "how-to-use-youtube-live-with-optisigns",
+      "updated_at": "2025-09-05T14:35:18Z",
+      "hash": "d63045b9a01eec1e07fc1e8d94dd7e5e",
+      "file_id": "file-LgZUqV7hVF6YSpDsJhqLN8"
+    },
+    "1500002042241": {
+      "slug": "how-to-use-hdmi-other-video-input-sources-in-with-optisigns",
+      "updated_at": "2025-09-02T20:19:01Z",
+      "hash": "fdf5ed35e6c6ff1b5ee432043d0c97b5",
+      "file_id": "file-LAQsGi5xntQ2DTG9vARLCH"
+    },
+    "1500001985341": {
+      "slug": "how-to-use-the-local-folder-app-in-optisigns",
+      "updated_at": "2025-09-04T19:36:02Z",
+      "hash": "6d6918336fdf93229857b1c70c6d3841",
+      "file_id": "file-9LzNcTRcG4Xb2fKoHbFdYs"
+    },
+    "360060284174": {
+      "slug": "how-to-use-youtube-live-schedule-with-optisigns",
+      "updated_at": "2026-01-22T15:44:40Z",
+      "hash": "fd7ff623de5ecf5207697ae0b456b8f8",
+      "file_id": "file-34bLC4Yr3L1ahtapfFu1Ay"
+    },
+    "360060202914": {
+      "slug": "how-to-use-youtube-channel-with-optisigns",
+      "updated_at": "2025-08-29T20:51:56Z",
+      "hash": "a2ad1526300ccbd0f2110729186a5a62",
+      "file_id": "file-NhmxTY3SZXcNReq55WWc5v"
+    },
+    "360060919453": {
+      "slug": "how-to-put-zendesk-dashboard-on-your-signs",
+      "updated_at": "2025-09-02T18:19:33Z",
+      "hash": "8683a85729c080e1fac7b8e0b5580a4b",
+      "file_id": "file-4YjuyNjMa6f71oq8sp1HBR"
+    },
+    "360058855273": {
+      "slug": "how-to-use-google-docs-with-optisigns",
+      "updated_at": "2025-09-05T14:48:20Z",
+      "hash": "c0ae10be0b017b634b747c696033fe7c",
+      "file_id": "file-MMkC6wnukkmhmZ26mHG9gQ"
+    },
+    "360056977214": {
+      "slug": "how-to-use-google-sheets-with-optisigns",
+      "updated_at": "2025-12-12T21:10:43Z",
+      "hash": "0af83ab871b91c2e9047b8e199b167ab",
+      "file_id": "file-VUsVQTMwCWugSMHnDjEpnT"
+    },
+    "360056356414": {
+      "slug": "how-to-use-scrolling-website-app",
+      "updated_at": "2025-09-02T18:32:51Z",
+      "hash": "3b343ebfb45f4ce2f8669363444ab9b8",
+      "file_id": "file-Agt9chFJwB3vT5YKbf9pbg"
+    },
+    "360055900513": {
+      "slug": "how-to-create-and-use-virtual-screen-app",
+      "updated_at": "2025-09-04T17:02:05Z",
+      "hash": "b658af059a62c89ec5d4892fc660d770",
+      "file_id": "file-MPac2Ab8XnjzoAi8pLKxWv"
+    },
+    "360053993934": {
+      "slug": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app",
+      "updated_at": "2025-09-04T14:30:55Z",
+      "hash": "cc92f4c3b4f743c6e830d2c03f5149fb",
+      "file_id": "file-NZ8E4r7xLiE3KDeGijhfPP"
+    },
+    "360052827713": {
+      "slug": "how-to-use-the-flash-message-app",
+      "updated_at": "2025-12-23T21:35:47Z",
+      "hash": "9c1cebfe64578ffb04ceb9ed8837df99",
+      "file_id": "file-QRLLQFDd6MMdSDqcXj91P8"
+    },
+    "360052513253": {
+      "slug": "how-to-use-emergency-message-alert-app",
+      "updated_at": "2025-09-04T20:02:00Z",
+      "hash": "e359a86152b6210aceeadbd7e7fc1aac",
+      "file_id": "file-5P4PC8fR1KTJ4tJn7fDzgf"
+    },
+    "360052088413": {
+      "slug": "how-to-use-the-data-studio-app",
+      "updated_at": "2026-06-12T19:57:31Z",
+      "hash": "f144534f32ed3f8a3058a60f3cca90ac",
+      "file_id": "file-PRHqZSVnEPL3aC2YxcyRPa"
+    },
+    "360051317774": {
+      "slug": "how-to-use-facebook-recommendations-app",
+      "updated_at": "2025-09-04T16:16:13Z",
+      "hash": "7e531768559a17bdd85e8fc15ef6388e",
+      "file_id": "file-Dv3s9anCp1oyJt3zkmPV3N"
+    },
+    "360051495193": {
+      "slug": "how-to-use-instagram-business-app",
+      "updated_at": "2025-12-12T20:56:01Z",
+      "hash": "4c9f98abbc052c30a4435256db6d2285",
+      "file_id": "file-XSHsDrvDNV1BB5guNszbqh"
+    },
+    "360050244454": {
+      "slug": "how-to-use-trello-app",
+      "updated_at": "2025-09-05T14:35:39Z",
+      "hash": "d9a5229d2b5175e837dd5c67d4c4760a",
+      "file_id": "file-JU2uWo4FkLaWkbJYZgKXUq"
+    },
+    "360051014713": {
+      "slug": "how-to-use-youtube-with-optisigns",
+      "updated_at": "2026-06-18T05:00:56Z",
+      "hash": "4b84c6a851843260652b49b885342077",
+      "file_id": "file-NyF37g7YAyySw86ojAzvNo"
+    },
+    "360049875794": {
+      "slug": "how-to-use-follow-us-app",
+      "updated_at": "2026-07-05T19:15:39Z",
+      "hash": "ef6ff96c8b5cbfb8d0a9320627016d0d",
+      "file_id": "file-X454tCtw6rVuEzx2srkfST"
+    },
+    "360049872414": {
+      "slug": "how-to-use-facebook-video-app",
+      "updated_at": "2025-09-05T14:55:21Z",
+      "hash": "00225271d23880faee48a64acddbbfea",
+      "file_id": "file-5DjF2MGykX8aEj2wK4hBAZ"
+    },
+    "360050665413": {
+      "slug": "how-to-use-dropbox-app",
+      "updated_at": "2025-10-10T11:34:21Z",
+      "hash": "a31baf29435b7a136111fff41988e163",
+      "file_id": "file-LG17Nb9hsce4kV69DwQqwi"
+    },
+    "360050665253": {
+      "slug": "how-to-use-the-onedrive-app",
+      "updated_at": "2026-01-29T15:45:29Z",
+      "hash": "6d9d6cb3c9e832b32632a64aefe4048a",
+      "file_id": "file-Ur4QRwHcZKiMMaiu23QENY"
+    },
+    "360050664913": {
+      "slug": "how-to-use-google-trends-app",
+      "updated_at": "2025-08-28T20:18:21Z",
+      "hash": "1886f12b495e626e19eec8c9308cafd9",
+      "file_id": "file-AYj1Rj1twt9JZVCoyT67Ke"
+    },
+    "360049159814": {
+      "slug": "how-to-use-walls-io-app",
+      "updated_at": "2025-09-04T20:16:07Z",
+      "hash": "0cf462a4ac6be05401c2521be77d95cc",
+      "file_id": "file-GSACGhWdGCTGQyeHyH8R5f"
+    },
+    "360049156234": {
+      "slug": "how-to-use-currency-exchange-app",
+      "updated_at": "2025-09-04T15:14:58Z",
+      "hash": "a5b5974ce29f097a5ff3ad2d4d66cbdc",
+      "file_id": "file-GjLSV11HnSMnGwTApGRy9f"
+    },
+    "360049919933": {
+      "slug": "how-to-use-crypto-index-crypto-exchange-app",
+      "updated_at": "2025-08-29T21:36:03Z",
+      "hash": "3a7242d179843025fe742fcae94e68a5",
+      "file_id": "file-Qp1Ee84jaz9XW3f37Xr5vP"
+    },
+    "360049155994": {
+      "slug": "how-to-use-market-index-app",
+      "updated_at": "2025-08-29T21:28:36Z",
+      "hash": "51578fde58590610aa2f3cdf8054b78f",
+      "file_id": "file-AJ7zZWGUUJXaMNWo3iRNRG"
+    },
+    "360049518313": {
+      "slug": "how-to-use-google-drive-app",
+      "updated_at": "2025-08-29T19:49:24Z",
+      "hash": "a1fe1cf70a1927f880da6f2fb3fdb23f",
+      "file_id": "file-UMy5ViWjeyKMyVF3fUKCfq"
+    },
+    "360049030453": {
+      "slug": "how-to-use-the-motivational-quote-app",
+      "updated_at": "2025-08-29T21:33:29Z",
+      "hash": "a589d52c7d7ee2ce278a654df57c2e40",
+      "file_id": "file-4rpvbfSwr41B1Qy8q94zqH"
+    },
+    "360048660813": {
+      "slug": "how-to-use-facebook-live-stream-app",
+      "updated_at": "2025-09-02T18:30:50Z",
+      "hash": "a329068c3e4756404d8d96abd0218a6a",
+      "file_id": "file-TMagEJhJJ6cUSAtfiM29gF"
+    },
+    "360047501233": {
+      "slug": "how-to-use-instagram-counter-app",
+      "updated_at": "2025-08-29T20:18:47Z",
+      "hash": "aebeaecb0e636277a755c4d6a21d70f5",
+      "file_id": "file-Y9EaWZbADXRbEHRmffZKyN"
+    },
+    "360047499893": {
+      "slug": "how-to-use-google-traffic-app",
+      "updated_at": "2025-08-28T19:56:05Z",
+      "hash": "73d838d1005d0fe9645d50d912b5ab04",
+      "file_id": "file-GjJKkcrpL9cwSuYybBxrec"
+    },
+    "360046859534": {
+      "slug": "how-to-use-twitch-app",
+      "updated_at": "2025-09-05T14:57:13Z",
+      "hash": "7631fb0f2f0daf09a2ac363f4b499a45",
+      "file_id": "file-Rrd3EBSGbTdSBE2h46ceYq"
+    },
+    "360044619014": {
+      "slug": "how-to-use-the-facebook-counter-app",
+      "updated_at": "2026-02-02T15:31:45Z",
+      "hash": "0e5eb2c7f8a2020ee745ad7e4396e571",
+      "file_id": "file-TUgbSGsDq85yeUApcBvtgS"
+    },
+    "360045121233": {
+      "slug": "how-to-use-the-new-york-times-app",
+      "updated_at": "2025-10-10T19:47:31Z",
+      "hash": "10aab12f4c11ca488a7cdb6e51331936",
+      "file_id": "file-1Gx1aRr9vP6Sp7k6KgGSFo"
+    },
+    "360044613874": {
+      "slug": "how-to-use-the-guardian-app",
+      "updated_at": "2025-10-10T19:42:20Z",
+      "hash": "35187186a11db22280edb9b446ae5b12",
+      "file_id": "file-688GNdnGehSr5iZm4PKW2D"
+    },
+    "360045120133": {
+      "slug": "how-to-use-the-wall-street-journal-app",
+      "updated_at": "2025-10-10T19:56:12Z",
+      "hash": "3a483f3d215d5f57416f017722290112",
+      "file_id": "file-Cfrcfv1WrYR8Ev4erDnVNs"
+    },
+    "360044115513": {
+      "slug": "how-to-use-the-stock-app",
+      "updated_at": "2026-01-26T17:43:31Z",
+      "hash": "5197c61bbeeb30f7bd543beb01946dd7",
+      "file_id": "file-V7JqETW3UvhzhyuAjG8sCT"
+    },
+    "360042950593": {
+      "slug": "how-to-use-the-simple-clock-app",
+      "updated_at": "2026-01-23T15:20:46Z",
+      "hash": "c8fe18b943a53ac9fa5c783dfce69caf",
+      "file_id": "file-VJn1oWGv12bP8zgnD5rC4f"
+    },
+    "360042450514": {
+      "slug": "how-to-use-world-clock-app",
+      "updated_at": "2025-08-29T21:54:59Z",
+      "hash": "8d275d8a7aac467ec0dbae88981f977f",
+      "file_id": "file-XYDsaHVcFTh44aMUmb7Jbz"
+    },
+    "360041222994": {
+      "slug": "how-to-use-the-countup-app",
+      "updated_at": "2026-05-05T17:07:53Z",
+      "hash": "10dbd090eee3e56ab9c1a460b77fcc2a",
+      "file_id": "file-NGBy6nGV2EKEt72ZzvxKuF"
+    },
+    "360041638433": {
+      "slug": "how-to-use-the-countdown-app",
+      "updated_at": "2026-05-05T17:08:12Z",
+      "hash": "c7273b0c0a74b018a54faaa59f3fd9c1",
+      "file_id": "file-VEbEDbK6UVTVHZFDiLHBW8"
+    },
+    "360041481553": {
+      "slug": "how-to-use-simple-calendar-app",
+      "updated_at": "2025-08-29T18:57:26Z",
+      "hash": "e1605c752d0341d708d985b702cdafc9",
+      "file_id": "file-1rVdfdCxbdX7uiRiEV8MiV"
+    },
+    "360040991534": {
+      "slug": "how-to-use-the-techcrunch-news-app",
+      "updated_at": "2025-10-10T19:57:42Z",
+      "hash": "5dcacfd1d19141fe140b6c279807596d",
+      "file_id": "file-LLvyCMJM8XKrGKmLkuNYL2"
+    },
+    "360040991474": {
+      "slug": "how-to-use-the-espn-news-app",
+      "updated_at": "2025-10-10T18:54:38Z",
+      "hash": "76eb5f570b71ec062179f9d6df193780",
+      "file_id": "file-F2wSwVJCEbd9sNp3vW7eRc"
+    },
+    "360041476213": {
+      "slug": "how-to-use-the-cnn-news-app",
+      "updated_at": "2025-09-30T20:41:34Z",
+      "hash": "961e6f4721bd7934d14e780d83c46ab6",
+      "file_id": "file-478VTAQhDCFcywfr5VCsj6"
+    },
+    "360039264133": {
+      "slug": "how-to-create-and-use-qr-code-call-to-action-app",
+      "updated_at": "2025-08-29T18:55:06Z",
+      "hash": "3d2aeace6b9d121fed288e77f9892849",
+      "file_id": "file-SFLm7nyF4ATnEtFK9VC8cM"
+    },
+    "360038769394": {
+      "slug": "how-to-create-and-use-yelp-reviews-wall",
+      "updated_at": "2025-09-02T20:21:49Z",
+      "hash": "2113e24a8ac1732049c0f0108aef5591",
+      "file_id": "file-EZD3kKDXCov5tYSWraePWG"
+    },
+    "360037463934": {
+      "slug": "how-to-create-and-use-google-reviews-wall",
+      "updated_at": "2025-09-04T20:21:45Z",
+      "hash": "3344a8af2085a6aeaece58983da85821",
+      "file_id": "file-4YfCVoE6ad33xbie3Egr92"
+    },
+    "360036250853": {
+      "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
+      "updated_at": "2026-03-25T21:28:19Z",
+      "hash": "f4ff01d80ff98235b0553caa5b3b7e67",
+      "file_id": "file-Ti3CeBXLi9dBoHFd6swLvb"
+    },
+    "360037965133": {
+      "slug": "how-to-use-rss-feeds-with-optisigns",
+      "updated_at": "2026-06-15T16:04:29Z",
+      "hash": "143237539cf14c824c5fa8e2f5d7b025",
+      "file_id": "file-CeBs5UbaVt9tUXGzpzBnSS"
+    },
+    "360035815114": {
+      "slug": "how-to-use-embed-app",
+      "updated_at": "2025-09-04T15:10:33Z",
+      "hash": "61490f79c17da0bfab88eb1e60a769fb",
+      "file_id": "file-1vtfLteDxX71QKiLV7qPFR"
+    },
+    "360024859713": {
+      "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
+      "updated_at": "2026-03-25T21:24:00Z",
+      "hash": "249ea4cfc6a75c8d7b63ba22fc8cf88a",
+      "file_id": "file-ScnQDqgQETGjZDajcj2eBf"
+    },
+    "360023848334": {
+      "slug": "how-to-use-the-facebook-page-app",
+      "updated_at": "2026-02-02T17:17:28Z",
+      "hash": "c0ffb0d68f9a717fff922d3f93034175",
+      "file_id": "file-FNPpp5Ur1ayE9TpRCBrLWg"
+    },
+    "360016375573": {
+      "slug": "how-to-use-published-google-slides-with-optisigns-old-way",
+      "updated_at": "2025-09-02T18:55:54Z",
+      "hash": "2426bdc9a34f07dddb7ba78a5083034a",
+      "file_id": "file-BrMSiETZxihHtyArcZJwED"
+    },
+    "360022393473": {
+      "slug": "how-to-use-the-news-app",
+      "updated_at": "2025-09-30T20:42:39Z",
+      "hash": "9703b465d317a381c0db1d35f35244b4",
+      "file_id": "file-8sinv5ox8FJbXWJv6kaBaC"
+    },
+    "360019517953": {
+      "slug": "how-to-use-google-calendar-with-optisigns",
+      "updated_at": "2025-11-21T01:13:20Z",
+      "hash": "b2a650a4887931b55cb2655a2d2df9fe",
+      "file_id": "file-Md1nB3E7oDQ589RnKzwohg"
+    },
+    "360016254994": {
+      "slug": "how-to-add-use-vimeo-video-with-optisigns",
+      "updated_at": "2025-09-04T18:00:23Z",
+      "hash": "84c2f4ba836a96ff5048569984ff24b3",
+      "file_id": "file-P99U5xKA3CxFd6ZM7moD9j"
+    },
+    "360016382473": {
+      "slug": "how-to-use-the-website-app-and-display-urls-on-optisigns",
+      "updated_at": "2026-02-03T18:12:07Z",
+      "hash": "afa293f65ab97ace00a4c941d5d1c9f8",
+      "file_id": "file-JJwNmPE8ouruiNCe3P531N"
+    }
+  }
+}

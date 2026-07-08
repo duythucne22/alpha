@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+data/
+contents/
+sample/
+task1/
+task2/
+.agents/
+tests/
+.pytest_cache/

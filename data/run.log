@@ -1,0 +1,1660 @@
+2026-07-07 18:58:39,377 INFO Step 1/4 � scraping articles from Zendesk ...
+2026-07-07 18:58:39,386 INFO Fetching page 1 ...
+2026-07-07 18:58:40,953 INFO   got 50 articles (total 50)
+2026-07-07 18:58:41,255 INFO Fetching page 2 ...
+2026-07-07 18:58:41,808 INFO   got 50 articles (total 100)
+2026-07-07 18:58:42,122 INFO Fetching page 3 ...
+2026-07-07 18:58:42,524 INFO   got 50 articles (total 150)
+2026-07-07 18:58:42,832 INFO Fetching page 4 ...
+2026-07-07 18:58:43,259 INFO   got 50 articles (total 200)
+2026-07-07 18:58:43,561 INFO Fetching page 5 ...
+2026-07-07 18:58:44,146 INFO   got 50 articles (total 250)
+2026-07-07 18:58:44,453 INFO Fetching page 6 ...
+2026-07-07 18:58:44,902 INFO   got 50 articles (total 300)
+2026-07-07 18:58:45,209 INFO Fetching page 7 ...
+2026-07-07 18:58:45,686 INFO   got 50 articles (total 350)
+2026-07-07 18:58:45,999 INFO Fetching page 8 ...
+2026-07-07 18:58:46,402 INFO   got 50 articles (total 400)
+2026-07-07 18:58:46,712 INFO Fetching page 9 ...
+2026-07-07 18:58:47,066 INFO   got 5 articles (total 405)
+2026-07-07 18:58:47,079 INFO   saved what-access-does-optisigns-have-to-my-account-and-devices.md
+2026-07-07 18:58:47,092 INFO   saved using-the-japan-earthquake-app.md
+2026-07-07 18:58:47,139 INFO   saved how-to-display-a-snowflake-dashboard-with-optisigns.md
+2026-07-07 18:58:47,156 INFO   saved optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md
+2026-07-07 18:58:47,223 INFO   saved connect-google-meet-hardware-to-optisigns-digital-signage.md
+2026-07-07 18:58:47,272 INFO   saved connect-microsoft-teams-rooms-to-optisigns-digital-signage.md
+2026-07-07 18:58:47,288 INFO   saved room-integrations-turn-your-meeting-rooms-into-digital-signage.md
+2026-07-07 18:58:47,348 INFO   saved connect-zoom-rooms-to-optisigns-digital-signage.md
+2026-07-07 18:58:47,392 INFO   saved connect-cisco-webex-rooms-to-optisigns-digital-signage.md
+2026-07-07 18:58:47,409 INFO   saved chromeos-pwa-instructions.md
+2026-07-07 18:58:47,441 INFO   saved how-to-use-the-google-ads-dashboard-app.md
+2026-07-07 18:58:47,472 INFO   saved how-to-use-the-google-search-console-app.md
+2026-07-07 18:58:47,504 INFO   saved how-to-use-the-youtube-dashboard-app.md
+2026-07-07 18:58:47,536 INFO   saved operational-schedule-troubleshooting.md
+2026-07-07 18:58:47,582 INFO   saved how-to-use-the-optidev-app.md
+2026-07-07 18:58:47,608 INFO   saved how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md
+2026-07-07 18:58:47,642 INFO   saved using-an-enterprise-network-802-1x-with-optisigns.md
+2026-07-07 18:58:47,906 INFO   saved user-management-example-chain-restaurant-or-retail-store-with-multiple-locations.md
+2026-07-07 18:58:48,015 INFO   saved getting-started-with-designer.md
+2026-07-07 18:58:48,073 INFO   saved designer-2-0-new-features.md
+2026-07-07 18:58:48,136 INFO   saved optisigns-pro-promax-player-troubleshooting-guide.md
+2026-07-07 18:58:48,176 INFO   saved how-to-play-licensed-background-music-on-digital-signs-with-optisound.md
+2026-07-07 18:58:48,197 INFO   saved disk-encryption.md
+2026-07-07 18:58:48,400 INFO   saved optistick-troubleshooting-guide.md
+2026-07-07 18:58:48,420 INFO   saved fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md
+2026-07-07 18:58:48,523 INFO   saved how-to-use-the-tableau-app.md
+2026-07-07 18:58:48,540 INFO   saved handle-oauth-authentication-using-api-gateway-pre-request-configuration.md
+2026-07-07 18:58:48,613 INFO   saved tagging-in-optisigns.md
+2026-07-07 18:58:48,659 INFO   saved getting-started-with-an-optisigns-free-trial.md
+2026-07-07 18:58:48,706 INFO   saved how-to-use-optisigns-with-microsoft-teams-rooms.md
+2026-07-07 18:58:48,769 INFO   saved how-to-access-the-troubleshooting-page-of-the-optisigns-player.md
+2026-07-07 18:58:48,795 INFO   saved how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md
+2026-07-07 18:58:49,100 INFO   saved how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md
+2026-07-07 18:58:49,153 INFO   saved accepted-payment-methods.md
+2026-07-07 18:58:49,223 INFO   saved what-do-i-get-with-an-optisigns-free-plan.md
+2026-07-07 18:58:49,332 INFO   saved making-a-video-wall-with-optisigns-video-wall-app.md
+2026-07-07 18:58:49,367 INFO   saved how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md
+2026-07-07 18:58:49,398 INFO   saved display-salesforce-dashboards-with-mfa-using-web-scripting.md
+2026-07-07 18:58:49,418 INFO   saved how-to-order-a-preconfigured-optisigns-android-player-device.md
+2026-07-07 18:58:49,488 INFO   saved integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md
+2026-07-07 18:58:49,496 INFO   saved configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md
+2026-07-07 18:58:49,581 INFO   saved getting-started-with-touch-screen-kiosks.md
+2026-07-07 18:58:49,613 INFO   saved how-to-use-toast-api-data-with-optisigns.md
+2026-07-07 18:58:49,676 INFO   saved enabling-lock-down-mode-on-touch-screen-devices.md
+2026-07-07 18:58:49,703 INFO   saved how-to-use-the-mobile-app-for-remote-control.md
+2026-07-07 18:58:49,749 INFO   saved guide-for-creating-content-with-optisigns.md
+2026-07-07 18:58:49,796 INFO   saved list-of-supported-cities-for-weather-wall-city-themes.md
+2026-07-07 18:58:49,815 INFO   saved how-to-clear-cache-on-a-brightsign-player.md
+2026-07-07 18:58:49,847 INFO   saved how-to-create-an-attract-screen-for-your-kiosk.md
+2026-07-07 18:58:49,966 INFO   saved how-to-set-up-dynamic-data-mapping-with-optisync.md
+2026-07-07 18:58:50,048 INFO   saved how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md
+2026-07-07 18:58:50,061 INFO   saved performance-stability-issues-on-android-devices-and-best-practices.md
+2026-07-07 18:58:50,081 INFO   saved samsung-tizen-tvs-troubleshooting-guide.md
+2026-07-07 18:58:50,094 INFO   saved roku-troubleshooting-guide.md
+2026-07-07 18:58:50,130 INFO   saved how-to-create-use-playlists.md
+2026-07-07 18:58:50,151 INFO   saved how-to-use-qr-overlay-app-in-engage.md
+2026-07-07 18:58:50,166 INFO   saved how-to-change-close-nav-bar-styler-preferences.md
+2026-07-07 18:58:50,214 INFO   saved ai-camera-app-quick-start.md
+2026-07-07 18:58:50,253 INFO   saved amazon-tv-firestick-troubleshooting-guide.md
+2026-07-07 18:58:50,288 INFO   saved move-screens-or-devices-from-one-account-to-another.md
+2026-07-07 18:58:50,343 INFO   saved how-to-use-icloud-calendar-with-optisigns.md
+2026-07-07 18:58:50,399 INFO   saved optistick.md
+2026-07-07 18:58:50,426 INFO   saved how-to-lockdown-ipad-single-app-with-guided-accessibility.md
+2026-07-07 18:58:50,435 INFO   saved how-to-add-a-qr-code-in-designs-using-optisigns-designer.md
+2026-07-07 18:58:50,466 INFO   saved what-are-feeds-and-how-to-use-it.md
+2026-07-07 18:58:50,474 INFO   saved how-to-get-google-review-link.md
+2026-07-07 18:58:50,534 INFO   saved how-to-use-check-in-app-with-sms-follow-up.md
+2026-07-07 18:58:50,550 INFO   saved engage-plan-faqs.md
+2026-07-07 18:58:50,571 INFO   saved how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-2023-model.md
+2026-07-07 18:58:50,613 INFO   saved how-to-setup-aericast-meet-wireless-video-conferencing.md
+2026-07-07 18:58:50,718 INFO   saved how-to-integrate-api-and-publish-api-data-via-optisync.md
+2026-07-07 18:58:50,744 INFO   saved advanced-playlist-item-playback-control-campaign-management.md
+2026-07-07 18:58:50,772 INFO   saved how-to-share-playlist-and-folder-with-external-users.md
+2026-07-07 18:58:50,815 INFO   saved how-to-use-content-tags-in-the-playlist.md
+2026-07-07 18:58:50,827 INFO   saved your-facebook-page-doesn-t-show-in-the-dropdown-list.md
+2026-07-07 18:58:50,856 INFO   saved how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-designer.md
+2026-07-07 18:58:50,887 INFO   saved navigating-through-optisigns-template-library.md
+2026-07-07 18:58:50,918 INFO   saved external-storage-on-optisigns-devices.md
+2026-07-07 18:58:50,956 INFO   saved how-to-control-and-schedule-playlist-items.md
+2026-07-07 18:58:50,971 INFO   saved how-to-use-secured-dashboard-app.md
+2026-07-07 18:58:51,003 INFO   saved how-to-use-yammer-app-on-optisigns.md
+2026-07-07 18:58:51,047 INFO   saved push-contents-to-your-screens.md
+2026-07-07 18:58:51,114 INFO   saved optisigns-getting-started-guide.md
+2026-07-07 18:58:51,124 INFO   saved how-to-keep-optisigns-running-on-fire-stick.md
+2026-07-07 18:58:51,132 INFO   saved how-to-customize-the-thumbnail-of-files-assets-and-folders.md
+2026-07-07 18:58:51,142 INFO   saved how-to-configure-multi-factor-authentication-with-your-optisigns-account.md
+2026-07-07 18:58:51,158 INFO   saved samsung-smart-signage-platform-sssp-supported-model-list.md
+2026-07-07 18:58:51,232 INFO   saved how-to-create-a-content-library-kiosk.md
+2026-07-07 18:58:51,290 INFO   saved event-logging-and-analytics-for-external-communication-rs-232.md
+2026-07-07 18:58:51,302 INFO   saved display-powerpoint-google-slides-in-whole-screen-when-casting-from-macbook-pro.md
+2026-07-07 18:58:51,324 INFO   saved how-to-use-streaming-app-with-optisigns.md
+2026-07-07 18:58:51,334 INFO   saved silent-installation-process-for-optisigns-player-on-windows.md
+2026-07-07 18:58:51,344 INFO   saved the-optisigns-app-keeps-turning-on-the-tv-screen.md
+2026-07-07 18:58:51,410 INFO   saved how-to-design-kiosk-apps-using-kiosk-designer-pro.md
+2026-07-07 18:58:51,416 INFO   saved cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md
+2026-07-07 18:58:51,436 INFO   saved build-integration-using-optisigns-enterprise-app.md
+2026-07-07 18:58:51,506 INFO   saved optisigns-iot-sensor-add-on-quick-start.md
+2026-07-07 18:58:51,506 INFO   saved show-hide-downloading-status-on-your-player.md
+2026-07-07 18:58:51,521 INFO   saved what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv.md
+2026-07-07 18:58:51,537 INFO   saved how-to-put-live-tv-on-your-screens-with-optisigns.md
+2026-07-07 18:58:51,539 INFO   saved data-residency-and-optisigns.md
+2026-07-07 18:58:51,577 INFO   saved using-rs-232-to-schedule-tv-power-on-off-or-other-commands.md
+2026-07-07 18:58:51,605 INFO   saved how-to-get-the-mac-address-on-your-media-player.md
+2026-07-07 18:58:51,610 INFO   saved how-to-hide-certain-templates-categories-in-designers.md
+2026-07-07 18:58:51,612 INFO   saved host-your-html-js-or-create-your-own-web-app-with-hosted-website.md
+2026-07-07 18:58:51,622 INFO   saved using-eyedrop-feature-to-select-color-in-designer-app.md
+2026-07-07 18:58:51,622 INFO   saved apple-tv-player-release-notes-limitations.md
+2026-07-07 18:58:51,638 INFO   saved how-to-organize-templates-and-share-across-teams.md
+2026-07-07 18:58:51,638 INFO   saved manually-control-playlist-playback-with-optisigns.md
+2026-07-07 18:58:51,675 INFO   saved how-to-perform-mass-provisioning-with-optisigns.md
+2026-07-07 18:58:51,684 INFO   saved introduction.md
+2026-07-07 18:58:51,684 INFO   saved synchronized-playback-sync-play-feature.md
+2026-07-07 18:58:51,684 INFO   saved clean-install-optisigns-on-raspberry-pi-linux.md
+2026-07-07 18:58:51,703 INFO   saved how-to-connect-to-802-1x-enterprise-wifi-on-raspberry-pi.md
+2026-07-07 18:58:51,703 INFO   saved how-to-integrate-bonusly-digital-signage-with-optisigns.md
+2026-07-07 18:58:51,734 INFO   saved how-to-use-remote-command-execution-windows-linux.md
+2026-07-07 18:58:51,738 INFO   saved how-to-use-weather-apps-based-on-device-location.md
+2026-07-07 18:58:51,775 INFO   saved how-to-set-up-saml-2-0-with-optisigns-and-google-workspace.md
+2026-07-07 18:58:51,807 INFO   saved how-to-set-up-saml-2-0-with-optisigns-and-onelogin-shibboleth.md
+2026-07-07 18:58:51,833 INFO   saved how-to-set-up-saml-2-0-with-optisigns-and-onelogin.md
+2026-07-07 18:58:51,938 INFO   saved how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad.md
+2026-07-07 18:58:51,954 INFO   saved saml-integration-strategies-best-practices.md
+2026-07-07 18:58:51,969 INFO   saved map-view-screen-location-settings.md
+2026-07-07 18:58:51,976 INFO   saved how-to-unpin-optisigns-app-on-your-managed-android-stick-player.md
+2026-07-07 18:58:51,991 INFO   saved add-1-or-multiple-assets-to-many-playlists-at-the-same-time.md
+2026-07-07 18:58:52,038 INFO   saved how-to-set-up-saml-2-0-with-optisigns-and-okta.md
+2026-07-07 18:58:52,092 INFO   saved how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md
+2026-07-07 18:58:52,092 INFO   saved how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calendar-etc-access.md
+2026-07-07 18:58:52,107 INFO   saved how-to-set-up-audit-log-for-your-account.md
+2026-07-07 18:58:52,123 INFO   saved how-to-set-up-monitoring-alert-feature.md
+2026-07-07 18:58:52,154 INFO   saved how-to-use-the-web-scripting-app.md
+2026-07-07 18:58:52,181 INFO   saved adjust-the-gpu-memory-on-the-raspberry-pi.md
+2026-07-07 18:58:52,188 INFO   saved resolve-autostart-issues-on-your-android-tv-devices.md
+2026-07-07 18:58:52,191 INFO   saved install-update-optisigns-player-on-rpi-via-script.md
+2026-07-07 18:58:52,195 INFO   saved how-to-enable-ssh-for-your-raspberry-pi.md
+2026-07-07 18:58:52,208 INFO   saved how-to-use-live-tv-with-ads-app.md
+2026-07-07 18:58:52,212 INFO   saved multi-select-assets-in-files-assets-view.md
+2026-07-07 18:58:52,223 INFO   saved clean-install-of-optisigns-player-on-windows.md
+2026-07-07 18:58:52,228 INFO   saved how-to-move-screen-to-other-team.md
+2026-07-07 18:58:52,233 INFO   saved how-to-mass-deploy-optisigns-on-raspberry-pi-devices.md
+2026-07-07 18:58:52,248 INFO   saved how-to-install-optisigns-as-screensaver-on-roku.md
+2026-07-07 18:58:52,276 INFO   saved how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotation-app.md
+2026-07-07 18:58:52,281 INFO   saved advanced-enforce-sso-login-for-your-account.md
+2026-07-07 18:58:52,281 INFO   saved how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick.md
+2026-07-07 18:58:52,297 INFO   saved how-to-use-youtube-playlist-with-optisigns.md
+2026-07-07 18:58:52,329 INFO   saved billing-how-do-i-change-my-subscription-plan.md
+2026-07-07 18:58:52,347 INFO   saved custom-branding-settings.md
+2026-07-07 18:58:52,359 INFO   saved advanced-custom-domain-mapping.md
+2026-07-07 18:58:52,367 INFO   saved how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi.md
+2026-07-07 18:58:52,372 INFO   saved how-to-run-optisigns-ai-add-on-on-start-up-in-windows.md
+2026-07-07 18:58:52,392 INFO   saved audience-intelligence-ai-camera-faqs.md
+2026-07-07 18:58:52,408 INFO   saved advanced-proof-of-play-or-playback-report.md
+2026-07-07 18:58:52,408 INFO   saved pre-configure-wi-fi-with-optisigns-devices.md
+2026-07-07 18:58:52,408 INFO   saved how-does-pre-configured-devices-labeled-in-shipping-package.md
+2026-07-07 18:58:52,425 INFO   saved advanced-how-to-install-activate-optisigns-remote-agent-on-windows.md
+2026-07-07 18:58:52,468 INFO   saved remotely-control-and-command-optisigns-devices.md
+2026-07-07 18:58:52,477 INFO   saved how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md
+2026-07-07 18:58:52,477 INFO   saved advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-raspberry-pi.md
+2026-07-07 18:58:52,477 INFO   saved how-to-use-usb-hub-adaptor-connect-to-your-fire-stick.md
+2026-07-07 18:58:52,508 INFO   saved how-to-change-time-zone-on-your-raspberry-pi-device.md
+2026-07-07 18:58:52,511 INFO   saved how-to-connect-to-wifi-for-raspberry-pi.md
+2026-07-07 18:58:52,548 INFO   saved optisigns-side-menu-options.md
+2026-07-07 18:58:52,548 INFO   saved how-to-factory-reset-your-fire-stick-device.md
+2026-07-07 18:58:52,564 INFO   saved how-to-clear-cache-on-your-fire-stick-device.md
+2026-07-07 18:58:52,564 INFO   saved how-to-change-time-zone-on-your-fire-stick-device.md
+2026-07-07 18:58:52,578 INFO   saved how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device.md
+2026-07-07 18:58:52,578 INFO   saved how-to-update-fire-tv-os-to-latest-version.md
+2026-07-07 18:58:52,594 INFO   saved how-to-set-up-an-instagram-business-creator-account.md
+2026-07-07 18:58:52,594 INFO   saved difference-between-instagram-instagram-business-app.md
+2026-07-07 18:58:52,613 INFO   saved how-to-use-overlay-layers-with-optisigns.md
+2026-07-07 18:58:52,677 INFO   saved edit-screen-what-does-each-option-do.md
+2026-07-07 18:58:52,693 INFO   saved whitelist-optisigns-ip-addresses-ports.md
+2026-07-07 18:58:52,693 INFO   saved amazon-fire-stick-and-security-considerations.md
+2026-07-07 18:58:52,710 INFO   saved advanced-security-managing-user-roles.md
+2026-07-07 18:58:52,726 INFO   saved there-s-no-sounds-output-for-my-raspberry-pi.md
+2026-07-07 18:58:52,759 INFO   saved folder-level-permissions.md
+2026-07-07 18:58:52,777 INFO   saved organizing-your-files-assets-playlists-and-schedules-by-using-folders.md
+2026-07-07 18:58:52,777 INFO   saved how-to-create-and-use-nested-playlists.md
+2026-07-07 18:58:52,809 INFO   saved how-to-set-an-asset-to-live-or-expire-at-specific-time.md
+2026-07-07 18:58:52,809 INFO   saved how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md
+2026-07-07 18:58:52,824 INFO   saved roku-release-notes-limitation.md
+2026-07-07 18:58:52,824 INFO   saved how-to-change-billing-information.md
+2026-07-07 18:58:52,840 INFO   saved my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-pi-app-need-screen-calibration.md
+2026-07-07 18:58:52,840 INFO   saved assign-default-content-for-schedules.md
+2026-07-07 18:58:52,856 INFO   saved how-to-install-optisigns-as-channel-app-on-roku.md
+2026-07-07 18:58:52,881 INFO   saved video-codec-or-video-playback-issues.md
+2026-07-07 18:58:52,892 INFO   saved how-to-use-the-atlassian-jira-app.md
+2026-07-07 18:58:52,897 INFO   saved how-to-display-content-inside-websites-that-require-login.md
+2026-07-07 18:58:52,899 INFO   saved adjusting-social-news-wall-speeds.md
+2026-07-07 18:58:52,905 INFO   saved my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration.md
+2026-07-07 18:58:52,921 INFO   saved working-with-teams-and-security-levels.md
+2026-07-07 18:58:52,937 INFO   saved windows.md
+2026-07-07 18:58:52,937 INFO   saved powerpoint-transition-and-animation-effect.md
+2026-07-07 18:58:52,952 INFO   saved powerpoint-resolution-size-for-use-with-digital-signage.md
+2026-07-07 18:58:52,952 INFO   saved stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content.md
+2026-07-07 18:58:52,968 INFO   saved how-to-create-a-scrolling-strip-bars.md
+2026-07-07 18:58:52,993 INFO   saved how-to-create-and-use-the-split-screen-app.md
+2026-07-07 18:58:52,993 INFO   saved how-can-i-remove-delete-uploaded-files-or-assets.md
+2026-07-07 18:58:53,009 INFO   saved how-to-start-optisigns-automatically-when-devices-boot-up.md
+2026-07-07 18:58:53,009 INFO   saved can-i-disable-the-download-button-for-assets.md
+2026-07-07 18:58:53,024 INFO   saved how-to-install-an-apk-file-on-your-fire-tv.md
+2026-07-07 18:58:53,024 INFO   saved does-optisigns-offer-non-profit-education-discount.md
+2026-07-07 18:58:53,040 INFO   saved how-to-upload-manage-your-files-assets.md
+2026-07-07 18:58:53,040 INFO   saved what-types-of-files-are-supported.md
+2026-07-07 18:58:53,078 INFO   saved animation.md
+2026-07-07 18:58:53,140 INFO   saved proplayer.md
+2026-07-07 18:58:53,194 INFO   saved how-to-use-the-optisigns-mobile-admin-app.md
+2026-07-07 18:58:53,194 INFO   saved how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync.md
+2026-07-07 18:58:53,240 INFO   saved how-to-manage-and-edit-your-playlist-settings.md
+2026-07-07 18:58:53,256 INFO   saved how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3.md
+2026-07-07 18:58:53,278 INFO   saved how-to-get-the-most-out-of-your-digital-signs.md
+2026-07-07 18:58:53,307 INFO   saved how-to-share-contents-with-other-users-teams.md
+2026-07-07 18:58:53,322 INFO   saved how-to-get-the-list-of-playlists-where-the-asset-is-used.md
+2026-07-07 18:58:53,338 INFO   saved generate-manage-optisigns-api-key.md
+2026-07-07 18:58:53,338 INFO   saved view-billing-history-and-download-receipts.md
+2026-07-07 18:58:53,354 INFO   saved how-to-link-instagram-business-or-creator-account-to-facebook-account.md
+2026-07-07 18:58:53,438 INFO   saved how-to-use-google-slides-with-optisigns.md
+2026-07-07 18:58:53,475 INFO   saved macos.md
+2026-07-07 18:58:53,483 INFO   saved how-to-preview-a-screen.md
+2026-07-07 18:58:53,499 INFO   saved how-to-use-a-pdf-with-optisigns.md
+2026-07-07 18:58:53,502 INFO   saved how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick.md
+2026-07-07 18:58:53,542 INFO   saved your-templates.md
+2026-07-07 18:58:53,650 INFO   saved promax.md
+2026-07-07 18:58:53,678 INFO   saved how-to-contact-optisigns-support.md
+2026-07-07 18:58:53,722 INFO   saved how-to-add-google-sheets-as-a-datasource-for-optisync.md
+2026-07-07 18:58:53,733 INFO   saved i-received-the-optisigns-device-but-it-s-onhold-and-cannot-assign-content.md
+2026-07-07 18:58:53,748 INFO   saved how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md
+2026-07-07 18:58:53,760 INFO   saved how-to-install-optisigns-player-on-apple-tv.md
+2026-07-07 18:58:53,791 INFO   saved get-started-with-optisigns-api.md
+2026-07-07 18:58:53,805 INFO   saved advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens.md
+2026-07-07 18:58:53,838 INFO   saved set-optisigns-as-screensaver-on-windows.md
+2026-07-07 18:58:53,860 INFO   saved show-youtube-video-s-subtitle-closed-caption.md
+2026-07-07 18:58:53,941 INFO   saved linux.md
+2026-07-07 18:58:53,948 INFO   saved changing-screen-s-orientation-portrait-landscape.md
+2026-07-07 18:58:53,962 INFO   saved how-can-i-remotely-start-restart-optisigns-app-on-fire-tv.md
+2026-07-07 18:58:54,012 INFO   saved how-to-create-and-use-instagram-wall.md
+2026-07-07 18:58:54,012 INFO   saved what-if-i-want-to-increase-decrease-number-of-screens-during-the-month.md
+2026-07-07 18:58:54,153 INFO   saved kiosk10.md
+2026-07-07 18:58:54,494 INFO   saved widgets-in-designer.md
+2026-07-07 18:58:54,552 INFO   saved how-to-display-dynamic-event-schedules-using-optisync.md
+2026-07-07 18:58:54,560 INFO   saved how-to-fix-the-scaling-issue-on-optisigns-android-device.md
+2026-07-07 18:58:54,570 INFO   saved how-to-manage-sub-account-billing-with-optisigns.md
+2026-07-07 18:58:54,586 INFO   saved how-to-install-optisigns-on-samsung-tizen-smart-tvs.md
+2026-07-07 18:58:54,604 INFO   saved graphql-api-tutorial-pair-and-assign-content-to-screen.md
+2026-07-07 18:58:54,620 INFO   saved moderate-your-social-media-feeds.md
+2026-07-07 18:58:54,635 INFO   saved android-tv-chromecast.md
+2026-07-07 18:58:54,673 INFO   saved how-to-use-approval-workflow-feature.md
+2026-07-07 18:58:54,690 INFO   saved what-hardware-and-devices-are-supported.md
+2026-07-07 18:58:54,690 INFO   saved how-to-tell-which-dropbox-account-that-i-linked-to-optisigns.md
+2026-07-07 18:58:54,739 INFO   saved how-to-use-weather-apps-in-optisigns.md
+2026-07-07 18:58:54,755 INFO   saved assign-content-to-your-screens.md
+2026-07-07 18:58:54,871 INFO   saved kiosk32.md
+2026-07-07 18:58:55,175 INFO   saved photos-gifs-and-qr-codes-in-designer.md
+2026-07-07 18:58:55,502 INFO   saved how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets.md
+2026-07-07 18:58:55,584 INFO   saved display-device-info-onscreen.md
+2026-07-07 18:58:55,722 INFO   saved present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-add-on.md
+2026-07-07 18:58:55,968 INFO   saved tutorial-create-update-add-remove-items-from-playlists.md
+2026-07-07 18:58:56,102 INFO   saved multilingual-and-multi-currency.md
+2026-07-07 18:58:56,173 INFO   saved how-to-install-optisigns-player-on-android-boxes.md
+2026-07-07 18:58:56,335 INFO   saved raspberry-pi.md
+2026-07-07 18:58:56,346 INFO   saved multi-users-invite-your-team-members-to-your-account.md
+2026-07-07 18:58:56,405 INFO   saved set-up-add-a-screen.md
+2026-07-07 18:58:56,499 INFO   saved kiosk50.md
+2026-07-07 18:58:56,665 INFO   saved customize-text.md
+2026-07-07 18:58:56,675 INFO   saved tutorial-creating-or-updating-website-assets-using-graphql.md
+2026-07-07 18:58:56,703 INFO   saved how-to-create-custom-news-feeds-with-optisync.md
+2026-07-07 18:58:56,734 INFO   saved amazon-signage-stick.md
+2026-07-07 18:58:56,754 INFO   saved how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing.md
+2026-07-07 18:58:56,764 INFO   saved how-to-change-account-owners.md
+2026-07-07 18:58:56,784 INFO   saved how-to-install-optisigns-as-an-apk-file-on-android-devices.md
+2026-07-07 18:58:56,792 INFO   saved how-to-unpair-a-device-screen.md
+2026-07-07 18:58:56,792 INFO   saved how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls.md
+2026-07-07 18:58:56,804 INFO   saved how-to-use-imovie-content-with-optisigns.md
+2026-07-07 18:58:56,825 INFO   saved legacy-datasources.md
+2026-07-07 18:58:56,947 INFO   saved shapes-and-elements.md
+2026-07-07 18:58:56,985 INFO   saved tutorial-creating-schedules-and-adding-schedule-items-using-graphql.md
+2026-07-07 18:58:57,048 INFO   saved optisigns-pro-player-advanced-features.md
+2026-07-07 18:58:57,056 INFO   saved how-to-add-captions-to-vimeo-videos.md
+2026-07-07 18:58:57,066 INFO   saved present-share-your-screen-with-optisigns-aericast-add-on.md
+2026-07-07 18:58:57,066 INFO   saved how-to-delete-your-account-from-optisigns.md
+2026-07-07 18:58:57,126 INFO   saved amazon-firestick.md
+2026-07-07 18:58:57,135 INFO   saved kiosk-setup-hub.md
+2026-07-07 18:58:57,166 INFO   saved brand-kit-and-enforcing-brand-guidelines.md
+2026-07-07 18:58:57,166 INFO   saved update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md
+2026-07-07 18:58:57,182 INFO   saved how-to-use-the-musthavemenus-app-with-optisigns.md
+2026-07-07 18:58:57,198 INFO   saved pagination.md
+2026-07-07 18:58:57,198 INFO   saved how-to-replace-update-an-existing-asset-image-video-documents.md
+2026-07-07 18:58:57,229 INFO   saved fireos-tvs-amazon-insigna-toshiba-tcl.md
+2026-07-07 18:58:57,229 INFO   saved about-the-onhold-devices-folder.md
+2026-07-07 18:58:57,282 INFO   saved creating-and-using-schedules-with-optisigns.md
+2026-07-07 18:58:57,282 INFO   saved why-does-my-screen-show-as-offline-on-the-web-portal.md
+2026-07-07 18:58:57,414 INFO   saved where-to-buy-optisigns-devices.md
+2026-07-07 18:58:57,414 INFO   saved how-to-use-waitwhile-app.md
+2026-07-07 18:58:57,430 INFO   saved brightsign-players.md
+2026-07-07 18:58:57,430 INFO   saved error-handling.md
+2026-07-07 18:58:57,446 INFO   saved how-can-i-improve-stability-of-fire-tv-as-digital-signage-player.md
+2026-07-07 18:58:57,446 INFO   saved can-i-have-my-invoices-receipts-sent-to-a-different-email-address.md
+2026-07-07 18:58:57,462 INFO   saved subscription-function-in-graphql.md
+2026-07-07 18:58:57,462 INFO   saved how-to-display-google-slide-in-portrait-mode.md
+2026-07-07 18:58:57,467 INFO   saved what-happen-if-internet-connection-is-lost.md
+2026-07-07 18:58:57,467 INFO   saved web-browser-as-optisigns-player.md
+2026-07-07 18:58:57,498 INFO   saved setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md
+2026-07-07 18:58:57,498 INFO   saved how-to-use-monday-com-app.md
+2026-07-07 18:58:57,515 INFO   saved api-reference.md
+2026-07-07 18:58:57,515 INFO   saved how-to-export-high-resolution-canvas-template-designs.md
+2026-07-07 18:58:57,515 INFO   saved show-offline-indicator-feature.md
+2026-07-07 18:58:57,531 INFO   saved how-to-use-website-screenshot-app.md
+2026-07-07 18:58:57,599 INFO   saved lg-webos-signage-commercial-grade.md
+2026-07-07 18:58:57,599 INFO   saved is-there-storage-limit-for-my-account.md
+2026-07-07 18:58:57,614 INFO   saved show-hide-offline-indicator-on-your-player.md
+2026-07-07 18:58:57,647 INFO   saved how-to-use-airtable-with-optisigns.md
+2026-07-07 18:58:57,656 INFO   saved how-to-clean-data-on-the-optisigns-android-stick.md
+2026-07-07 18:58:57,689 INFO   saved use-your-mac-windows-device-as-a-test-screen.md
+2026-07-07 18:58:57,698 INFO   saved how-do-i-suggest-new-features-improvement.md
+2026-07-07 18:58:57,794 INFO   saved how-to-use-the-qr-scan-to-interact-touchless-qr-app.md
+2026-07-07 18:58:57,810 INFO   saved how-to-display-smartsheet-report-on-optisigns.md
+2026-07-07 18:58:57,819 INFO   saved how-to-use-the-video-stream-app.md
+2026-07-07 18:58:57,821 INFO   saved how-to-use-rtsp-streams-on-optisigns-devices.md
+2026-07-07 18:58:57,842 INFO   saved how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns.md
+2026-07-07 18:58:57,860 INFO   saved how-to-use-the-weather-alert-app.md
+2026-07-07 18:58:57,907 INFO   saved how-to-use-the-cap-alert-app.md
+2026-07-07 18:58:57,907 INFO   saved how-to-use-matterport-app.md
+2026-07-07 18:58:57,922 INFO   saved how-to-use-optisigns-screen-capture-app.md
+2026-07-07 18:58:57,938 INFO   saved how-to-use-advanced-website-app.md
+2026-07-07 18:58:57,953 INFO   saved how-to-use-notion-app.md
+2026-07-07 18:58:57,973 INFO   saved how-to-use-microsoft-excel-online-with-optisigns.md
+2026-07-07 18:58:57,988 INFO   saved how-to-display-microsoft-teams-on-optisigns.md
+2026-07-07 18:58:58,000 INFO   saved displaying-sharepoint-sites-on-optisigns.md
+2026-07-07 18:58:58,052 INFO   saved how-to-use-microsoft-powerpoint-with-optisigns.md
+2026-07-07 18:58:58,061 INFO   saved how-to-use-microsoft-teams-live-app-with-optisigns.md
+2026-07-07 18:58:58,070 INFO   saved how-to-use-livestream-com-app.md
+2026-07-07 18:58:58,095 INFO   saved how-to-use-the-emergency-feed-app.md
+2026-07-07 18:58:58,106 INFO   saved how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-android-player.md
+2026-07-07 18:58:58,121 INFO   saved how-to-use-mrss-feeds-with-optisigns.md
+2026-07-07 18:58:58,140 INFO   saved how-to-use-calendar-mix-app.md
+2026-07-07 18:58:58,169 INFO   saved how-to-use-slack-app.md
+2026-07-07 18:58:58,202 INFO   saved how-to-use-the-microsoft-meeting-room-app.md
+2026-07-07 18:58:58,219 INFO   saved how-to-use-linkedin-app.md
+2026-07-07 18:58:58,225 INFO   saved how-to-use-microsoft-teams-meeting-app-with-optisigns.md
+2026-07-07 18:58:58,233 INFO   saved how-to-use-the-social-mix-app.md
+2026-07-07 18:58:58,260 INFO   saved how-to-use-the-cbc-news-app.md
+2026-07-07 18:58:58,272 INFO   saved how-to-use-on-this-day-app.md
+2026-07-07 18:58:58,281 INFO   saved how-to-use-the-taggbox-display-app-with-optisigns.md
+2026-07-07 18:58:58,283 INFO   saved how-to-use-the-mindmeister-app.md
+2026-07-07 18:58:58,316 INFO   saved how-to-best-use-canva-with-optisigns.md
+2026-07-07 18:58:58,329 INFO   saved how-to-use-asana-app.md
+2026-07-07 18:58:58,345 INFO   saved how-to-use-youtube-live-with-optisigns.md
+2026-07-07 18:58:58,391 INFO   saved how-to-use-hdmi-other-video-input-sources-in-with-optisigns.md
+2026-07-07 18:58:58,434 INFO   saved how-to-use-the-local-folder-app-in-optisigns.md
+2026-07-07 18:58:58,456 INFO   saved how-to-use-youtube-live-schedule-with-optisigns.md
+2026-07-07 18:58:58,469 INFO   saved how-to-use-youtube-channel-with-optisigns.md
+2026-07-07 18:58:58,477 INFO   saved how-to-put-zendesk-dashboard-on-your-signs.md
+2026-07-07 18:58:58,494 INFO   saved how-to-use-google-docs-with-optisigns.md
+2026-07-07 18:58:58,520 INFO   saved how-to-use-google-sheets-with-optisigns.md
+2026-07-07 18:58:58,528 INFO   saved how-to-use-scrolling-website-app.md
+2026-07-07 18:58:58,541 INFO   saved how-to-create-and-use-virtual-screen-app.md
+2026-07-07 18:58:58,564 INFO   saved how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md
+2026-07-07 18:58:58,653 INFO   saved how-to-use-the-flash-message-app.md
+2026-07-07 18:58:58,846 INFO   saved how-to-use-emergency-message-alert-app.md
+2026-07-07 18:58:58,895 INFO   saved how-to-use-the-data-studio-app.md
+2026-07-07 18:58:58,919 INFO   saved how-to-use-facebook-recommendations-app.md
+2026-07-07 18:58:58,984 INFO   saved how-to-use-instagram-business-app.md
+2026-07-07 18:58:58,993 INFO   saved how-to-use-trello-app.md
+2026-07-07 18:58:59,019 INFO   saved how-to-use-youtube-with-optisigns.md
+2026-07-07 18:58:59,032 INFO   saved how-to-use-follow-us-app.md
+2026-07-07 18:58:59,046 INFO   saved how-to-use-facebook-video-app.md
+2026-07-07 18:58:59,067 INFO   saved how-to-use-dropbox-app.md
+2026-07-07 18:58:59,087 INFO   saved how-to-use-the-onedrive-app.md
+2026-07-07 18:58:59,111 INFO   saved how-to-use-google-trends-app.md
+2026-07-07 18:58:59,130 INFO   saved how-to-use-walls-io-app.md
+2026-07-07 18:58:59,150 INFO   saved how-to-use-currency-exchange-app.md
+2026-07-07 18:58:59,169 INFO   saved how-to-use-crypto-index-crypto-exchange-app.md
+2026-07-07 18:58:59,184 INFO   saved how-to-use-market-index-app.md
+2026-07-07 18:58:59,204 INFO   saved how-to-use-google-drive-app.md
+2026-07-07 18:58:59,229 INFO   saved how-to-use-the-motivational-quote-app.md
+2026-07-07 18:58:59,241 INFO   saved how-to-use-facebook-live-stream-app.md
+2026-07-07 18:58:59,255 INFO   saved how-to-use-instagram-counter-app.md
+2026-07-07 18:58:59,263 INFO   saved how-to-use-google-traffic-app.md
+2026-07-07 18:58:59,271 INFO   saved how-to-use-twitch-app.md
+2026-07-07 18:58:59,293 INFO   saved how-to-use-the-facebook-counter-app.md
+2026-07-07 18:58:59,320 INFO   saved how-to-use-the-new-york-times-app.md
+2026-07-07 18:58:59,383 INFO   saved how-to-use-the-guardian-app.md
+2026-07-07 18:58:59,433 INFO   saved how-to-use-the-wall-street-journal-app.md
+2026-07-07 18:58:59,488 INFO   saved how-to-use-the-stock-app.md
+2026-07-07 18:58:59,563 INFO   saved how-to-use-the-simple-clock-app.md
+2026-07-07 18:58:59,604 INFO   saved how-to-use-world-clock-app.md
+2026-07-07 18:58:59,653 INFO   saved how-to-use-the-countup-app.md
+2026-07-07 18:58:59,694 INFO   saved how-to-use-the-countdown-app.md
+2026-07-07 18:58:59,710 INFO   saved how-to-use-simple-calendar-app.md
+2026-07-07 18:58:59,741 INFO   saved how-to-use-the-techcrunch-news-app.md
+2026-07-07 18:58:59,783 INFO   saved how-to-use-the-espn-news-app.md
+2026-07-07 18:58:59,799 INFO   saved how-to-use-the-cnn-news-app.md
+2026-07-07 18:58:59,848 INFO   saved how-to-create-and-use-qr-code-call-to-action-app.md
+2026-07-07 18:58:59,871 INFO   saved how-to-create-and-use-yelp-reviews-wall.md
+2026-07-07 18:58:59,976 INFO   saved how-to-create-and-use-google-reviews-wall.md
+2026-07-07 18:59:00,065 INFO   saved how-to-use-microsoft-outlook-calendar-with-optisigns.md
+2026-07-07 18:59:00,094 INFO   saved how-to-use-rss-feeds-with-optisigns.md
+2026-07-07 18:59:00,106 INFO   saved how-to-use-embed-app.md
+2026-07-07 18:59:00,240 INFO   saved how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md
+2026-07-07 18:59:00,309 INFO   saved how-to-use-the-facebook-page-app.md
+2026-07-07 18:59:00,360 INFO   saved how-to-use-published-google-slides-with-optisigns-old-way.md
+2026-07-07 18:59:00,380 INFO   saved how-to-use-the-news-app.md
+2026-07-07 18:59:00,424 INFO   saved how-to-use-google-calendar-with-optisigns.md
+2026-07-07 18:59:00,439 INFO   saved how-to-add-use-vimeo-video-with-optisigns.md
+2026-07-07 18:59:00,455 INFO   saved how-to-use-the-website-app-and-display-urls-on-optisigns.md
+2026-07-07 18:59:00,455 INFO Scrape complete: 405 saved, 0 failed -> C:\Users\duyth\Desktop\alpha\contents
+2026-07-07 18:59:00,455 INFO Step 2/4 � delta detection + upload ...
+2026-07-07 18:59:04,000 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores "HTTP/1.1 200 OK"
+2026-07-07 18:59:04,016 INFO Created vector store vs_6a4cea08235881918f7e9c6e07abe5b3
+2026-07-07 18:59:04,668 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:06,044 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:06,058 INFO   ADDED: what-access-does-optisigns-have-to-my-account-and-devices (7 chunks)
+2026-07-07 18:59:06,583 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:07,524 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:07,524 INFO   ADDED: using-the-japan-earthquake-app (5 chunks)
+2026-07-07 18:59:08,095 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:09,504 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:09,508 INFO   ADDED: how-to-display-a-snowflake-dashboard-with-optisigns (6 chunks)
+2026-07-07 18:59:10,020 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:10,964 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:10,975 INFO   ADDED: optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app (9 chunks)
+2026-07-07 18:59:11,925 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:13,291 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:13,298 INFO   ADDED: connect-google-meet-hardware-to-optisigns-digital-signage (14 chunks)
+2026-07-07 18:59:13,985 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:15,007 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:15,011 INFO   ADDED: connect-microsoft-teams-rooms-to-optisigns-digital-signage (16 chunks)
+2026-07-07 18:59:15,852 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:16,822 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:16,828 INFO   ADDED: room-integrations-turn-your-meeting-rooms-into-digital-signage (9 chunks)
+2026-07-07 18:59:17,350 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:18,415 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:18,419 INFO   ADDED: connect-zoom-rooms-to-optisigns-digital-signage (17 chunks)
+2026-07-07 18:59:19,054 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:20,040 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:20,048 INFO   ADDED: connect-cisco-webex-rooms-to-optisigns-digital-signage (15 chunks)
+2026-07-07 18:59:20,830 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:21,698 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:21,702 INFO   ADDED: chromeos-pwa-instructions (9 chunks)
+2026-07-07 18:59:22,196 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:23,249 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:23,252 INFO   ADDED: how-to-use-the-google-ads-dashboard-app (7 chunks)
+2026-07-07 18:59:23,891 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:24,734 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:24,738 INFO   ADDED: how-to-use-the-google-search-console-app (7 chunks)
+2026-07-07 18:59:25,424 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:26,261 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:26,279 INFO   ADDED: how-to-use-the-youtube-dashboard-app (7 chunks)
+2026-07-07 18:59:27,149 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:27,980 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:27,989 INFO   ADDED: operational-schedule-troubleshooting (10 chunks)
+2026-07-07 18:59:28,494 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:29,341 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:29,344 INFO   ADDED: how-to-use-the-optidev-app (5 chunks)
+2026-07-07 18:59:29,856 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:30,673 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:30,678 INFO   ADDED: how-to-set-up-an-outlook-calendar-app-with-shared-permissions (5 chunks)
+2026-07-07 18:59:31,175 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:32,164 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:32,168 INFO   ADDED: using-an-enterprise-network-802-1x-with-optisigns (7 chunks)
+2026-07-07 18:59:32,748 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:33,760 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:33,769 INFO   ADDED: user-management-example-chain-restaurant-or-retail-store-with-multiple-locations (11 chunks)
+2026-07-07 18:59:34,748 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:35,561 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:35,569 INFO   ADDED: getting-started-with-designer (27 chunks)
+2026-07-07 18:59:36,081 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:36,975 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:36,980 INFO   ADDED: designer-2-0-new-features (21 chunks)
+2026-07-07 18:59:37,517 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:38,357 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:38,365 INFO   ADDED: optisigns-pro-promax-player-troubleshooting-guide (16 chunks)
+2026-07-07 18:59:38,867 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:39,695 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:39,701 INFO   ADDED: how-to-play-licensed-background-music-on-digital-signs-with-optisound (8 chunks)
+2026-07-07 18:59:40,223 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:41,249 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:41,252 INFO   ADDED: disk-encryption (5 chunks)
+2026-07-07 18:59:41,749 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:42,871 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:42,880 INFO   ADDED: optistick-troubleshooting-guide (20 chunks)
+2026-07-07 18:59:43,422 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:44,250 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:44,250 INFO   ADDED: fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick (1 chunks)
+2026-07-07 18:59:44,952 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:45,829 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:45,829 INFO   ADDED: how-to-use-the-tableau-app (7 chunks)
+2026-07-07 18:59:46,878 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:47,703 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:47,723 INFO   ADDED: handle-oauth-authentication-using-api-gateway-pre-request-configuration (2 chunks)
+2026-07-07 18:59:48,489 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:49,341 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:49,356 INFO   ADDED: tagging-in-optisigns (12 chunks)
+2026-07-07 18:59:50,331 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:51,138 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:51,138 INFO   ADDED: getting-started-with-an-optisigns-free-trial (7 chunks)
+2026-07-07 18:59:52,184 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:53,008 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:53,018 INFO   ADDED: how-to-use-optisigns-with-microsoft-teams-rooms (6 chunks)
+2026-07-07 18:59:53,555 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:54,361 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:54,361 INFO   ADDED: how-to-access-the-troubleshooting-page-of-the-optisigns-player (3 chunks)
+2026-07-07 18:59:54,856 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:55,712 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:55,712 INFO   ADDED: how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments (1 chunks)
+2026-07-07 18:59:56,246 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:57,344 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:57,344 INFO   ADDED: how-to-install-a-root-certificate-and-display-an-internal-website-on-screens (16 chunks)
+2026-07-07 18:59:57,816 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:58,676 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 18:59:58,689 INFO   ADDED: accepted-payment-methods (2 chunks)
+2026-07-07 18:59:59,516 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:00,414 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:00,416 INFO   ADDED: what-do-i-get-with-an-optisigns-free-plan (8 chunks)
+2026-07-07 19:00:00,898 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:01,765 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:01,765 INFO   ADDED: making-a-video-wall-with-optisigns-video-wall-app (18 chunks)
+2026-07-07 19:00:02,849 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:03,712 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:03,722 INFO   ADDED: how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns (7 chunks)
+2026-07-07 19:00:04,329 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:05,144 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:05,160 INFO   ADDED: display-salesforce-dashboards-with-mfa-using-web-scripting (3 chunks)
+2026-07-07 19:00:05,695 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:06,564 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:06,579 INFO   ADDED: how-to-order-a-preconfigured-optisigns-android-player-device (4 chunks)
+2026-07-07 19:00:07,264 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:08,095 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:08,095 INFO   ADDED: integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync (12 chunks)
+2026-07-07 19:00:08,867 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:09,709 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:09,716 INFO   ADDED: configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices (6 chunks)
+2026-07-07 19:00:10,394 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:11,399 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:11,399 INFO   ADDED: getting-started-with-touch-screen-kiosks (12 chunks)
+2026-07-07 19:00:11,937 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:12,752 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:12,752 INFO   ADDED: how-to-use-toast-api-data-with-optisigns (6 chunks)
+2026-07-07 19:00:13,285 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:14,138 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:14,154 INFO   ADDED: enabling-lock-down-mode-on-touch-screen-devices (12 chunks)
+2026-07-07 19:00:14,639 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:15,577 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:15,577 INFO   ADDED: how-to-use-the-mobile-app-for-remote-control (8 chunks)
+2026-07-07 19:00:16,362 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:17,403 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:17,409 INFO   ADDED: guide-for-creating-content-with-optisigns (11 chunks)
+2026-07-07 19:00:18,047 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:19,033 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:19,037 INFO   ADDED: list-of-supported-cities-for-weather-wall-city-themes (1 chunks)
+2026-07-07 19:00:19,743 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:20,576 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:20,581 INFO   ADDED: how-to-clear-cache-on-a-brightsign-player (5 chunks)
+2026-07-07 19:00:21,306 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:22,302 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:22,306 INFO   ADDED: how-to-create-an-attract-screen-for-your-kiosk (5 chunks)
+2026-07-07 19:00:23,060 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:24,005 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:24,011 INFO   ADDED: how-to-set-up-dynamic-data-mapping-with-optisync (10 chunks)
+2026-07-07 19:00:24,582 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:25,648 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:25,655 INFO   ADDED: how-to-create-and-use-operational-schedules-hdmi-cec-rs-232 (8 chunks)
+2026-07-07 19:00:26,146 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:27,199 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:27,202 INFO   ADDED: performance-stability-issues-on-android-devices-and-best-practices (3 chunks)
+2026-07-07 19:00:27,701 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:28,596 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:28,599 INFO   ADDED: samsung-tizen-tvs-troubleshooting-guide (3 chunks)
+2026-07-07 19:00:29,122 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:30,039 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:30,043 INFO   ADDED: roku-troubleshooting-guide (3 chunks)
+2026-07-07 19:00:30,581 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:31,421 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:31,425 INFO   ADDED: how-to-create-use-playlists (5 chunks)
+2026-07-07 19:00:31,982 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:32,786 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:32,790 INFO   ADDED: how-to-use-qr-overlay-app-in-engage (3 chunks)
+2026-07-07 19:00:33,361 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:34,172 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:34,177 INFO   ADDED: how-to-change-close-nav-bar-styler-preferences (2 chunks)
+2026-07-07 19:00:34,775 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:35,622 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:35,627 INFO   ADDED: ai-camera-app-quick-start (3 chunks)
+2026-07-07 19:00:36,144 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:37,120 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:37,124 INFO   ADDED: amazon-tv-firestick-troubleshooting-guide (2 chunks)
+2026-07-07 19:00:37,658 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:38,538 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:38,545 INFO   ADDED: move-screens-or-devices-from-one-account-to-another (6 chunks)
+2026-07-07 19:00:39,087 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:41,395 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:41,399 INFO   ADDED: how-to-use-icloud-calendar-with-optisigns (2 chunks)
+2026-07-07 19:00:41,934 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:42,892 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:42,896 INFO   ADDED: optistick (2 chunks)
+2026-07-07 19:00:43,388 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:44,422 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:44,428 INFO   ADDED: how-to-lockdown-ipad-single-app-with-guided-accessibility (2 chunks)
+2026-07-07 19:00:45,015 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:45,917 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:45,921 INFO   ADDED: how-to-add-a-qr-code-in-designs-using-optisigns-designer (1 chunks)
+2026-07-07 19:00:46,772 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:47,727 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:47,743 INFO   ADDED: what-are-feeds-and-how-to-use-it (4 chunks)
+2026-07-07 19:00:48,448 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:49,332 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:49,332 INFO   ADDED: how-to-get-google-review-link (1 chunks)
+2026-07-07 19:00:49,844 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:51,379 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:51,379 INFO   ADDED: how-to-use-check-in-app-with-sms-follow-up (4 chunks)
+2026-07-07 19:00:52,391 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:53,356 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:53,356 INFO   ADDED: engage-plan-faqs (1 chunks)
+2026-07-07 19:00:53,877 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:54,862 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:54,877 INFO   ADDED: how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-2023-model (2 chunks)
+2026-07-07 19:00:55,363 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:56,285 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:56,285 INFO   ADDED: how-to-setup-aericast-meet-wireless-video-conferencing (2 chunks)
+2026-07-07 19:00:56,808 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:57,671 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:57,671 INFO   ADDED: how-to-integrate-api-and-publish-api-data-via-optisync (13 chunks)
+2026-07-07 19:00:58,188 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:59,068 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:00:59,085 INFO   ADDED: advanced-playlist-item-playback-control-campaign-management (3 chunks)
+2026-07-07 19:00:59,602 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:00,569 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:00,569 INFO   ADDED: how-to-share-playlist-and-folder-with-external-users (5 chunks)
+2026-07-07 19:01:01,062 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:01,856 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:01,856 INFO   ADDED: how-to-use-content-tags-in-the-playlist (4 chunks)
+2026-07-07 19:01:02,471 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:03,342 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:03,342 INFO   ADDED: your-facebook-page-doesn-t-show-in-the-dropdown-list (1 chunks)
+2026-07-07 19:01:03,891 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:05,931 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:05,931 INFO   ADDED: how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-designer (2 chunks)
+2026-07-07 19:01:06,448 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:07,334 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:07,334 INFO   ADDED: navigating-through-optisigns-template-library (6 chunks)
+2026-07-07 19:01:07,834 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:08,673 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:08,677 INFO   ADDED: external-storage-on-optisigns-devices (1 chunks)
+2026-07-07 19:01:09,325 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:10,185 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:10,189 INFO   ADDED: how-to-control-and-schedule-playlist-items (2 chunks)
+2026-07-07 19:01:10,867 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:11,707 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:11,711 INFO   ADDED: how-to-use-secured-dashboard-app (3 chunks)
+2026-07-07 19:01:12,253 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:13,074 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:13,078 INFO   ADDED: how-to-use-yammer-app-on-optisigns (4 chunks)
+2026-07-07 19:01:13,840 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:14,791 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:14,796 INFO   ADDED: push-contents-to-your-screens (8 chunks)
+2026-07-07 19:01:15,433 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:16,422 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:16,427 INFO   ADDED: optisigns-getting-started-guide (5 chunks)
+2026-07-07 19:01:17,142 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:18,197 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:18,201 INFO   ADDED: how-to-keep-optisigns-running-on-fire-stick (1 chunks)
+2026-07-07 19:01:18,929 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:19,813 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:19,817 INFO   ADDED: how-to-customize-the-thumbnail-of-files-assets-and-folders (3 chunks)
+2026-07-07 19:01:20,415 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:21,480 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:21,485 INFO   ADDED: how-to-configure-multi-factor-authentication-with-your-optisigns-account (2 chunks)
+2026-07-07 19:01:21,982 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:22,918 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:22,922 INFO   ADDED: samsung-smart-signage-platform-sssp-supported-model-list (4 chunks)
+2026-07-07 19:01:23,481 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:24,375 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:24,419 INFO   ADDED: how-to-create-a-content-library-kiosk (6 chunks)
+2026-07-07 19:01:25,065 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:25,873 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:25,878 INFO   ADDED: event-logging-and-analytics-for-external-communication-rs-232 (4 chunks)
+2026-07-07 19:01:26,465 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:27,408 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:27,412 INFO   ADDED: display-powerpoint-google-slides-in-whole-screen-when-casting-from-macbook-pro (1 chunks)
+2026-07-07 19:01:28,266 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:29,077 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:29,081 INFO   ADDED: how-to-use-streaming-app-with-optisigns (3 chunks)
+2026-07-07 19:01:29,641 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:30,539 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:30,544 INFO   ADDED: silent-installation-process-for-optisigns-player-on-windows (1 chunks)
+2026-07-07 19:01:31,078 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:32,044 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:32,048 INFO   ADDED: the-optisigns-app-keeps-turning-on-the-tv-screen (1 chunks)
+2026-07-07 19:01:32,564 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:33,580 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:33,586 INFO   ADDED: how-to-design-kiosk-apps-using-kiosk-designer-pro (6 chunks)
+2026-07-07 19:01:34,273 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:35,155 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:35,159 INFO   ADDED: cannot-find-the-optisigns-app-on-your-samsung-smart-tv (1 chunks)
+2026-07-07 19:01:36,054 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:37,254 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:37,262 INFO   ADDED: build-integration-using-optisigns-enterprise-app (3 chunks)
+2026-07-07 19:01:38,040 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:38,922 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:38,930 INFO   ADDED: optisigns-iot-sensor-add-on-quick-start (9 chunks)
+2026-07-07 19:01:39,435 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:40,446 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:40,450 INFO   ADDED: show-hide-downloading-status-on-your-player (1 chunks)
+2026-07-07 19:01:41,150 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:42,010 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:42,015 INFO   ADDED: what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv (1 chunks)
+2026-07-07 19:01:42,780 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:43,610 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:43,614 INFO   ADDED: how-to-put-live-tv-on-your-screens-with-optisigns (3 chunks)
+2026-07-07 19:01:44,112 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:45,124 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:45,128 INFO   ADDED: data-residency-and-optisigns (1 chunks)
+2026-07-07 19:01:45,617 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:46,470 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:46,475 INFO   ADDED: using-rs-232-to-schedule-tv-power-on-off-or-other-commands (2 chunks)
+2026-07-07 19:01:47,103 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:48,014 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:48,019 INFO   ADDED: how-to-get-the-mac-address-on-your-media-player (6 chunks)
+2026-07-07 19:01:48,540 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:49,406 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:49,410 INFO   ADDED: how-to-hide-certain-templates-categories-in-designers (1 chunks)
+2026-07-07 19:01:49,942 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:50,873 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:50,879 INFO   ADDED: host-your-html-js-or-create-your-own-web-app-with-hosted-website (2 chunks)
+2026-07-07 19:01:51,484 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:52,442 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:52,446 INFO   ADDED: using-eyedrop-feature-to-select-color-in-designer-app (1 chunks)
+2026-07-07 19:01:52,963 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:53,830 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:53,838 INFO   ADDED: apple-tv-player-release-notes-limitations (1 chunks)
+2026-07-07 19:01:54,464 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:55,383 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:55,387 INFO   ADDED: how-to-organize-templates-and-share-across-teams (2 chunks)
+2026-07-07 19:01:55,872 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:56,734 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:56,739 INFO   ADDED: manually-control-playlist-playback-with-optisigns (1 chunks)
+2026-07-07 19:01:57,312 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:58,215 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:01:58,227 INFO   ADDED: how-to-perform-mass-provisioning-with-optisigns (10 chunks)
+2026-07-07 19:01:58,990 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:00,093 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:00,100 INFO   ADDED: introduction (3 chunks)
+2026-07-07 19:02:00,750 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:01,610 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:01,615 INFO   ADDED: synchronized-playback-sync-play-feature (4 chunks)
+2026-07-07 19:02:02,142 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:03,053 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:03,061 INFO   ADDED: clean-install-optisigns-on-raspberry-pi-linux (1 chunks)
+2026-07-07 19:02:03,584 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:04,458 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:04,462 INFO   ADDED: how-to-connect-to-802-1x-enterprise-wifi-on-raspberry-pi (1 chunks)
+2026-07-07 19:02:05,256 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:06,128 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:06,133 INFO   ADDED: how-to-integrate-bonusly-digital-signage-with-optisigns (1 chunks)
+2026-07-07 19:02:06,685 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:07,515 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:07,522 INFO   ADDED: how-to-use-remote-command-execution-windows-linux (5 chunks)
+2026-07-07 19:02:08,181 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:09,091 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:09,096 INFO   ADDED: how-to-use-weather-apps-based-on-device-location (1 chunks)
+2026-07-07 19:02:09,631 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:10,633 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:10,639 INFO   ADDED: how-to-set-up-saml-2-0-with-optisigns-and-google-workspace (5 chunks)
+2026-07-07 19:02:11,161 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:12,084 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:12,090 INFO   ADDED: how-to-set-up-saml-2-0-with-optisigns-and-onelogin-shibboleth (5 chunks)
+2026-07-07 19:02:12,640 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:13,516 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:13,522 INFO   ADDED: how-to-set-up-saml-2-0-with-optisigns-and-onelogin (5 chunks)
+2026-07-07 19:02:14,052 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:14,889 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:14,903 INFO   ADDED: how-to-set-up-saml-2-0-with-optisigns-and-ms-entra-id-formerly-azure-ad (12 chunks)
+2026-07-07 19:02:15,468 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:16,312 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:16,318 INFO   ADDED: saml-integration-strategies-best-practices (4 chunks)
+2026-07-07 19:02:17,345 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:18,261 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:18,266 INFO   ADDED: map-view-screen-location-settings (1 chunks)
+2026-07-07 19:02:18,868 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:19,687 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:19,692 INFO   ADDED: how-to-unpin-optisigns-app-on-your-managed-android-stick-player (1 chunks)
+2026-07-07 19:02:20,232 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:21,079 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:21,084 INFO   ADDED: add-1-or-multiple-assets-to-many-playlists-at-the-same-time (1 chunks)
+2026-07-07 19:02:21,616 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:22,541 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:22,546 INFO   ADDED: how-to-set-up-saml-2-0-with-optisigns-and-okta (5 chunks)
+2026-07-07 19:02:23,094 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:23,996 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:24,002 INFO   ADDED: how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes (9 chunks)
+2026-07-07 19:02:24,484 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:25,315 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:25,320 INFO   ADDED: how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calendar-etc-access (3 chunks)
+2026-07-07 19:02:25,977 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:26,903 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:26,909 INFO   ADDED: how-to-set-up-audit-log-for-your-account (1 chunks)
+2026-07-07 19:02:27,702 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:28,591 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:28,597 INFO   ADDED: how-to-set-up-monitoring-alert-feature (2 chunks)
+2026-07-07 19:02:29,266 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:30,117 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:30,123 INFO   ADDED: how-to-use-the-web-scripting-app (9 chunks)
+2026-07-07 19:02:30,696 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:31,517 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:31,522 INFO   ADDED: adjust-the-gpu-memory-on-the-raspberry-pi (3 chunks)
+2026-07-07 19:02:32,126 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:33,048 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:33,058 INFO   ADDED: resolve-autostart-issues-on-your-android-tv-devices (3 chunks)
+2026-07-07 19:02:33,689 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:34,736 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:34,741 INFO   ADDED: install-update-optisigns-player-on-rpi-via-script (1 chunks)
+2026-07-07 19:02:35,284 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:36,239 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:36,244 INFO   ADDED: how-to-enable-ssh-for-your-raspberry-pi (1 chunks)
+2026-07-07 19:02:36,971 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:37,952 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:37,958 INFO   ADDED: how-to-use-live-tv-with-ads-app (2 chunks)
+2026-07-07 19:02:38,420 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:39,275 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:39,280 INFO   ADDED: multi-select-assets-in-files-assets-view (1 chunks)
+2026-07-07 19:02:39,912 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:40,971 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:40,976 INFO   ADDED: clean-install-of-optisigns-player-on-windows (1 chunks)
+2026-07-07 19:02:41,685 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:42,496 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:42,501 INFO   ADDED: how-to-move-screen-to-other-team (1 chunks)
+2026-07-07 19:02:42,978 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:43,812 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:43,812 INFO   ADDED: how-to-mass-deploy-optisigns-on-raspberry-pi-devices (1 chunks)
+2026-07-07 19:02:44,552 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:45,434 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:45,434 INFO   ADDED: how-to-install-optisigns-as-screensaver-on-roku (3 chunks)
+2026-07-07 19:02:46,502 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:47,334 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:47,350 INFO   ADDED: how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotation-app (3 chunks)
+2026-07-07 19:02:48,135 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:48,952 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:48,952 INFO   ADDED: advanced-enforce-sso-login-for-your-account (4 chunks)
+2026-07-07 19:02:49,632 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:50,568 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:50,584 INFO   ADDED: how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick (2 chunks)
+2026-07-07 19:02:51,279 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:52,360 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:52,360 INFO   ADDED: how-to-use-youtube-playlist-with-optisigns (3 chunks)
+2026-07-07 19:02:52,832 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:53,721 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:53,733 INFO   ADDED: billing-how-do-i-change-my-subscription-plan (4 chunks)
+2026-07-07 19:02:54,366 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:55,239 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:55,239 INFO   ADDED: custom-branding-settings (5 chunks)
+2026-07-07 19:02:55,731 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:56,618 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:56,624 INFO   ADDED: advanced-custom-domain-mapping (2 chunks)
+2026-07-07 19:02:58,448 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:59,695 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:02:59,701 INFO   ADDED: how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi (4 chunks)
+2026-07-07 19:03:00,292 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:01,179 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:01,188 INFO   ADDED: how-to-run-optisigns-ai-add-on-on-start-up-in-windows (1 chunks)
+2026-07-07 19:03:01,874 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:02,708 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:02,719 INFO   ADDED: audience-intelligence-ai-camera-faqs (2 chunks)
+2026-07-07 19:03:03,472 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:04,515 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:04,536 INFO   ADDED: advanced-proof-of-play-or-playback-report (4 chunks)
+2026-07-07 19:03:05,009 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:05,859 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:05,864 INFO   ADDED: pre-configure-wi-fi-with-optisigns-devices (1 chunks)
+2026-07-07 19:03:06,588 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:07,557 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:07,566 INFO   ADDED: how-does-pre-configured-devices-labeled-in-shipping-package (1 chunks)
+2026-07-07 19:03:08,051 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:08,946 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:08,952 INFO   ADDED: advanced-how-to-install-activate-optisigns-remote-agent-on-windows (3 chunks)
+2026-07-07 19:03:09,595 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:10,480 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:10,490 INFO   ADDED: remotely-control-and-command-optisigns-devices (18 chunks)
+2026-07-07 19:03:11,187 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:12,126 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:12,136 INFO   ADDED: how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv (1 chunks)
+2026-07-07 19:03:12,824 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:13,624 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:13,629 INFO   ADDED: advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-raspberry-pi (5 chunks)
+2026-07-07 19:03:14,928 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:15,749 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:15,754 INFO   ADDED: how-to-use-usb-hub-adaptor-connect-to-your-fire-stick (1 chunks)
+2026-07-07 19:03:16,293 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:17,254 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:17,259 INFO   ADDED: how-to-change-time-zone-on-your-raspberry-pi-device (2 chunks)
+2026-07-07 19:03:17,919 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:18,824 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:18,835 INFO   ADDED: how-to-connect-to-wifi-for-raspberry-pi (2 chunks)
+2026-07-07 19:03:19,361 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:20,183 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:20,189 INFO   ADDED: optisigns-side-menu-options (7 chunks)
+2026-07-07 19:03:20,722 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:21,635 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:21,641 INFO   ADDED: how-to-factory-reset-your-fire-stick-device (2 chunks)
+2026-07-07 19:03:22,692 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:23,613 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:23,619 INFO   ADDED: how-to-clear-cache-on-your-fire-stick-device (2 chunks)
+2026-07-07 19:03:24,705 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:25,536 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:25,541 INFO   ADDED: how-to-change-time-zone-on-your-fire-stick-device (2 chunks)
+2026-07-07 19:03:26,090 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:27,174 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:27,179 INFO   ADDED: how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device (3 chunks)
+2026-07-07 19:03:27,730 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:28,622 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:28,628 INFO   ADDED: how-to-update-fire-tv-os-to-latest-version (1 chunks)
+2026-07-07 19:03:29,168 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:30,226 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:30,236 INFO   ADDED: how-to-set-up-an-instagram-business-creator-account (3 chunks)
+2026-07-07 19:03:30,903 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:31,843 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:31,849 INFO   ADDED: difference-between-instagram-instagram-business-app (1 chunks)
+2026-07-07 19:03:32,672 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:33,518 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:33,525 INFO   ADDED: how-to-use-overlay-layers-with-optisigns (1 chunks)
+2026-07-07 19:03:34,122 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:35,058 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:35,066 INFO   ADDED: edit-screen-what-does-each-option-do (11 chunks)
+2026-07-07 19:03:35,639 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:36,537 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:36,543 INFO   ADDED: whitelist-optisigns-ip-addresses-ports (1 chunks)
+2026-07-07 19:03:37,162 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:38,101 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:38,108 INFO   ADDED: amazon-fire-stick-and-security-considerations (4 chunks)
+2026-07-07 19:03:38,844 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:39,659 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:39,666 INFO   ADDED: advanced-security-managing-user-roles (7 chunks)
+2026-07-07 19:03:40,327 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:41,246 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:41,253 INFO   ADDED: there-s-no-sounds-output-for-my-raspberry-pi (1 chunks)
+2026-07-07 19:03:41,807 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:42,648 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:42,655 INFO   ADDED: folder-level-permissions (7 chunks)
+2026-07-07 19:03:43,136 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:44,124 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:44,134 INFO   ADDED: organizing-your-files-assets-playlists-and-schedules-by-using-folders (1 chunks)
+2026-07-07 19:03:44,597 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:45,542 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:45,551 INFO   ADDED: how-to-create-and-use-nested-playlists (2 chunks)
+2026-07-07 19:03:46,117 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:46,918 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:46,918 INFO   ADDED: how-to-set-an-asset-to-live-or-expire-at-specific-time (5 chunks)
+2026-07-07 19:03:47,384 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:48,316 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:48,316 INFO   ADDED: how-to-re-encode-video-files-for-better-compatibility-on-your-devices (1 chunks)
+2026-07-07 19:03:48,954 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:49,871 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:49,880 INFO   ADDED: roku-release-notes-limitation (1 chunks)
+2026-07-07 19:03:50,509 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:51,299 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:51,299 INFO   ADDED: how-to-change-billing-information (1 chunks)
+2026-07-07 19:03:51,876 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:52,758 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:52,767 INFO   ADDED: my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-pi-app-need-screen-calibration (1 chunks)
+2026-07-07 19:03:53,285 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:54,203 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:54,203 INFO   ADDED: assign-default-content-for-schedules (2 chunks)
+2026-07-07 19:03:54,700 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:55,533 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:55,551 INFO   ADDED: how-to-install-optisigns-as-channel-app-on-roku (3 chunks)
+2026-07-07 19:03:56,107 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:56,913 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:56,913 INFO   ADDED: video-codec-or-video-playback-issues (3 chunks)
+2026-07-07 19:03:57,547 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:58,568 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:03:58,577 INFO   ADDED: how-to-use-the-atlassian-jira-app (3 chunks)
+2026-07-07 19:03:59,120 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:00,062 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:00,074 INFO   ADDED: how-to-display-content-inside-websites-that-require-login (1 chunks)
+2026-07-07 19:04:00,744 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:01,858 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:01,858 INFO   ADDED: adjusting-social-news-wall-speeds (1 chunks)
+2026-07-07 19:04:03,091 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:03,893 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:03,893 INFO   ADDED: my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration (1 chunks)
+2026-07-07 19:04:04,395 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:05,372 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:05,372 INFO   ADDED: working-with-teams-and-security-levels (7 chunks)
+2026-07-07 19:04:05,890 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:06,864 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:06,864 INFO   ADDED: windows (3 chunks)
+2026-07-07 19:04:07,611 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:08,482 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:08,482 INFO   ADDED: powerpoint-transition-and-animation-effect (1 chunks)
+2026-07-07 19:04:08,995 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:10,117 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:10,134 INFO   ADDED: powerpoint-resolution-size-for-use-with-digital-signage (4 chunks)
+2026-07-07 19:04:10,767 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:11,622 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:11,635 INFO   ADDED: stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content (1 chunks)
+2026-07-07 19:04:12,146 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:13,443 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:13,443 INFO   ADDED: how-to-create-a-scrolling-strip-bars (1 chunks)
+2026-07-07 19:04:14,138 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:15,446 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:15,446 INFO   ADDED: how-to-create-and-use-the-split-screen-app (10 chunks)
+2026-07-07 19:04:16,302 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:17,185 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:17,185 INFO   ADDED: how-can-i-remove-delete-uploaded-files-or-assets (1 chunks)
+2026-07-07 19:04:18,125 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:19,355 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:19,355 INFO   ADDED: how-to-start-optisigns-automatically-when-devices-boot-up (1 chunks)
+2026-07-07 19:04:20,010 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:20,879 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:20,890 INFO   ADDED: can-i-disable-the-download-button-for-assets (1 chunks)
+2026-07-07 19:04:21,510 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:22,796 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:22,815 INFO   ADDED: how-to-install-an-apk-file-on-your-fire-tv (1 chunks)
+2026-07-07 19:04:24,297 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:25,522 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:25,538 INFO   ADDED: does-optisigns-offer-non-profit-education-discount (1 chunks)
+2026-07-07 19:04:26,742 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:28,002 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:28,008 INFO   ADDED: how-to-upload-manage-your-files-assets (10 chunks)
+2026-07-07 19:04:29,076 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:30,139 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:30,139 INFO   ADDED: what-types-of-files-are-supported (3 chunks)
+2026-07-07 19:04:31,174 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:33,659 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:33,659 INFO   ADDED: animation (9 chunks)
+2026-07-07 19:04:34,181 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:35,058 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:35,074 INFO   ADDED: proplayer (16 chunks)
+2026-07-07 19:04:35,596 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:36,798 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:36,814 INFO   ADDED: how-to-use-the-optisigns-mobile-admin-app (15 chunks)
+2026-07-07 19:04:38,178 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:39,063 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:39,063 INFO   ADDED: how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync (4 chunks)
+2026-07-07 19:04:39,586 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:40,398 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:40,405 INFO   ADDED: how-to-manage-and-edit-your-playlist-settings (11 chunks)
+2026-07-07 19:04:41,039 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:41,917 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:41,948 INFO   ADDED: how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3 (1 chunks)
+2026-07-07 19:04:43,085 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:44,030 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:44,042 INFO   ADDED: how-to-get-the-most-out-of-your-digital-signs (1 chunks)
+2026-07-07 19:04:44,763 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:45,654 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:45,669 INFO   ADDED: how-to-share-contents-with-other-users-teams (2 chunks)
+2026-07-07 19:04:46,938 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:48,264 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:48,280 INFO   ADDED: how-to-get-the-list-of-playlists-where-the-asset-is-used (2 chunks)
+2026-07-07 19:04:48,924 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:49,858 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:49,858 INFO   ADDED: generate-manage-optisigns-api-key (3 chunks)
+2026-07-07 19:04:50,802 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:51,712 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:51,712 INFO   ADDED: view-billing-history-and-download-receipts (1 chunks)
+2026-07-07 19:04:52,296 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:53,160 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:53,160 INFO   ADDED: how-to-link-instagram-business-or-creator-account-to-facebook-account (1 chunks)
+2026-07-07 19:04:54,148 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:55,499 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:55,505 INFO   ADDED: how-to-use-google-slides-with-optisigns (8 chunks)
+2026-07-07 19:04:56,019 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:56,968 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:56,968 INFO   ADDED: macos (4 chunks)
+2026-07-07 19:04:58,036 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:59,358 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:04:59,358 INFO   ADDED: how-to-preview-a-screen (1 chunks)
+2026-07-07 19:04:59,823 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:01,155 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:01,165 INFO   ADDED: how-to-use-a-pdf-with-optisigns (5 chunks)
+2026-07-07 19:05:01,733 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:02,667 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:02,673 INFO   ADDED: how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick (1 chunks)
+2026-07-07 19:05:03,156 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:05,197 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:05,204 INFO   ADDED: your-templates (4 chunks)
+2026-07-07 19:05:06,033 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:06,929 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:06,945 INFO   ADDED: promax (16 chunks)
+2026-07-07 19:05:07,421 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:08,301 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:08,308 INFO   ADDED: how-to-contact-optisigns-support (1 chunks)
+2026-07-07 19:05:08,812 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:09,664 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:09,671 INFO   ADDED: how-to-add-google-sheets-as-a-datasource-for-optisync (3 chunks)
+2026-07-07 19:05:10,444 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:11,330 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:11,343 INFO   ADDED: i-received-the-optisigns-device-but-it-s-onhold-and-cannot-assign-content (4 chunks)
+2026-07-07 19:05:11,845 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:12,689 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:12,696 INFO   ADDED: how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case (1 chunks)
+2026-07-07 19:05:13,179 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:14,059 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:14,067 INFO   ADDED: how-to-install-optisigns-player-on-apple-tv (4 chunks)
+2026-07-07 19:05:14,585 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:15,427 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:15,433 INFO   ADDED: get-started-with-optisigns-api (1 chunks)
+2026-07-07 19:05:15,953 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:16,873 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:16,885 INFO   ADDED: advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens (2 chunks)
+2026-07-07 19:05:17,506 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:18,387 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:18,393 INFO   ADDED: set-optisigns-as-screensaver-on-windows (2 chunks)
+2026-07-07 19:05:19,160 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:19,988 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:19,994 INFO   ADDED: show-youtube-video-s-subtitle-closed-caption (1 chunks)
+2026-07-07 19:05:20,785 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:21,597 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:21,605 INFO   ADDED: linux (8 chunks)
+2026-07-07 19:05:22,243 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:23,120 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:23,128 INFO   ADDED: changing-screen-s-orientation-portrait-landscape (1 chunks)
+2026-07-07 19:05:23,695 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:24,584 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:24,591 INFO   ADDED: how-can-i-remotely-start-restart-optisigns-app-on-fire-tv (1 chunks)
+2026-07-07 19:05:25,612 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:26,381 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:26,389 INFO   ADDED: how-to-create-and-use-instagram-wall (4 chunks)
+2026-07-07 19:05:26,945 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:27,850 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:27,857 INFO   ADDED: what-if-i-want-to-increase-decrease-number-of-screens-during-the-month (1 chunks)
+2026-07-07 19:05:28,358 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:29,292 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:29,300 INFO   ADDED: kiosk10 (11 chunks)
+2026-07-07 19:05:29,791 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:30,660 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:30,670 INFO   ADDED: widgets-in-designer (15 chunks)
+2026-07-07 19:05:31,162 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:31,999 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:32,016 INFO   ADDED: how-to-display-dynamic-event-schedules-using-optisync (12 chunks)
+2026-07-07 19:05:32,817 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:33,630 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:33,636 INFO   ADDED: how-to-fix-the-scaling-issue-on-optisigns-android-device (1 chunks)
+2026-07-07 19:05:34,271 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:35,134 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:35,141 INFO   ADDED: how-to-manage-sub-account-billing-with-optisigns (2 chunks)
+2026-07-07 19:05:36,157 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:36,971 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:36,979 INFO   ADDED: how-to-install-optisigns-on-samsung-tizen-smart-tvs (7 chunks)
+2026-07-07 19:05:37,500 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:38,391 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:38,399 INFO   ADDED: graphql-api-tutorial-pair-and-assign-content-to-screen (1 chunks)
+2026-07-07 19:05:39,224 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:40,032 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:40,040 INFO   ADDED: moderate-your-social-media-feeds (1 chunks)
+2026-07-07 19:05:41,090 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:42,016 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:42,024 INFO   ADDED: android-tv-chromecast (4 chunks)
+2026-07-07 19:05:42,809 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:43,820 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:43,827 INFO   ADDED: how-to-use-approval-workflow-feature (5 chunks)
+2026-07-07 19:05:44,463 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:45,405 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:45,412 INFO   ADDED: what-hardware-and-devices-are-supported (2 chunks)
+2026-07-07 19:05:45,930 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:46,768 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:46,774 INFO   ADDED: how-to-tell-which-dropbox-account-that-i-linked-to-optisigns (1 chunks)
+2026-07-07 19:05:47,398 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:48,204 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:48,212 INFO   ADDED: how-to-use-weather-apps-in-optisigns (12 chunks)
+2026-07-07 19:05:49,216 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:50,230 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:50,245 INFO   ADDED: assign-content-to-your-screens (3 chunks)
+2026-07-07 19:05:50,805 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:51,644 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:51,653 INFO   ADDED: kiosk32 (12 chunks)
+2026-07-07 19:05:52,196 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:53,012 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:53,021 INFO   ADDED: photos-gifs-and-qr-codes-in-designer (20 chunks)
+2026-07-07 19:05:53,799 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:54,617 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:54,626 INFO   ADDED: how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets (12 chunks)
+2026-07-07 19:05:55,126 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:55,920 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:55,928 INFO   ADDED: display-device-info-onscreen (6 chunks)
+2026-07-07 19:05:56,806 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:57,703 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:57,714 INFO   ADDED: present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-add-on (3 chunks)
+2026-07-07 19:05:58,187 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:59,077 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:05:59,084 INFO   ADDED: tutorial-create-update-add-remove-items-from-playlists (2 chunks)
+2026-07-07 19:06:00,184 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:01,124 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:01,131 INFO   ADDED: multilingual-and-multi-currency (1 chunks)
+2026-07-07 19:06:02,069 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:02,984 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:02,999 INFO   ADDED: how-to-install-optisigns-player-on-android-boxes (4 chunks)
+2026-07-07 19:06:03,618 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:04,474 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:04,487 INFO   ADDED: raspberry-pi (12 chunks)
+2026-07-07 19:06:05,131 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:06,090 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:06,097 INFO   ADDED: multi-users-invite-your-team-members-to-your-account (1 chunks)
+2026-07-07 19:06:07,145 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:08,198 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:08,213 INFO   ADDED: set-up-add-a-screen (2 chunks)
+2026-07-07 19:06:08,859 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:09,747 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:09,760 INFO   ADDED: kiosk50 (11 chunks)
+2026-07-07 19:06:10,289 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:11,248 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:11,267 INFO   ADDED: customize-text (16 chunks)
+2026-07-07 19:06:11,841 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:12,913 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:12,920 INFO   ADDED: tutorial-creating-or-updating-website-assets-using-graphql (1 chunks)
+2026-07-07 19:06:13,552 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:14,524 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:14,535 INFO   ADDED: how-to-create-custom-news-feeds-with-optisync (10 chunks)
+2026-07-07 19:06:15,125 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:15,999 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:16,007 INFO   ADDED: amazon-signage-stick (4 chunks)
+2026-07-07 19:06:17,037 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:17,942 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:17,959 INFO   ADDED: how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing (6 chunks)
+2026-07-07 19:06:18,649 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:19,715 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:19,726 INFO   ADDED: how-to-change-account-owners (4 chunks)
+2026-07-07 19:06:20,223 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:21,242 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:21,250 INFO   ADDED: how-to-install-optisigns-as-an-apk-file-on-android-devices (8 chunks)
+2026-07-07 19:06:21,822 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:22,676 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:22,686 INFO   ADDED: how-to-unpair-a-device-screen (1 chunks)
+2026-07-07 19:06:23,404 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:24,299 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:24,307 INFO   ADDED: how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls (1 chunks)
+2026-07-07 19:06:24,984 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:26,007 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:26,014 INFO   ADDED: how-to-use-imovie-content-with-optisigns (1 chunks)
+2026-07-07 19:06:26,611 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:27,749 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:27,758 INFO   ADDED: legacy-datasources (6 chunks)
+2026-07-07 19:06:28,351 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:29,210 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:29,220 INFO   ADDED: shapes-and-elements (14 chunks)
+2026-07-07 19:06:29,980 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:30,839 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:30,847 INFO   ADDED: tutorial-creating-schedules-and-adding-schedule-items-using-graphql (2 chunks)
+2026-07-07 19:06:31,397 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:32,360 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:32,370 INFO   ADDED: optisigns-pro-player-advanced-features (13 chunks)
+2026-07-07 19:06:33,040 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:33,900 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:33,907 INFO   ADDED: how-to-add-captions-to-vimeo-videos (1 chunks)
+2026-07-07 19:06:34,388 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:35,283 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:35,291 INFO   ADDED: present-share-your-screen-with-optisigns-aericast-add-on (3 chunks)
+2026-07-07 19:06:35,981 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:36,868 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:36,876 INFO   ADDED: how-to-delete-your-account-from-optisigns (2 chunks)
+2026-07-07 19:06:37,578 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:38,604 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:38,622 INFO   ADDED: amazon-firestick (5 chunks)
+2026-07-07 19:06:39,254 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:40,113 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:40,123 INFO   ADDED: kiosk-setup-hub (4 chunks)
+2026-07-07 19:06:40,824 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:41,702 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:41,710 INFO   ADDED: brand-kit-and-enforcing-brand-guidelines (7 chunks)
+2026-07-07 19:06:42,358 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:43,226 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:43,242 INFO   ADDED: update-optisigns-player-on-optisigns-pro-player-gen-2-via-script (2 chunks)
+2026-07-07 19:06:43,775 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:44,646 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:44,646 INFO   ADDED: how-to-use-the-musthavemenus-app-with-optisigns (3 chunks)
+2026-07-07 19:06:45,383 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:46,280 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:46,280 INFO   ADDED: pagination (1 chunks)
+2026-07-07 19:06:47,382 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:48,298 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:48,298 INFO   ADDED: how-to-replace-update-an-existing-asset-image-video-documents (1 chunks)
+2026-07-07 19:06:48,765 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:49,653 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:49,674 INFO   ADDED: fireos-tvs-amazon-insigna-toshiba-tcl (4 chunks)
+2026-07-07 19:06:50,414 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:51,354 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:51,354 INFO   ADDED: about-the-onhold-devices-folder (6 chunks)
+2026-07-07 19:06:51,882 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:52,940 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:52,944 INFO   ADDED: creating-and-using-schedules-with-optisigns (10 chunks)
+2026-07-07 19:06:53,561 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:54,446 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:54,462 INFO   ADDED: why-does-my-screen-show-as-offline-on-the-web-portal (2 chunks)
+2026-07-07 19:06:55,013 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:55,897 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:55,927 INFO   ADDED: where-to-buy-optisigns-devices (5 chunks)
+2026-07-07 19:06:56,415 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:57,316 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:57,316 INFO   ADDED: how-to-use-waitwhile-app (2 chunks)
+2026-07-07 19:06:57,834 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:59,018 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:06:59,018 INFO   ADDED: brightsign-players (6 chunks)
+2026-07-07 19:06:59,666 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:00,571 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:00,581 INFO   ADDED: error-handling (1 chunks)
+2026-07-07 19:07:01,354 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:02,204 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:02,204 INFO   ADDED: how-can-i-improve-stability-of-fire-tv-as-digital-signage-player (1 chunks)
+2026-07-07 19:07:02,858 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:03,690 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:03,690 INFO   ADDED: can-i-have-my-invoices-receipts-sent-to-a-different-email-address (1 chunks)
+2026-07-07 19:07:04,214 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:05,046 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:05,046 INFO   ADDED: subscription-function-in-graphql (3 chunks)
+2026-07-07 19:07:05,733 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:06,609 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:06,609 INFO   ADDED: how-to-display-google-slide-in-portrait-mode (1 chunks)
+2026-07-07 19:07:07,305 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:08,227 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:08,227 INFO   ADDED: what-happen-if-internet-connection-is-lost (3 chunks)
+2026-07-07 19:07:08,932 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:09,864 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:09,864 INFO   ADDED: web-browser-as-optisigns-player (1 chunks)
+2026-07-07 19:07:10,517 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:11,382 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:11,388 INFO   ADDED: setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade (8 chunks)
+2026-07-07 19:07:12,089 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:13,383 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:13,404 INFO   ADDED: how-to-use-monday-com-app (1 chunks)
+2026-07-07 19:07:14,200 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:15,132 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:15,147 INFO   ADDED: api-reference (1 chunks)
+2026-07-07 19:07:15,818 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:16,779 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:16,788 INFO   ADDED: how-to-export-high-resolution-canvas-template-designs (1 chunks)
+2026-07-07 19:07:17,698 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:18,546 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:18,554 INFO   ADDED: show-offline-indicator-feature (1 chunks)
+2026-07-07 19:07:19,096 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:20,110 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:20,128 INFO   ADDED: how-to-use-website-screenshot-app (2 chunks)
+2026-07-07 19:07:20,824 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:21,626 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:21,640 INFO   ADDED: lg-webos-signage-commercial-grade (3 chunks)
+2026-07-07 19:07:22,178 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:23,001 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:23,012 INFO   ADDED: is-there-storage-limit-for-my-account (1 chunks)
+2026-07-07 19:07:23,641 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:24,626 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:24,643 INFO   ADDED: show-hide-offline-indicator-on-your-player (1 chunks)
+2026-07-07 19:07:25,163 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:26,040 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:26,047 INFO   ADDED: how-to-use-airtable-with-optisigns (3 chunks)
+2026-07-07 19:07:26,631 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:27,487 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:27,494 INFO   ADDED: how-to-clean-data-on-the-optisigns-android-stick (1 chunks)
+2026-07-07 19:07:28,028 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:28,932 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:28,940 INFO   ADDED: use-your-mac-windows-device-as-a-test-screen (1 chunks)
+2026-07-07 19:07:29,705 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:30,576 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:30,584 INFO   ADDED: how-do-i-suggest-new-features-improvement (1 chunks)
+2026-07-07 19:07:31,252 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:32,262 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:32,906 INFO   ADDED: how-to-use-the-qr-scan-to-interact-touchless-qr-app (54 chunks)
+2026-07-07 19:07:33,367 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:34,310 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:34,318 INFO   ADDED: how-to-display-smartsheet-report-on-optisigns (3 chunks)
+2026-07-07 19:07:34,863 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:35,682 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:35,690 INFO   ADDED: how-to-use-the-video-stream-app (3 chunks)
+2026-07-07 19:07:36,226 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:37,007 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:37,015 INFO   ADDED: how-to-use-rtsp-streams-on-optisigns-devices (3 chunks)
+2026-07-07 19:07:37,745 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:38,684 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:38,692 INFO   ADDED: how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns (4 chunks)
+2026-07-07 19:07:39,213 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:40,099 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:40,107 INFO   ADDED: how-to-use-the-weather-alert-app (2 chunks)
+2026-07-07 19:07:40,614 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:41,450 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:41,461 INFO   ADDED: how-to-use-the-cap-alert-app (9 chunks)
+2026-07-07 19:07:41,953 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:44,328 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:44,337 INFO   ADDED: how-to-use-matterport-app (2 chunks)
+2026-07-07 19:07:44,829 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:45,662 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:45,670 INFO   ADDED: how-to-use-optisigns-screen-capture-app (6 chunks)
+2026-07-07 19:07:46,175 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:47,103 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:47,119 INFO   ADDED: how-to-use-advanced-website-app (3 chunks)
+2026-07-07 19:07:47,689 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:48,555 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:48,572 INFO   ADDED: how-to-use-notion-app (2 chunks)
+2026-07-07 19:07:49,169 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:50,021 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:50,024 INFO   ADDED: how-to-use-microsoft-excel-online-with-optisigns (4 chunks)
+2026-07-07 19:07:50,554 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:51,415 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:51,430 INFO   ADDED: how-to-display-microsoft-teams-on-optisigns (4 chunks)
+2026-07-07 19:07:51,913 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:52,756 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:52,756 INFO   ADDED: displaying-sharepoint-sites-on-optisigns (6 chunks)
+2026-07-07 19:07:53,305 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:54,156 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:54,156 INFO   ADDED: how-to-use-microsoft-powerpoint-with-optisigns (11 chunks)
+2026-07-07 19:07:54,821 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:55,720 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:55,720 INFO   ADDED: how-to-use-microsoft-teams-live-app-with-optisigns (1 chunks)
+2026-07-07 19:07:56,285 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:57,148 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:57,164 INFO   ADDED: how-to-use-livestream-com-app (3 chunks)
+2026-07-07 19:07:57,717 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:58,611 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:58,618 INFO   ADDED: how-to-use-the-emergency-feed-app (6 chunks)
+2026-07-07 19:07:59,147 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:59,983 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:07:59,983 INFO   ADDED: how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-android-player (1 chunks)
+2026-07-07 19:08:00,621 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:01,542 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:01,559 INFO   ADDED: how-to-use-mrss-feeds-with-optisigns (3 chunks)
+2026-07-07 19:08:02,196 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:03,069 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:03,069 INFO   ADDED: how-to-use-calendar-mix-app (3 chunks)
+2026-07-07 19:08:03,626 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:04,559 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:04,559 INFO   ADDED: how-to-use-slack-app (6 chunks)
+2026-07-07 19:08:05,161 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:06,052 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:06,061 INFO   ADDED: how-to-use-the-microsoft-meeting-room-app (7 chunks)
+2026-07-07 19:08:06,865 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:07,698 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:07,713 INFO   ADDED: how-to-use-linkedin-app (4 chunks)
+2026-07-07 19:08:08,401 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:09,284 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:09,291 INFO   ADDED: how-to-use-microsoft-teams-meeting-app-with-optisigns (1 chunks)
+2026-07-07 19:08:10,522 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:11,322 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:11,343 INFO   ADDED: how-to-use-the-social-mix-app (3 chunks)
+2026-07-07 19:08:11,845 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:12,755 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:12,774 INFO   ADDED: how-to-use-the-cbc-news-app (4 chunks)
+2026-07-07 19:08:13,773 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:14,757 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:14,757 INFO   ADDED: how-to-use-on-this-day-app (3 chunks)
+2026-07-07 19:08:15,222 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:16,074 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:16,090 INFO   ADDED: how-to-use-the-taggbox-display-app-with-optisigns (3 chunks)
+2026-07-07 19:08:16,644 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:17,508 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:17,526 INFO   ADDED: how-to-use-the-mindmeister-app (3 chunks)
+2026-07-07 19:08:18,281 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:19,096 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:19,111 INFO   ADDED: how-to-best-use-canva-with-optisigns (7 chunks)
+2026-07-07 19:08:19,747 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:20,606 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:20,606 INFO   ADDED: how-to-use-asana-app (1 chunks)
+2026-07-07 19:08:21,284 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:22,118 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:22,118 INFO   ADDED: how-to-use-youtube-live-with-optisigns (1 chunks)
+2026-07-07 19:08:22,865 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:23,733 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:23,751 INFO   ADDED: how-to-use-hdmi-other-video-input-sources-in-with-optisigns (4 chunks)
+2026-07-07 19:08:24,268 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:25,097 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:25,097 INFO   ADDED: how-to-use-the-local-folder-app-in-optisigns (7 chunks)
+2026-07-07 19:08:25,632 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:26,472 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:26,502 INFO   ADDED: how-to-use-youtube-live-schedule-with-optisigns (6 chunks)
+2026-07-07 19:08:26,972 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:27,818 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:27,832 INFO   ADDED: how-to-use-youtube-channel-with-optisigns (3 chunks)
+2026-07-07 19:08:28,607 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:29,424 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:29,424 INFO   ADDED: how-to-put-zendesk-dashboard-on-your-signs (3 chunks)
+2026-07-07 19:08:29,976 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:30,865 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:30,897 INFO   ADDED: how-to-use-google-docs-with-optisigns (5 chunks)
+2026-07-07 19:08:31,965 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:32,847 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:32,867 INFO   ADDED: how-to-use-google-sheets-with-optisigns (5 chunks)
+2026-07-07 19:08:33,347 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:34,201 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:34,217 INFO   ADDED: how-to-use-scrolling-website-app (3 chunks)
+2026-07-07 19:08:34,767 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:35,669 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:35,692 INFO   ADDED: how-to-create-and-use-virtual-screen-app (3 chunks)
+2026-07-07 19:08:36,352 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:37,171 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:37,186 INFO   ADDED: how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app (4 chunks)
+2026-07-07 19:08:37,718 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:38,569 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:38,579 INFO   ADDED: how-to-use-the-flash-message-app (5 chunks)
+2026-07-07 19:08:39,398 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:40,224 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:40,234 INFO   ADDED: how-to-use-emergency-message-alert-app (5 chunks)
+2026-07-07 19:08:40,882 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:41,720 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:41,728 INFO   ADDED: how-to-use-the-data-studio-app (5 chunks)
+2026-07-07 19:08:42,209 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:43,076 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:43,085 INFO   ADDED: how-to-use-facebook-recommendations-app (3 chunks)
+2026-07-07 19:08:43,603 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:44,481 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:44,490 INFO   ADDED: how-to-use-instagram-business-app (4 chunks)
+2026-07-07 19:08:44,973 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:45,791 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:45,799 INFO   ADDED: how-to-use-trello-app (1 chunks)
+2026-07-07 19:08:47,455 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:48,289 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:48,303 INFO   ADDED: how-to-use-youtube-with-optisigns (3 chunks)
+2026-07-07 19:08:48,839 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:49,701 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:49,719 INFO   ADDED: how-to-use-follow-us-app (3 chunks)
+2026-07-07 19:08:50,253 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:51,218 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:51,226 INFO   ADDED: how-to-use-facebook-video-app (3 chunks)
+2026-07-07 19:08:51,755 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:52,602 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:52,611 INFO   ADDED: how-to-use-dropbox-app (3 chunks)
+2026-07-07 19:08:53,107 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:53,945 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:53,954 INFO   ADDED: how-to-use-the-onedrive-app (4 chunks)
+2026-07-07 19:08:54,593 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:55,538 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:55,546 INFO   ADDED: how-to-use-google-trends-app (3 chunks)
+2026-07-07 19:08:56,244 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:57,130 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:57,139 INFO   ADDED: how-to-use-walls-io-app (3 chunks)
+2026-07-07 19:08:58,278 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:59,127 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:08:59,136 INFO   ADDED: how-to-use-currency-exchange-app (3 chunks)
+2026-07-07 19:08:59,789 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:00,645 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:00,654 INFO   ADDED: how-to-use-crypto-index-crypto-exchange-app (3 chunks)
+2026-07-07 19:09:01,124 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:01,962 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:01,971 INFO   ADDED: how-to-use-market-index-app (3 chunks)
+2026-07-07 19:09:02,521 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:03,349 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:03,372 INFO   ADDED: how-to-use-google-drive-app (3 chunks)
+2026-07-07 19:09:03,925 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:04,850 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:04,859 INFO   ADDED: how-to-use-the-motivational-quote-app (2 chunks)
+2026-07-07 19:09:05,529 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:06,473 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:06,482 INFO   ADDED: how-to-use-facebook-live-stream-app (4 chunks)
+2026-07-07 19:09:06,955 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:07,755 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:07,768 INFO   ADDED: how-to-use-instagram-counter-app (3 chunks)
+2026-07-07 19:09:08,473 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:09,358 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:09,367 INFO   ADDED: how-to-use-google-traffic-app (3 chunks)
+2026-07-07 19:09:09,869 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:10,744 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:10,760 INFO   ADDED: how-to-use-twitch-app (3 chunks)
+2026-07-07 19:09:11,285 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:12,186 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:12,195 INFO   ADDED: how-to-use-the-facebook-counter-app (5 chunks)
+2026-07-07 19:09:12,703 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:13,570 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:13,583 INFO   ADDED: how-to-use-the-new-york-times-app (4 chunks)
+2026-07-07 19:09:14,073 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:15,158 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:15,175 INFO   ADDED: how-to-use-the-guardian-app (4 chunks)
+2026-07-07 19:09:16,000 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:16,929 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:16,945 INFO   ADDED: how-to-use-the-wall-street-journal-app (4 chunks)
+2026-07-07 19:09:17,464 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:18,405 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:18,415 INFO   ADDED: how-to-use-the-stock-app (7 chunks)
+2026-07-07 19:09:18,996 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:19,897 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:19,906 INFO   ADDED: how-to-use-the-simple-clock-app (6 chunks)
+2026-07-07 19:09:20,427 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:21,271 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:21,280 INFO   ADDED: how-to-use-world-clock-app (3 chunks)
+2026-07-07 19:09:21,828 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:22,650 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:22,660 INFO   ADDED: how-to-use-the-countup-app (6 chunks)
+2026-07-07 19:09:23,185 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:24,026 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:24,044 INFO   ADDED: how-to-use-the-countdown-app (6 chunks)
+2026-07-07 19:09:24,578 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:25,394 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:25,403 INFO   ADDED: how-to-use-simple-calendar-app (3 chunks)
+2026-07-07 19:09:25,952 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:26,840 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:26,850 INFO   ADDED: how-to-use-the-techcrunch-news-app (4 chunks)
+2026-07-07 19:09:27,385 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:28,298 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:28,308 INFO   ADDED: how-to-use-the-espn-news-app (4 chunks)
+2026-07-07 19:09:29,080 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:29,975 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:29,985 INFO   ADDED: how-to-use-the-cnn-news-app (4 chunks)
+2026-07-07 19:09:30,947 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:31,810 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:31,820 INFO   ADDED: how-to-create-and-use-qr-code-call-to-action-app (3 chunks)
+2026-07-07 19:09:32,309 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:33,269 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:33,286 INFO   ADDED: how-to-create-and-use-yelp-reviews-wall (3 chunks)
+2026-07-07 19:09:33,794 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:34,695 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:34,705 INFO   ADDED: how-to-create-and-use-google-reviews-wall (3 chunks)
+2026-07-07 19:09:35,455 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:36,349 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:36,360 INFO   ADDED: how-to-use-microsoft-outlook-calendar-with-optisigns (7 chunks)
+2026-07-07 19:09:37,112 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:37,954 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:37,964 INFO   ADDED: how-to-use-rss-feeds-with-optisigns (3 chunks)
+2026-07-07 19:09:38,519 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:39,519 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:39,528 INFO   ADDED: how-to-use-embed-app (1 chunks)
+2026-07-07 19:09:40,047 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:40,940 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:40,954 INFO   ADDED: how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns (15 chunks)
+2026-07-07 19:09:41,785 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:42,618 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:42,629 INFO   ADDED: how-to-use-the-facebook-page-app (6 chunks)
+2026-07-07 19:09:43,093 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:44,053 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:44,069 INFO   ADDED: how-to-use-published-google-slides-with-optisigns-old-way (4 chunks)
+2026-07-07 19:09:44,714 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:45,548 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:45,563 INFO   ADDED: how-to-use-the-news-app (4 chunks)
+2026-07-07 19:09:46,202 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:47,087 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:47,088 INFO   ADDED: how-to-use-google-calendar-with-optisigns (5 chunks)
+2026-07-07 19:09:47,790 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:48,774 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:48,778 INFO   ADDED: how-to-add-use-vimeo-video-with-optisigns (1 chunks)
+2026-07-07 19:09:49,447 INFO HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:50,372 INFO HTTP Request: POST https://api.openai.com/v1/vector_stores/vs_6a4cea08235881918f7e9c6e07abe5b3/files "HTTP/1.1 200 OK"
+2026-07-07 19:09:50,377 INFO   ADDED: how-to-use-the-website-app-and-display-urls-on-optisigns (5 chunks)
+2026-07-07 19:09:50,377 INFO Step 3/4 � ensuring assistant ...
+2026-07-07 19:09:51,653 INFO HTTP Request: POST https://api.openai.com/v1/assistants "HTTP/1.1 200 OK"
+2026-07-07 19:09:51,659 INFO Created assistant asst_d1W7wMbRTTsWrdnZ9MHfGx93
+2026-07-07 19:09:51,669 INFO Embedded 405 files, ~1829 chunks this run (local estimate)
+2026-07-07 19:09:51,669 INFO Step 4/4 � sanity check ...
+2026-07-07 19:09:51,669 INFO Sanity check: 'How do I add a YouTube video?'
+2026-07-07 19:09:52,062 INFO HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2026-07-07 19:09:52,517 INFO HTTP Request: POST https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/messages "HTTP/1.1 200 OK"
+2026-07-07 19:09:53,589 INFO HTTP Request: POST https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/runs "HTTP/1.1 200 OK"
+2026-07-07 19:09:54,018 INFO HTTP Request: GET https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/runs/run_mKIymapSFj0e6plKUIUyHngg "HTTP/1.1 200 OK"
+2026-07-07 19:09:55,476 INFO HTTP Request: GET https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/runs/run_mKIymapSFj0e6plKUIUyHngg "HTTP/1.1 200 OK"
+2026-07-07 19:09:56,878 INFO HTTP Request: GET https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/runs/run_mKIymapSFj0e6plKUIUyHngg "HTTP/1.1 200 OK"
+2026-07-07 19:09:58,300 INFO HTTP Request: GET https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/runs/run_mKIymapSFj0e6plKUIUyHngg "HTTP/1.1 200 OK"
+2026-07-07 19:09:59,749 INFO HTTP Request: GET https://api.openai.com/v1/threads/thread_xW3vI52b3J7wyTYcMOUeP9aX/runs/run_mKIymapSFj0e6plKUIUyHngg "HTTP/1.1 200 OK"
+2026-07-07 19:09:59,749 ERROR Sanity check run ended with status: failed
+
+Added: 405, Updated: 0, Skipped: 0

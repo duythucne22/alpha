@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "name": "daily-sync",
+      "schedule": "0 0 * * *",
+      "command": "python main.py"
+    }
+  ]
+}
